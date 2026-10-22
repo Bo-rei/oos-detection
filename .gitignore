@@ -20,4 +20,13 @@ venv/
 *.npz
 *.parquet
 *.log
-/data/stackoverflow/
+/data/*
+!/data/README.md
+*.tex
+*.bib
+*.pdf
+*.docx
+*.so
+*.o
+*.a
+build/

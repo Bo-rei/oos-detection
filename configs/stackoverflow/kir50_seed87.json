@@ -1,0 +1,44 @@
+{
+  "dataset": "stackoverflow",
+  "kir": 0.5,
+  "seed": 87,
+  "schedule": "historical",
+  "recipe": {
+    "layers": 2,
+    "projection": 256,
+    "projection_enabled": true,
+    "temperature": 0.07,
+    "intra": 0.1,
+    "inter": 0.1,
+    "margin": 0.2,
+    "lr": 2e-05,
+    "projection_lr": 0.0002,
+    "epochs": 4,
+    "warmup_epochs": 1,
+    "finetune_epochs": 3,
+    "patience": 1
+  },
+  "geometry": {
+    "k": 1,
+    "distance": "euclidean",
+    "boundary": "mean_std_1.5",
+    "rule": "normalized_union",
+    "fusion_weight": 0.0,
+    "threshold": 0.9
+  },
+  "known_intents": [
+    "apache",
+    "excel",
+    "linq",
+    "matlab",
+    "osx",
+    "qt",
+    "scala",
+    "sharepoint",
+    "spring",
+    "visual-studio"
+  ],
+  "data_view": "historical_v19",
+  "selection": "Known-only validation",
+  "test_used_for_selection": false
+}

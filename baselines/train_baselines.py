@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Run a principal baseline on the canonical S2C v19 split.
+"""Run a principal TEXTOIR baseline on the canonical S2C v19 split.
 
 This adapter does not select known intents randomly and never reads
-It feeds the v19 gate train/val/test JSON directly into the existing managers
-while retaining their original BERT-based method implementations.
+``textoir/data``.  It feeds the v19 gate train/val/test JSON directly into the
+existing TEXTOIR managers while retaining their original BERT-based method
+implementations.
 """
 
 from __future__ import annotations
@@ -102,7 +103,7 @@ def _args(method: str, model_root: Path, output_root: Path, seed: int, epochs: i
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--method", choices=METHODS, required=True)
-    parser.add_argument("--dataset", choices=("clinc150", "banking77", "stackoverflow"), default="stackoverflow")
+    parser.add_argument("--dataset", choices=("clinc150", "banking77_oos", "stackoverflow"), default="stackoverflow")
     parser.add_argument("--kir", choices=(0.25, 0.50, 0.75), type=float, default=0.50)
     parser.add_argument("--seed", choices=(13, 42, 87), type=int, default=42)
     parser.add_argument("--data-root", type=Path, required=True)

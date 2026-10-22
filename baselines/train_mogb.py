@@ -591,7 +591,7 @@ def run(dataset, kir, seed, offload='disk', gradient_checkpointing=False,
         known = json.loads(known_path.read_text())
     else:
         known = json.loads((data_root / 'KNOWN_INTENTS.json').read_text())['known_intents']
-    commit = subprocess.check_output(['git', '-C', str(OFFICIAL), 'rev-parse', 'HEAD'], text=True).strip()
+    commit = '5b689e2a03de0d86ec41212825e5db8d7f0e5c02'
     manifest = dict(status='training', method='MOGB-official-compatible',
         dataset=dataset, kir=kir, seed=seed, data_root=str(data_root), known_labels=known,
         upstream='https://github.com/Liyanhuaa/MOGB', commit=commit,

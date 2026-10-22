@@ -21,7 +21,6 @@ from typing import Dict, List, Tuple, Optional
 from dataclasses import dataclass
 from sklearn.cluster import KMeans
 from sklearn.metrics import silhouette_score
-from sentence_transformers import SentenceTransformer
 import logging
 
 logger = logging.getLogger(__name__)
@@ -35,8 +34,8 @@ class SphereConfig:
     cluster_id: int
     intent_name: Optional[str] = None
     inv_diag_cov: Optional[np.ndarray] = None
-    
-    
+
+
 @dataclass
 class DetectorMetrics:
     """检测器指标"""
@@ -44,24 +43,24 @@ class DetectorMetrics:
     oos_rejection: float
     f1_like: float
     threshold_or_quantile: float
-    
+
 
 class MultiSphereOOSDetector:
     """
     多中心超球OOS检测器
-    
+
     核心思想：
     - 用K个超球覆盖ID支持集（而非单球）
     - 每个球的半径用分位数而非max避免离群点
     - 判决：到最近球心的距离 ≤ 该球半径 → ID
-    
+
     参数：
         n_clusters: 簇数（默认等于意图数，可增加以降低簇内半径）
         radius_quantile: 半径分位数（0.90-0.98），Val上调优
         radius_method: 'quantile'（推荐） or 'mean_std'
         random_state: 随机种子
     """
-    
+
     def __init__(
         self,
         n_clusters: Optional[int] = None,
@@ -75,7 +74,8 @@ class MultiSphereOOSDetector:
         l2_normalize: bool = False,
         subcenters_per_intent: int = 1,
         subcenters_overrides: Optional[Dict[str, int]] = None,
-        random_state: int = 42
+        random_state: int = 42,
+        acceptance_mode: str = "nearest_sphere",
     ):
         self.n_clusters = n_clusters
         self.radius_quantile = radius_quantile
@@ -92,7 +92,17 @@ class MultiSphereOOSDetector:
             for k, v in (subcenters_overrides or {}).items()
         }
         self.random_state = random_state
-        
+        if acceptance_mode not in {"nearest_sphere", "normalized_union"}:
+            raise ValueError(
+                "acceptance_mode must be 'nearest_sphere' or 'normalized_union': "
+                f"{acceptance_mode}"
+            )
+        # ``nearest_sphere`` preserves the historical protocol_v2 contract.
+        # ``normalized_union`` is opt-in because changing it would invalidate
+        # the frozen E2/E3 artifacts.  The latter accepts a sample when any
+        # sphere contains it and reports the minimum distance/radius ratio.
+        self.acceptance_mode = acceptance_mode
+
         self.kmeans = None
         self.spheres: List[SphereConfig] = []
         self.intent_to_cluster: Dict[str, int] = {}
@@ -112,7 +122,7 @@ class MultiSphereOOSDetector:
         norms = np.linalg.norm(x, axis=1, keepdims=True)
         norms = np.clip(norms, 1e-12, None)
         return x / norms
-        
+
     def fit(
         self,
         train_embeddings: np.ndarray,
@@ -120,7 +130,7 @@ class MultiSphereOOSDetector:
     ):
         """
         训练K-means并计算超球半径
-        
+
         Args:
             train_embeddings: (N, D) 训练集编码
             train_intents: (N,) 意图标签
@@ -132,6 +142,7 @@ class MultiSphereOOSDetector:
             unique_intents = sorted(np.unique(train_intents).tolist())
             self.n_clusters = len(unique_intents)
 
+            logger.info(f"Training class-centroid detector with {self.n_clusters} intents...")
 
             self.intent_to_cluster = {intent: idx for idx, intent in enumerate(unique_intents)}
             self.cluster_to_intent = {idx: intent for intent, idx in self.intent_to_cluster.items()}
@@ -155,6 +166,11 @@ class MultiSphereOOSDetector:
         elif self.center_mode == 'class_centroid_mixture':
             unique_intents = sorted(np.unique(train_intents).tolist())
 
+            logger.info(
+                "Training class-centroid-mixture detector with %d intents, %d subcenters/intent...",
+                len(unique_intents),
+                self.subcenters_per_intent,
+            )
 
             global_centers: List[np.ndarray] = []
             cluster_labels = np.zeros((train_embeddings.shape[0],), dtype=np.int64)
@@ -211,6 +227,7 @@ class MultiSphereOOSDetector:
             if self.n_clusters is None:
                 self.n_clusters = len(np.unique(train_intents))
 
+            logger.info(f"Training K-means with {self.n_clusters} clusters...")
 
             self.kmeans = KMeans(
                 n_clusters=self.n_clusters,
@@ -220,6 +237,7 @@ class MultiSphereOOSDetector:
             cluster_labels = self.kmeans.fit_predict(train_embeddings)
 
             silhouette_avg = silhouette_score(train_embeddings, cluster_labels)
+            logger.info(f"K-means Silhouette Score: {silhouette_avg:.4f}")
 
             self._build_intent_mapping(train_intents, cluster_labels)
         else:
@@ -229,12 +247,15 @@ class MultiSphereOOSDetector:
         self._train_cluster_labels = cluster_labels
 
         self._compute_radii(train_embeddings, cluster_labels)
-        
+
         self.fitted = True
-        
+        logger.info(f"Fitted {len(self.spheres)} hyperspheres")
+
         # 输出半径统计
         radii = [s.radius for s in self.spheres]
-        
+        logger.info(f"Radius stats: mean={np.mean(radii):.4f}, "
+                   f"max={np.max(radii):.4f}, min={np.min(radii):.4f}")
+
     def _build_intent_mapping(self, intents: np.ndarray, cluster_labels: np.ndarray):
         """建立意图到簇的映射（多数投票）"""
         unique_intents = np.unique(intents)
@@ -246,7 +267,7 @@ class MultiSphereOOSDetector:
             self.intent_to_cluster[intent] = int(most_common_cluster)
             self.intent_to_clusters[intent] = sorted(np.unique(clusters_for_intent).tolist())
         self.cluster_to_intent = {v: k for k, v in self.intent_to_cluster.items()}
-            
+
     def _compute_sphere_radii(
         self,
         embeddings: np.ndarray,
@@ -274,15 +295,15 @@ class MultiSphereOOSDetector:
         cluster_labels = np.asarray(cluster_labels)
 
         self.spheres = []
-        
+
         for cluster_id in range(self.n_clusters):
             mask = cluster_labels == cluster_id
             cluster_points = embeddings[mask]
-            
+
             if len(cluster_points) == 0:
                 logger.warning(f"Cluster {cluster_id} is empty, skipping")
                 continue
-            
+
             center = self.kmeans.cluster_centers_[cluster_id]
             diff = cluster_points - center
 
@@ -295,7 +316,7 @@ class MultiSphereOOSDetector:
                 distances = np.linalg.norm(diff, axis=1)
             else:
                 raise ValueError(f"Unknown distance_metric: {self.distance_metric}")
-            
+
             # 根据方法计算半径
             if self.radius_method == 'quantile':
                 radius = float(np.quantile(distances, self.radius_quantile))
@@ -303,7 +324,7 @@ class MultiSphereOOSDetector:
                 radius = float(distances.mean() + self.radius_lambda * distances.std())
             else:
                 raise ValueError(f"Unknown radius_method: {self.radius_method}")
-            
+
             self.spheres.append(SphereConfig(
                 center=center,
                 radius=radius,
@@ -321,7 +342,7 @@ class MultiSphereOOSDetector:
         return float(np.linalg.norm(diff))
 
     def _nearest_sphere_stats(self, emb: np.ndarray) -> Dict[str, float]:
-        """Return nearest-sphere distance/radius/score statistics for one embedding."""
+        """Return score statistics under the explicitly selected acceptance contract."""
         distances_to_centers = [
             self._distance(emb, sphere)
             for sphere in self.spheres
@@ -329,7 +350,20 @@ class MultiSphereOOSDetector:
         nearest_idx = int(np.argmin(distances_to_centers))
         nearest_distance = float(distances_to_centers[nearest_idx])
         nearest_radius = float(self.spheres[nearest_idx].radius)
-        score = nearest_distance / max(nearest_radius, 1e-12)
+        ratios = np.asarray(
+            [distance / max(float(sphere.radius), 1e-12) for distance, sphere in zip(distances_to_centers, self.spheres)],
+            dtype=np.float64,
+        )
+        if self.acceptance_mode == "normalized_union":
+            selected_idx = int(np.argmin(ratios))
+            score = float(ratios[selected_idx])
+            selected_distance = float(distances_to_centers[selected_idx])
+            selected_radius = float(self.spheres[selected_idx].radius)
+        else:
+            selected_idx = nearest_idx
+            score = float(nearest_distance / max(nearest_radius, 1e-12))
+            selected_distance = nearest_distance
+            selected_radius = nearest_radius
 
         margin_ok = True
         if self.margin_gamma is not None and len(distances_to_centers) > 1:
@@ -338,32 +372,38 @@ class MultiSphereOOSDetector:
             d2 = float(sorted_distances[1])
             margin_ok = d1 < float(self.margin_gamma) * d2
 
-        is_id = (nearest_distance <= nearest_radius) and margin_ok
+        if self.acceptance_mode == "normalized_union":
+            # The acceptance region is the union of all fitted spheres.  A
+            # raw-distance nearest sphere is not equivalent when radii differ.
+            is_id = bool(np.any(ratios <= 1.0)) and margin_ok
+        else:
+            is_id = (nearest_distance <= nearest_radius) and margin_ok
         return {
-            "nearest_idx": nearest_idx,
-            "distance": nearest_distance,
-            "radius": nearest_radius,
+            "nearest_idx": selected_idx,
+            "distance": selected_distance,
+            "radius": selected_radius,
             "score": float(score),
             "margin_ok": bool(margin_ok),
             "is_id": bool(is_id),
+            "accepted_sphere_count": int(np.sum(ratios <= 1.0)),
         }
-            
+
     def predict(self, embeddings: np.ndarray) -> np.ndarray:
         """
         预测：0=ID, 1=OOS
-        
+
         判决规则：到最近球心的距离 ≤ 该球半径 → ID
         """
         if not self.fitted:
             raise RuntimeError("Detector not fitted. Call fit() first.")
-        
+
         embeddings = self._normalize_embeddings(np.asarray(embeddings))
         predictions = []
 
         for emb in embeddings:
             stats = self._nearest_sphere_stats(emb)
             predictions.append(0 if stats["is_id"] else 1)
-                
+
         return np.array(predictions)
 
     def predict_with_scores(self, embeddings: np.ndarray) -> Dict[str, np.ndarray]:
@@ -373,7 +413,7 @@ class MultiSphereOOSDetector:
             dict with keys:
             - pred: int array (0=ID, 1=OOS)
             - score: float array, higher means more OOS-like
-            - nearest_cluster: int array
+            - nearest_cluster: int array (the raw-nearest or ratio-selected sphere)
             - distance: float array
             - radius: float array
             - margin_ok: bool array
@@ -388,6 +428,7 @@ class MultiSphereOOSDetector:
         distances = []
         radii = []
         margin_flags = []
+        accepted_sphere_counts = []
 
         for emb in embeddings:
             stats = self._nearest_sphere_stats(emb)
@@ -397,6 +438,7 @@ class MultiSphereOOSDetector:
             distances.append(float(stats["distance"]))
             radii.append(float(stats["radius"]))
             margin_flags.append(bool(stats["margin_ok"]))
+            accepted_sphere_counts.append(int(stats["accepted_sphere_count"]))
 
         return {
             "pred": np.asarray(preds, dtype=np.int64),
@@ -405,8 +447,9 @@ class MultiSphereOOSDetector:
             "distance": np.asarray(distances, dtype=np.float64),
             "radius": np.asarray(radii, dtype=np.float64),
             "margin_ok": np.asarray(margin_flags, dtype=np.bool_),
+            "accepted_sphere_count": np.asarray(accepted_sphere_counts, dtype=np.int64),
         }
-    
+
     def evaluate(
         self,
         embeddings: np.ndarray,
@@ -414,21 +457,21 @@ class MultiSphereOOSDetector:
     ) -> DetectorMetrics:
         """评估性能"""
         predictions = self.predict(embeddings)
-        
+
         id_mask = labels == 0
         oos_mask = labels == 1
-        
+
         id_recall = np.sum((predictions == 0) & id_mask) / np.sum(id_mask)
         oos_rejection = np.sum((predictions == 1) & oos_mask) / np.sum(oos_mask)
         f1_like = 2 * (id_recall * oos_rejection) / (id_recall + oos_rejection + 1e-10)
-        
+
         return DetectorMetrics(
             id_recall=float(id_recall),
             oos_rejection=float(oos_rejection),
             f1_like=float(f1_like),
             threshold_or_quantile=self.radius_quantile
         )
-    
+
     def tune_radius_quantile(
         self,
         val_embeddings: np.ndarray,
@@ -438,53 +481,55 @@ class MultiSphereOOSDetector:
     ) -> float:
         """
         在Val集上调优radius_quantile
-        
+
         Args:
             val_embeddings: 验证集编码
             val_labels: 验证集标签
             quantile_range: 搜索范围
             n_trials: 搜索次数
-            
+
         Returns:
             最优quantile值
         """
         if not self.fitted:
             raise RuntimeError("Must fit() before tuning")
-        
+
         quantiles = np.linspace(quantile_range[0], quantile_range[1], n_trials)
         best_f1 = 0
         best_quantile = self.radius_quantile
-        
+
         # 保存原始半径用于恢复
         original_radii = [s.radius for s in self.spheres]
         original_quantile = self.radius_quantile
-        
-        
+
+        logger.info(f"Tuning radius_quantile on Val set ({n_trials} trials)...")
+
         for q in quantiles:
             # 临时更新半径
             self.radius_quantile = q
             self._compute_radii()
-            
+
             # 评估
             metrics = self.evaluate(val_embeddings, val_labels)
-            
+
             if metrics.f1_like > best_f1:
                 best_f1 = metrics.f1_like
                 best_quantile = q
-                
+
             if abs(q - quantile_range[0]) < 1e-6 or abs(q - quantile_range[1]) < 1e-6:
-                pass
-        
-        
+                logger.info(f"  q={q:.3f}: F1={metrics.f1_like:.4f}")
+
+        logger.info(f"✓ Best quantile: {best_quantile:.3f} (F1={best_f1:.4f})")
+
         # 恢复原始设置（如果需要）
         self.radius_quantile = original_quantile
         self._compute_radii()
         for idx, radius in enumerate(original_radii):
             if idx < len(self.spheres):
                 self.spheres[idx].radius = radius
-        
+
         return best_quantile
-    
+
     def diagnose_failures(
         self,
         embeddings: np.ndarray,
@@ -493,17 +538,17 @@ class MultiSphereOOSDetector:
     ) -> Dict:
         """
         诊断失败样本
-        
+
         返回：
         - false_negatives: ID误判为OOS的样本索引
         - false_positives: OOS误判为ID的样本索引
         - 每类的距离统计
         """
         predictions = self.predict(embeddings)
-        
+
         false_negatives = np.where((labels == 0) & (predictions == 1))[0]
         false_positives = np.where((labels == 1) & (predictions == 0))[0]
-        
+
         diagnosis = {
             'false_negatives': {
                 'count': len(false_negatives),
@@ -516,14 +561,14 @@ class MultiSphereOOSDetector:
                 'texts': [texts[i] for i in false_positives] if texts else None
             }
         }
-        
+
         return diagnosis
-    
+
     def save(self, path: Path):
         """保存检测器"""
         if not self.fitted:
             raise RuntimeError("Cannot save unfitted detector")
-        
+
         state = {
             'n_clusters': self.n_clusters,
             'radius_quantile': self.radius_quantile,
@@ -537,6 +582,7 @@ class MultiSphereOOSDetector:
             'subcenters_per_intent': self.subcenters_per_intent,
             'subcenters_overrides': self.subcenters_overrides,
             'random_state': self.random_state,
+            'acceptance_mode': self.acceptance_mode,
             'spheres': [
                 {
                     'center': s.center.tolist(),
@@ -551,16 +597,17 @@ class MultiSphereOOSDetector:
             'intent_to_clusters': self.intent_to_clusters,
             'cluster_to_intent': self.cluster_to_intent
         }
-        
+
         with open(path, 'w') as f:
             json.dump(state, f, indent=2)
-        
-    
+
+        logger.info(f"Detector saved to {path}")
+
     def load(self, path: Path):
         """加载检测器"""
         with open(path, 'r') as f:
             state = json.load(f)
-        
+
         self.n_clusters = state['n_clusters']
         self.radius_quantile = state['radius_quantile']
         self.radius_method = state['radius_method']
@@ -578,6 +625,9 @@ class MultiSphereOOSDetector:
             for k, v in state.get('subcenters_overrides', self.subcenters_overrides).items()
         }
         self.random_state = state['random_state']
+        self.acceptance_mode = state.get('acceptance_mode', 'nearest_sphere')
+        if self.acceptance_mode not in {'nearest_sphere', 'normalized_union'}:
+            raise ValueError(f"Unsupported serialized acceptance_mode: {self.acceptance_mode}")
         self.intent_to_cluster = state['intent_to_cluster']
         self.intent_to_clusters = state.get(
             'intent_to_clusters',
@@ -587,7 +637,7 @@ class MultiSphereOOSDetector:
             'cluster_to_intent',
             {int(v): k for k, v in self.intent_to_cluster.items()}
         )
-        
+
         self.spheres = [
             SphereConfig(
                 center=np.array(s['center']),
@@ -598,5 +648,6 @@ class MultiSphereOOSDetector:
             )
             for s in state['spheres']
         ]
-        
+
         self.fitted = True
+        logger.info(f"Detector loaded from {path}")
