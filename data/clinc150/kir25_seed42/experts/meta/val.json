@@ -1,0 +1,642 @@
+[
+  {
+    "text": "i need new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "switch language for me",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your language setting to russian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you must change your language setting to russian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you need to change your language setting to russian please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change language please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your language setting to spanish now",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change your language setting to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i want new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please change the language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "speak arabic",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "speak navajo",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "speak german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "speak french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "speak mandarin",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change response language from mandarin to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please respond to me in english from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your response language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i change your response language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change the language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to hear that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "repeat that for me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "could that be repeated",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you repeat what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i did not hear what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what did you just ask",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you ask me that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what question did you just ask me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you repeat that question",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what was said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "repeat that once more",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please repeat what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please ask me again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm sorry, i didn't understand what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what did you ask again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please say that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you repeat that please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what was that question again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm sorry please repeat the question",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "that's definitely true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "yup, that's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "yes, that is true for sure",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i know that is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "true, most definitely",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "facts",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "you are not wrong about that",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "that makes sense as well",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "you are correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "agreed",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "accepted",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "confirmed",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "approved",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to know it's a true statement",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i know that the statement is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "this is a true statement",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "the statement is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm telling you this is a true statement",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "that's a yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "affirmitive",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "ill pass",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "not happening",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that is fake",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "hell nah",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that is invalid",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i would prefer not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "thats a negative",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i meant no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i am saying no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "that is not factual",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that is not correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i do not think that is proper",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no good",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "negatory",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "invalid",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "absolutely not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "certainly not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that's wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that's not it",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that's not right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  }
+]

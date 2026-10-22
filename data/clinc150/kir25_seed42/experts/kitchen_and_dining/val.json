@@ -1,0 +1,642 @@
+[
+  {
+    "text": "what is the calorie content of lays chips",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know the calorie content of a strip of bacon",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are found in bagels",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the calorie content of frosted flakes",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "inform me of the calorie content of vanilla ice cream",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in apples",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in oranges",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in ice cream",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in cake",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in oreos",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories does two bananas have",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "in a fried egg, how many calories are there",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "pocki sticks has how many calories",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the amount of calories that scrambled eggs has",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a donut hole",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a ghirardelli sea salt caramel candy",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a bowel of wheaties",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a serving of deans french onion dip",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in mashed potatoes",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in powdered donuts",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "does mcdonald's have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are the review for mcdonald's good or bad",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how are the reviews for mcdonald's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what are the review for mcdonald's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how are those mcdonald's reviews looking",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what are the ratings for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know how the ratings are for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are the ratings for yardhouse good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the ratings for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how good are the review for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how are the fried chicken at zippys",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how are the reviews for pasta at assagios",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how is sushi at jiro",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how is the steamed fish at harbor village",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how is dim sum at legend",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "does boston restaurant have favorable reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you inform if boston restaurant has good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know favorable reviews about boston restaurant",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me if boston restaurant has good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know if boston restaurant has favorable reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how much to wait before dining in the jack in the box at 4 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long to wait before dining in restaurant beta",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait time at olive garden currently",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the wait like at apple bees",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the wait time for torris",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is there a wait time at bjs right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at buffalo wild wings",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at chipotle",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at chipotle tonight",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at chipotle right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at applebee's tonight",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at applebee's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know about how much time i'd have to wait to get a table at dibruno's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how long approximate wait times are at cheesecake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the average wait time to be seated for dinner at rouge",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the wait like at chima brazilian steakhouse at this time",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "will i have to wait long for a table at pietro's this evening",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long do we have to wait at the restaurant",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how long would the wait at the restaurant be",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is mcdonalds busy around 9",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "does spago in beverly hills allow customers to make reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the reservation policy for spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "are reservations taken at spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "am i able to make reservations at spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make reservations at spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "let me know if grub burger takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "give me information on grub burger reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is grub burger taking reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "find out of grub burger takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make reservations at grub burger",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible to do a reservation at the bellagio",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does the bellagio have any reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does bellagio allow you to do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make a reservation at chima steakhouse in chicago",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "will i be able to schedule a reservation at 4 seasons in los angeles",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible to make a reservation at sushi king in virginia beach",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does ruth chris in charlotte allow you to make a reservation",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "will maggianos in charlotte allow me to make a reservation",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does long horns do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to make a reservation to long horn's, can i",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  }
+]

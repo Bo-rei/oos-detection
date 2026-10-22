@@ -1,0 +1,6082 @@
+[
+  {
+    "text": "in spanish, meet me tomorrow is said how",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "in french, how do i say, see you later",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you say hello in japanese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i ask about the weather in chinese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i say \"cancel my order\" in french",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i say dinner in spanish",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you say good bye in french",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i say thank you in spanish",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i say good bye in chinese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i say thank you very much in chinese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know how to say hello in france",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "would you tell me how to say goodbye in france",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you say hello in mexico",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how to say hello in chile",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to know how to say goodbye in france",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "would you translate a sentence into russian for me, please",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "would you translate a phrase into mandarin for me",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "can you translate this name into spanish for me, please",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "could you translate this into chinese for me, please",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "could you translate water into dutch for me",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "may i please have a definition for the work churlish",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to know what trenchant means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the meaning of fascism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me what a septuagenarian is",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "can you define the word schadenfreude",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what does unsavory mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "please define erection for me",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what does idiosyncratic mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the meaning of condemnation",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "define monetary for me please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the meaning of hegemony",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what does indignation mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "define ambivalence for me please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "please define institutional racism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "define antagonist for me please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what does distinguish mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the meaning of word alliance",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know what dominate means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the definition of the word migrate",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me please what paean means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "is traveling to france safe",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "is france safe to travel to",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know is traveling to france safe",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "can i travel to france as far as safety goes",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "can i safely travel to france or is it dangerous",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any current travel alerts for brazil",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for seattle",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how safe is it to travel to guatemala right now and are there any alerts",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for juarez",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the danger level of flying to russia right now",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for antarctica",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for mountain view",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does mexico have any travel alerts i should know about",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does greece currently have any travel alerts in place",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for brazil",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how safe is it to visit spain",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how safe is visiting canada this week",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "have the riots in france triggered any alerts for people traveling to there",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "is there any danger going to brazil",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "is it safe to travel to mexico",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "i need new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "switch language for me",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your language setting to russian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "you must change your language setting to russian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "you need to change your language setting to russian please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "change language please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your language setting to spanish now",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "change your language setting to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i want new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please change the language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "speak arabic",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "speak navajo",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "speak german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "speak french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "speak mandarin",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "change response language from mandarin to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please respond to me in english from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your response language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i change your response language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "change the language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm not sure if watermelon is on my shopping list, but if it isn't can you put it on there",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible to add grapes to my shopping list if they aren't on there already",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "please add bananas to my shopping list unless i already did",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you add apples to my shopping list if they aren't already on there",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "would you be willing to add bread to my shopping list if i haven't already",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of cleaning supplies, remind me on my list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i don't have any more steak, please put that on my grocery list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of apples, add that to my list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i have no oranges, put them onto my list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have peanuts on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have soda on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of kleenex so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of paper towels so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of toilet paper so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have graham crackers on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of clorox wipes so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have tortillas on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of laundry detergent so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have cheese on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like you to add oranges to my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "may you stop a paymet on my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how we stop my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you place a stop on my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can we stop my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please put a block on my capital one account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please put a block on my discover account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please put a block on my regions account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please put a block on my wells fargo account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please put a block on my us bank account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need you to act swiftly and freeze all activity on my capital one checking",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "place a hold on my chase money market market account at once",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to block all transactions from going through on my citi checking account straight away",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please immediately block my navy federal credit union account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you initiate a block on my bank of america checking asap",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need my savings account placed under a block as soon as possible",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please put a hold on my retirement account right now",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need a block placed right away on my joint checking account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want a block placed on my checking account right away",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want a block placed on my college fund account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you please freeze my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "show all purchases of video games",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "show me all video games purchased",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "list all purchases of video games",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "show me all new transactions",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what transactions have i made in the last few weeks",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much money have i spent on restaurants",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what transactions did i put on my visa last month",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what transactions have i accrued buying dog food",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what are my recent purchases",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me all the purchases on my hy-vee card for this statement period",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please let me review all items on my mastercard from this billing period",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me this month's transactions on my visa",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "show me all transactions for current statement",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to see transactions from this month",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many paypal transactions did i have last week",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what items do i have on my amex card this month",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what transactions do i have on my visa from the last 4 weeks",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what withdrawals were there on my account yesterday",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "was my last transaction at walmart",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much was my last transaction for",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "whats the reward balance for my visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "for my visa what's my reward balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i need know know the reward balance for my visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me my visa's reward balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my visa cards balance for rewards",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points do i have with my american express",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the points on my delta rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points on my chase unlimited card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my kohls card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my gymboree card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my old navy card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my maurices card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my amazon card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my old navy card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my maurices card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my capital one card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my target card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points have i earned with my amex card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points have i earned with my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "who has the best credit card offering for a college student",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you suggest a few credit cards that have good rewards points",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to know more about getting a new credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "who should i apply for a credit card for",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how i can apply for a chase credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me about the chase credit card application process",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to apply for a wells fargo credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i go about applying for a macy's credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to put in an application for a line of a credit card how do i do that",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to apply for a new credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i need a new credit card, show me suggestions",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to apply for a new credit card that will match my needs",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "show me some options for new credit cards that i can apply for, please",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what new credit card should i submit an application for",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can i apply for a paypal master card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "where can i apply for a black amex card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how would i apply for an american express",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i need to do to apply for a visa card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how does one apply for a master card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "assist me in getting a new credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to hear that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "repeat that for me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "could that be repeated",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "can you repeat what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i did not hear what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what did you just ask",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "can you ask me that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what question did you just ask me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "can you repeat that question",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what was said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "repeat that once more",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please repeat what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please ask me again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm sorry, i didn't understand what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what did you ask again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please say that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "can you repeat that please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what was that question again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm sorry please repeat the question",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "that's definitely true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "yup, that's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "yes, that is true for sure",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i know that is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "true, most definitely",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "facts",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "you are not wrong about that",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "that makes sense as well",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "you are correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "agreed",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "accepted",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "confirmed",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "approved",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to know it's a true statement",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i know that the statement is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "this is a true statement",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "the statement is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm telling you this is a true statement",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "that's a yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "affirmitive",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "ill pass",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "not happening",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that is fake",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "hell nah",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that is invalid",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i would prefer not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "thats a negative",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i meant no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i am saying no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "that is not factual",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that is not correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i do not think that is proper",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no good",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "negatory",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "invalid",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "absolutely not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "certainly not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that's wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that's not it",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "no, that's not right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "is the apr on my card that ends 1234 what it should be based on my credit score",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "on my citi card, the one that ends 1234, what's the apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "has the apr on my card changed and what is it now",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "let me know my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the status of my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my citibank card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how good is my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my first bank card account",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my chase card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my american express",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to know the apr on my capital one card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how does my card's apr compare to others",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is my card's apr good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how good my card's apr is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my card's apr and is it good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is a good apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is my apr high",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what does my credit card charge for their annual percentage rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know the apr on my chase credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like an appointment at your earliest availability for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "could you book me an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to make an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to book the next availability for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "schedule an appointment for a tire check for me",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "make me an appointment for a tire check",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make an appointment to get my tires checked",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you please make an appointment for me to get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "schedule me an appointment to get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you help me find someone to look at my car's engine because the light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to arrange an appointment to have my car's tires examined",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "my car needs maintenance but i don't know if i can schedule an appointment for that",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is there any way to change the date of my oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "my car's tires are due to be looked at, can you help me get an appointment for that",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "find out where i can schedule to get my car's tires checked",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to get an appointment for car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "help me schedule maintenance for my car",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "help me find somewhere to schedule a check up on my car's tires",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "find me someone who can deal with my car's illuminated check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "that you so much for the help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thanks for helping me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thanks for helping me out today",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thanks for the assist",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thank you for the help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thanks for your help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thank you for your help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm thankful for your help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i am glad that you did that",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i owe you one",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i appreciate you doing that",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "appreciated",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i am happy you did that for me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thanks, you've helped me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thanks, i appreciate it",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm thankful",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "you have my gratitude",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "you've been a big help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "special thanks to you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "you have my sincere gratitude",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "when do i need to pay my dte energy bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what day do i have to pay my leasing office bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what day is my telephone bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "when is my cell phone bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what day do i need to pay my internet and phone bill by",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the due date for spectrum's bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what date do i have to pay the phone bill on",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the due date for the water bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what day is the cable bill owed on",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "when is the electric bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "when do i need to pay my car insurance bill by",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i find out when my visa bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how i know when to pay my chase bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me when my mastercard bill should be paid",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "when should i pay my pg&e bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "when is my kaiser bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how long do i have to pay that bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "is there a due date on the bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "is the bill due this week",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know what day i need to pay my water bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the calorie content of lays chips",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know the calorie content of a strip of bacon",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are found in bagels",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the calorie content of frosted flakes",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "inform me of the calorie content of vanilla ice cream",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in apples",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in oranges",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in ice cream",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in cake",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in oreos",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories does two bananas have",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "in a fried egg, how many calories are there",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "pocki sticks has how many calories",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the amount of calories that scrambled eggs has",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a donut hole",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a ghirardelli sea salt caramel candy",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a bowel of wheaties",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in a serving of deans french onion dip",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in mashed potatoes",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many calories are in powdered donuts",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does mcdonald's have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "are the review for mcdonald's good or bad",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how are the reviews for mcdonald's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what are the review for mcdonald's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how are those mcdonald's reviews looking",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what are the ratings for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know how the ratings are for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "are the ratings for yardhouse good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the ratings for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how good are the review for yardhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how are the fried chicken at zippys",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how are the reviews for pasta at assagios",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how is sushi at jiro",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how is the steamed fish at harbor village",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how is dim sum at legend",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does boston restaurant have favorable reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you inform if boston restaurant has good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know favorable reviews about boston restaurant",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me if boston restaurant has good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know if boston restaurant has favorable reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i set up a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the process to set up a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i set up a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the process to schedule a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i do to schedule a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to set a meeting with john at 5 pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "schedule a monday meeting with sam at 1 pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "please schedule a meeting with kim at 10 am",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "please set a meeting with nancy at 4 pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "schedule my meeting with jim at 3pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "get me a meeting room for 9am on friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "secure us a meeting room for 9am on friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "arrange a meeting room for 9am on friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "please schedule a meeting room for 9am on friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "make sure i get a meeting room for 9am on friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible for you to schedule a meeting for 3:00 on wednesday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "can you create a meeting for 3:00 on wednesday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "can you arrange a meeting for 3:00 on wednesday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "can you please set up a meeting for 3:00 on wednesday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "can you hook up a meeting for 3:00 on wednesday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what kind of sockets do the us use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does my tv need a socket conveter in ny city",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does denmark use different sockets",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "in france do they require socket conveters",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what type of socker conveters do i need in africa",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm going to paris, what plug type do i need",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what type of outlets do they have in the uk",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "in australia what outlet type do they use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "do they use a different plug in brazil",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what kind of plug is used in japan",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "which electrical plug type should i bring with me to finland",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what kind of electrical plug do they use in the uae",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what type of electrical plug do they use in spain",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what electrical plug do they use in the uk",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what sort of electrical plug do they use in mainland europe",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what are the cuban plugs like",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what plugs are in england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "how are british plugs",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "what plug does colombia use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "which plugs does england use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me when to next change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when would be a wise time to replace my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me when i ought to switch out my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when will my car next be due to get its tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "at what point will i need to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when would it be wise for me to swap out my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know when the best time for me to change my tires next would be",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how long before i need to replace my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how soon until my tires will need to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "figure out for me when i ought to change my tires next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "tires should be changed when",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when should i change the tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when should i change these tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when could i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when can i commute my tires next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when is it time for a tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is it time for a tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when are my tires due for changing",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when should my car's tires be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "when should i change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how much to wait before dining in the jack in the box at 4 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long to wait before dining in restaurant beta",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait time at olive garden currently",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the wait like at apple bees",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the wait time for torris",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "is there a wait time at bjs right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at buffalo wild wings",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at chipotle",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at chipotle tonight",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at chipotle right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at applebee's tonight",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long is the wait at applebee's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know about how much time i'd have to wait to get a table at dibruno's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how long approximate wait times are at cheesecake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the average wait time to be seated for dinner at rouge",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the wait like at chima brazilian steakhouse at this time",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "will i have to wait long for a table at pietro's this evening",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long do we have to wait at the restaurant",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how long would the wait at the restaurant be",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "is mcdonalds busy around 9",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does spago in beverly hills allow customers to make reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the reservation policy for spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "are reservations taken at spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "am i able to make reservations at spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make reservations at spago in beverly hills",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "let me know if grub burger takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "give me information on grub burger reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "is grub burger taking reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "find out of grub burger takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make reservations at grub burger",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible to do a reservation at the bellagio",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does the bellagio have any reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does bellagio allow you to do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can i make a reservation at chima steakhouse in chicago",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "will i be able to schedule a reservation at 4 seasons in los angeles",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible to make a reservation at sushi king in virginia beach",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does ruth chris in charlotte allow you to make a reservation",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "will maggianos in charlotte allow me to make a reservation",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "does long horns do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to make a reservation to long horn's, can i",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "see ya!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "this was fun, see you around bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "until next time",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i enjoyed our talk, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "this was a nice chat",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i enjoyed speaking with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "peace out!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "this was a nice chat, goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "this was a nice conversation",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "good talk, see you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "it was lovely to speak with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "it was lovely to speak with you, bye bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thank you for the chat, goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "a pleasure as always to speak with you, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "thank you for chatting with me, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i enjoyed our talk, goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "it was a pleasure talking to you, goodbye now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "farewell",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "goodnight",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "have a good day",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "whats this song",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "nice song what is it",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "cool song, what is it",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what music is this",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is this a song that i dont know",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what’s the name of this song",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the current tune",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what am i listening to right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the name of the song playing right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is that song called",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "name this song",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's that song on the speaker now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the name of the song playing right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what song is playing right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know the song on the speaker right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's that song that is playing now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is that tune",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the title of the song playing",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need this song title",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what song am i hearing",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what if any meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have meetings with anyone today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings on my calendar today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings on my schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9:30 and 10:30",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9 and 10:30",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9:20 and 10:30",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9 and 10:15",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9 and 10",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what time am i meeting with john",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what time am i meeting john",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what time is my meeting with fred scheduled for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings coming up with dan",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "i think dan scheduled a meeting today with me, can you double check please",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "is my schedule clear with no meetings with dan today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my schedule like today, any meetings with dan",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "is dan aware of any meetings with me today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how many meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "read me my meeting schedule",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me my meeting schedule",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the total number of pints in two quarts",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the number of ounces in a quart",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the correct amount of ounces in a pound",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many tablespoons are there in half of a cup",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know how many teaspoons are equivalent to two tablesppons",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "give me celcius to fahrenheit",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the equivalent of 1 cup to pounds",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i need kilograms to milligrams",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i convert a cup to ml",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "give me kilograms to pounds",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "convert 2 cups to liters",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many tablespoons is 5 teaspoons",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many teaspoons in one tablespoon",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ounces is 2 and half cups",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many gallons is 50 liters",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ounces in a liter",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ounces in a cup",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ml's are in a gallon",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many teaspoons in an ounce",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "how many teaspoons make up in 1 tablespoon",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "talk to me about where im at right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you need all five answers",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "give me my gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "pass me my gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know what my gps coordinates are",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you give me my gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "so what are my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you find the exact address for where i am currently",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me what to enter into my gps for my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me the address of my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know the name of my current location for the tow truck",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is this place",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where exactly am i at the moment",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where am i at currently",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what location is this",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what are my coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where am i on gps",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "latitude and longitude please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "location currently, where",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "if i plan on travelling to this country, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "do i need a visa if i go there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "for going to that country, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does one need a visa to go there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "if i travel there, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does going to taiwan require me to get an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "if i go to brazil, do i need to get an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "should i go to okinawa, does it require an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "is an international visa needed to go to cyprus",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to go to china but am not sure if i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "should i get an internation visa to go to switzerland",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does south korea require an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "will i need an international visa to go to madagascar",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "is an international visa needed for canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "do i need an international visa to get into italy",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "if i go to uganda, do i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "do i need a travel visa for the uk",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "am i going to need a visa for traveling to canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does canada require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "does the uk require a travel visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the closest subway entrance to me to go to brooklyn",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the closest red lobster to my location right now, which is 5th avenue",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i am on main street now, where is the closest bus stop to me",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i am in downtown austin where is the nearest airport",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the closet bus stop to go to downtown dallas",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the nearest walmart",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the movie theater by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the bus stop on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to new york by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the train station by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the library by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the bowling alley by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the fine arts center by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the closest target",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the grocery store by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to san fransisco by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where can i find the nearest dollar store",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get to the court house on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the nearest gas station",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "where is the closest park",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what may i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what was your name again",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "your name is",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "whats your name by the way",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what's your name if i may ask",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what is your name by chance",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what is your names",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what exactly is your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the name i should use to talk to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what is your given name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the name you like to be called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the name you were given",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can i ask your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "do you mind if i ask your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "do you have a nickname",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what do you go by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what do you call yourself",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "your name please",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can i have your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i set up direct deposit for my first national account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i set up direct deposit for my fifth third account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i set up direct deposit for my cefcu account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i set up direct deposit for my old national account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i set up direct deposit for my bank of america account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what might i need to do to direct deposit my paycheck",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "what information do i need to direct deposit my paycheck",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i go about getting direct deposit in my usaa account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "does my td ameritrade checking account take direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "if i want to direct deposit my paycheck, what info do i need",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "direct deposit my paycheck to my capital one account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like direct deposit to my chase bank account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to set up direct deposit to my charles schwab account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i go about setting up paycheck direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "link up my paycheck for direct deposit to my account at chase",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "please assist me in linking my chase account to direct deposit for my paycheck",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "please show me how to set up my paycheck for direct deposit to my chase account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the easiest way to set up direct deposit of my paycheck to my chase account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "help me get my paycheck set up for direct deposit to my chase account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i learn how to use direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "will you please read the things on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you read the things to me that are on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you read the things on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible for you to read the things on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "did i add salt to my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have toothpaste on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is there lettuce on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "did i include butter in my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "did i put elbow noodles on the shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "did i forget to put protein shakes on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have butter on my list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is waffles on my list for shopping",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do i already have cereal on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "did i remember to add milk to my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "check my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "read my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i need to buy",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "did i remember to put eggs on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how much is my kill bill bill for",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the amount i owe on my phone",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the total of my repair bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much is due on the gas bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i owe on telephone and cable bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i have left to pay on my server and domain",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the amount due on my vet and vehicle registration bills",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what do my bills look like for amazon and netflix",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i have to pay on taxes and cable",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i owe on all of my bills",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i have to pay for my shell gas card bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the total of all my bills combined",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how much i need to pay on my bills this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much is my bill for capital one",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the total amount i am going to have to pay in bills this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i have to pay on my amazon card this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do my bills cost this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how much is my xfinity cable bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the amount i owe to clay electric",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "could you tell me the amount owed on gas and electric",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "give my location to stan",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to share my location with stephanie",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like brenda to have my location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "let lisa know where i am now",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i want david to know where i'm at",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "can you share my location with roger",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "can you send my exact location to laura",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "share my location with apple",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "share my location with google",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "send mike my exact location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "send my current location to steve, please",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "steve needs to know my location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to send steve my location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "share my location with steve",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to send my location to my friend steve",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "give arianna my current location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "share with current location with ben",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "show my gps location to brittany",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "give my gps location to jason",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "share my gps with tom",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "cash in my credit card rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "convert my credit card points to cash",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "cash in my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "where i can use credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "redeem credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how to use credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what can i buy with credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "redeem my credit card rewards into my account",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "help with credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what should i use the points from my credit card on",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i cash in credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i have credit card points, how do i redeem them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "where do i redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to find out how to cash out cred card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how to cash in visa card rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i cash in my visa rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you get your visa card rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get rewards from my visa card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get my rewards from my visa card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the field trip from my calendar for march 12, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the wedding from my calendar for march 12, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the play date from my calendar for feb 18, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the dinner party from my calendar for january 21, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the brithday party from my calendar fpr january 15, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "put cancel abc on my calendar for next thursday",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to add iep meeting to my calendar on april 15th",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "add my next doctor visit to my calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "add swimming to my calendar today",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i have an appointment on the 5th put it on for 5pm",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "for friday, add a doctor's appointment to my calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you add a doctor's appointment to friday's calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "add to my friday calendar a doctor's appointment",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "add a doctor's appointment to my calendar for friday",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "add to friday's calendar a doctor's appointment",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "mark my calendar that i will be meeting steven on march 5",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "on the 22nd of this month, we need to clear our calendar so we can leave it open for mark to visit",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you remove that event from my calendar, please",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you remove this event from my calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you remove this event from my calendar, please",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are you secretly real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to know if you are a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "you could tell me if you were real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to know if you are an artificial intelligence being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "do you consider yourself an artificial intelligence being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can you act and think like a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "could you be a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "clear something up, are you a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "are you a human being or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me if you are a real live person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "am i speaking with a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "are you an actual human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "would you be classified as a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "would it be accurate to call you a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "would you say you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i am curious to know if you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "are you an actual live person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me if you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "are you a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me what kind of life form you are",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  }
+]

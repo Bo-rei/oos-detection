@@ -1,0 +1,8802 @@
+[
+  {
+    "text": "adjust your language setting to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change and set your language setting to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "set your language setting to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "make your preferred language english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to have language set to spanish, please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me your responses only in french from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can we speak in english rather than zulu",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to change your language from portuguese to italian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change the response language to french please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what languages can i switch to for your responses",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give me the answers in italian instead of english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want us to speak to each other in spanish from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "switch the language for your responses, please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let's speak in mandarin instead of english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can we start communicating in french rather than english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please change the language that you are responding in",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i change the language that your responses are delivered in",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to switch the language for your responses",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change language to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "fix my language to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "speak in the language english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change my speaking to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to switch speaking to french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "replace my language to chinese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you change your language to japanese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change your language to spanish please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you translate that to french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please respond to me in spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you speak to me using japanese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i would appreciate it if you could talk to me in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can we talk in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you talk to me in italian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you speak to me in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you speak to me in chinese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "talk to me in italian from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i start talking to you in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you talk to me in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you talk in spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i start talking to you in spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please talk to me in spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you understand me, if i start talking in italian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it ok if i start speaking to you in german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i give you instructions in japanese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "talk to me in spanish from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you talk to me in chinese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to switch to greek",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to use spanish as my language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i will be speaking chinese going forward",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "the language i am using will now be italian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am changing over to italian now",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there an option to speak only in mandarin",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let's go ahead and switch your language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to edit the language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to only talk in spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let me talk to you in greek",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change the native language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i speak to you in german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there an option to change the language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change the language to french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i adjust the spoken language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "answer me in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please respond in latin from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "talk to me in italian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let’s chat using spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the language set to swahili",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change the language you're using to american english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "switch the language setting over to german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change language to french, please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you swap the language to afrikaans for me",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to address me in italian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to speak in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "start talking in spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you speak in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to hear from you in german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change your language setting to german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "alter your language to french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change your language prefrences japanese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change your language setting to chinese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "alter your language choice to dutch",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change your language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change your language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "select a new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to put you in a different language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let's change the language for you",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "set default language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "you should respond in english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please respond in english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change your spoken language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "change language setting to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "switch your language setting to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your language changed to chinese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you start talking to me in spanish from here on out",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please speak to me in chinese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please make your language setting french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please speak german to me from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need your language setting to be russian now",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please change your language setting to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your responses to be in french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "from now on, i want you to answer me using japanese",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please change the name you refer to me by",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i change the name you use to address me",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way i can change the name you use to address me",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change my name to something else for you to call me",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i have you call me something else",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i go by brad",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "usually people refer to me as brad",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i prefer to go by brad",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "people call me brad",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name is brad",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me carrie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my names carrie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my friends call me carrie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me carrie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me dad",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me stevie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me sarah",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me james",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me jake",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me stevie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me john",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name is steve",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name is john",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please call me jim",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i go by the name jim",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "feel free to call me jim",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can just speak to me as jim",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name is jim",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please start calling me mandy",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "the name i go by is sandy",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i like to be called mikey",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please refer to me as sharon",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "john is my name",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "the name you should call me is janet",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "people call me gary",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can address me as lizzie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to be called mollie",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me cindy",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me ishmael",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you just start calling me sir",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm called tim",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my friends call me sam",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to address me as lord snugglebottom",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i go by ted",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "they call me john",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would you just like to call me paul",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please call me johnny",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "just call me sam",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to call me this new name",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "talk to me by calling me this name from now on",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "the new name that i want you to call me is this one",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please call me by this new name",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please change my name",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me brandon",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me jeff",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me michael",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me steve",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me alan",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me mary",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to call me mary",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would you call me mary",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to be called by mary",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to call me mary",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change what you call me",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to call me something different",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "change the name that you call me",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "call me frank",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can refer to me as frank",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to call me something else",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name's frank",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to be called frank",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change my nickname",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i am john",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "hi, i'm john",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please call me frank from now on",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call me bobby instead of bob",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name's bob",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please call me bob",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when you talk to me, use bob",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please stop calling me dave, my name's bob",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "my name is stu, not sue!",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to start referring to me as lucky",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to refer to me as bob",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i am david",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "change my name to master",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "you can call me al",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "just call me al",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i go by stefan",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "just call me dennis",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please change my name to loverboy",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to call me lord",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd rather have you call be ray ray",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "they call me josh",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i am josh",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to call me pam",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change my username",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "address me by the name stan",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "only call me dan",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please only call me joe",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call me something else",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear you please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to repeat that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "one more time please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to repeat that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to please repeat that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "one more time for me please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like that repeated",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "just another time please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "say it again please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i must have you repeat that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need that repeated",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "just one more time",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to have that repeated for me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i want that repeated",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "ai what was the question",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "ai i didn't hear you",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "ai please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "ai could you say that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "excuse me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i did not hear you",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't get that, please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please repeat yourself",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't catch that, please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you say that over",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "restate the last thing you told me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't catch that say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what was that last thing you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat what you just told me",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please say that one more time",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "hold on what was that you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat that last response",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to repeat that, please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i did not quite hear you, can you say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please repeat that response",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i did not hear you, please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "say it one more time please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear, please say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "im sorry can you repeat yourself",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i missed what you said, can you say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i couldn't hear you, can you repeat it",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear say it again please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you repeat yourself",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to repeat yourself",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i missed that last one, please repeat",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what was that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear you can you repeat that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please repeat that phrase",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i missed what you said, please say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "will you repeat that, please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "could you repeat that, please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "would you repeat that, please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "would you repeat that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please ask the question again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i am needing for you to say that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need for you to ask the question again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "could you ask the question again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to need you to say that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "would you say that again, please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat the question",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat that please",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear you",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didnt hear what you just said, can you say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "may you repeat what you said again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear what you just said, can you repeat it",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't understand what you just said, can you repeat it",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didnt understand what you just said, can you say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you say what you just said again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "could you repeat what you just said again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "would you repeat what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "will you please repeat what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what did you just mention",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need that said again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me once more",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "replay what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i missed that, say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "could you say that again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "repeat your last message",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "say it one more time",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i did not understand say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please sat it one more time",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i did not catch that, repeat what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "sorry, i didn't hear you, can you say that gain",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't hear you, can you repeat that louder",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't catch that so please repeat it",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please run that by me again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i missed that say it again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you say again",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please repeat what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get you to say that once more",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "will you repeat what you just said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "please repeat over what you said",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "come again with that",
+    "intent": "repeat",
+    "domain": "meta",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "yep",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is affirmative",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "what you just said is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is not false",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is a fact",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i agree with the truth of what you just said",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i believe what you just said is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be great",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be awesome",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is totally true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "oh yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes that is right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is a yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that seems true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "positive",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "very true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that will be true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that appears true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "it is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that statement was correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i think that's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is accurate",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is it",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "the answer is yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "all right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "it's indeed true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that's a yes from me",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes you are correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that's a definite yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes that's it",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i vote yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yep, that's right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yeah that's what i want",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "you got it",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yeah that's right, so true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "true is my response",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that's affirmative",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, you got it",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "absolutely!",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "do that",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "absolutely correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "confirm",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, i'd really like that alot",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "agreed, that's valid",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "affirmative, go ahead",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes that's correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yeah, that's how it is",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yeah, that's right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "of course",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that's the truth",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "exactly right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that's accurate",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is accurate",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that's what i want",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is a fact",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that's confirmed",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "indeed",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "uh-huh",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "correct, that's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that's correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yeah",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yeap",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "ok",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "sure thing",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes you are right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes you are",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes i do like that",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes that is correct",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes i am",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i think it's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i believe that's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "uh huh",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yep, that's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is actually true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that's it",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes, that is right",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "correct, it is affirmative",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "the answer to that is a resounding yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i can confirm it is affirmative",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "my response to that is yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to say affirmative on that one",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i would have to say yes as my answer",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "the answer to that is affirmative",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "that is true, yes",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "it is definitely affirmative",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "is is very much true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "it is a true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "its a for sure true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "yes sir",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "it's true",
+    "intent": "yes",
+    "domain": "meta",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that's incorrect",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's not true",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is not true, it's false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no way",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "not really",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "naw",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "nay",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i must say no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i think not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is actually false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta say no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no thanks",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no is the answer",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't think so",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "it's a no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i think it is false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "not true",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is not true",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "not at all",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that turns out to be false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please, no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "not that",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "definitely not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would have to say the answer to that is no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i say no to that question",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that is my response",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't believe that is possible, it is false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would say that the statement is definitely false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i am afraid that that is not the case",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that information is wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is a completely false statement",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be a no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i do not think that is true, so i would say it is a false statement",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "incorrect, it is certainly a false statement",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i do not believe that that is correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "the answer is definitely no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "sorry, that is not true",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's a negative",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's not right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, don't do that",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't like that, no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no way!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "oh hell no, that'd be terrible!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's inaccurate",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's not what i want!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's completely false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's incorrect!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's totally wrong!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's a hard no from me",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no don't do that!",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no that is not right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "false for sure",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's definitely false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "nope, that's false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that is not right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that is inaccurate",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that can't be right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is untrue",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i disagree that is false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what you just said is false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is erroneous",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no that's wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that isn't the right answer",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "the information is wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is not correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is not right",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'll pass",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "not that one",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's not right, so no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "the answer is false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no, that is not right at all",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is overwhelmingly false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that's not right it's false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i say negative",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "negative for sure",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "nope",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no thank you",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is not the case",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no that isn't the case",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no that isn't it",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no that isn't correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be \"no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "you are wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "no that is wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that is false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "negative",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what you just said is wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that’s actually wrong",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that’s not correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that’s incorrect",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are you sure i don’t think that’s correct",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that'd be a no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "nada",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "the answer is no",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i think that's false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i believe that to be false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "it seems not",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "that would be false",
+    "intent": "no",
+    "domain": "meta",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "use a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "try using a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "speak in a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change the accent you're speaking in",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you change the accent you're using",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your accent changed to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need for you to change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please get your accent changed to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "try it with a male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you use a male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use a male voice now",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use a male voice instead",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "try a male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would prefer your voice to be male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please use a male voice when speaking",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you switch to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change to a male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please change your accent to a british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you change the way you talk to a male british voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you talk like a british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change the voice to male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to hear the female voice option",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way to change the voice to male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would prefer to hear the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would prefer to hear you speak like a british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "start speaking in a male british voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and switch to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i shall switch to the male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i must to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please change to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to switch to the male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and switch to the male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna switch to the male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i must switch to the male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna change to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change what accent you use",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use a new accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you use a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "let's change your accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "speak in a male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i hear the male voice please",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use your male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please talk to me in the male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use one of your male voices",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you use the male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "speak in a woman's voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch over to the male voice mode",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "go to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please use your female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please change your accent the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "make your accent the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch over to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use a woman's voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you speak like a british dude",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have the ability to do a male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible for you to speak with a british gent's accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get you to talk like a pouty english guy",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "if you can do accents, i want to hear you talk like david bowie",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "do a british male accent only",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to hear a male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change to a male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to british male accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you do a british male accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change accent to male british",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "set to female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please change accent to british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please set to female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you switch to female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please use male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you use male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use male voice now",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make your accent british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "now use male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "speak as a british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change accent to british male",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change to female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use the male voice please",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you swap to male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change to male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "use female voice now instead",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please start using female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to use the female voice now",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i prefer female voice now",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch from the male to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please use male voice instead",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch over from female to the male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a new accent male british",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "raise the volume to 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please set the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please increase the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please raise the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "set the volume to 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "bring the volume up overall",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "make the volume louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "bring the sound up",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn your speakers up",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "make the speakers louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "lower your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and increase the volume to 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "you must increase the volume to 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "you must increase your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please increase your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please increase your speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "go now and increase the volume to 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please increase the volume to 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to increase your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and increase your speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to increase your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to increase your speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please go ahead and increase your speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "make my volume louder please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "make the sound of my speaker greater",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you rise the volume of this please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "change the speaker volume to a louder one",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want the speaker to be louder please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't hear you",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn it up please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need it louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "the sound is too low",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "the speaker volume needs to be increased",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please increase your speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to increase the speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you increase the speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn up the volume level to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn up the volume level to 4, please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase the volume level to 4, please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase the volume level to 4 now",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase the volume level to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i have my volume increased",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can my volume be increased",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i increase my volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "volume needs to be at 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "volume should be increased to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "boost volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want volume at 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want that volume bumped up to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "the volume should be decreased",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "raise the volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "lower the volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like the volume lower",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you turn this down",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn the volume up",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to turn up the volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn up the speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "get louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "volume should be set at 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like it to be louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please turn the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please speak louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase your vocals",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "lower your voice box",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase your voice box",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn your vocals down",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn your voice box down",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn down your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "limit your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please adjust your settings",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "change the volume to 4 now please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and put the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "set the volume to 4 now",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you change the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you turn the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "set the volume at 4 for me please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "make the volume set to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want volume set to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn volume to the number 4 setting",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn the volume to level 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "make the volume 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please make sure the volume is on 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "turn down volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please increase volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "raise volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "decrease volume level",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "lower volume level",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "set volume higher",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "lower volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please raise volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "decrease volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "increase volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "put volume at 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "decrease volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "change to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "change mode to whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "whisper mode off",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "change out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "turn off whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "activate whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "whisper mode activate",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please lower the volume please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "use your indoor voice please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "whisper for me",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible for you to whisper for me",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "turn on your whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to need you to be quiet now please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "don't make too much noise",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go into whisper mode now please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you use the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "volume to whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "turn on the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go to the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you whisper until i tell you not to",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to your whispering voice please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "whisper from here on out please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "whisper from now on",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to use your whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "do not talk so loudly",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "use your quiet voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to speak softer",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "speak quiet as though you were in a church",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "change to normal vocals mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "turn your volume up",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "turn up your volume",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to quiet mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "let's start whispering",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "let's switch to whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "let's use whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i decide to switch out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to switch out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "let's switch out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "let's whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you switch out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i think we should whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "shh please speak with a whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please turn on whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go into whisper mode now",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to go into whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please only use a whisper when speaking",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't be loud and need you to speak more quietly",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to whisper mode, please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "change to whisper mode, please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to whisper mode, please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please switch to whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to the whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch over to whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to whisper please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want whisper mode to be switched off",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to use whisper voice now",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please turn on whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i dont need whisper mode on any more",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "could you please get out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need your setting switched to whisper mode right away",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please shut off whisper mode for now",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "make sure to set yourself to whisper mode before i go to the movie",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please turn on whisper mode because i am about to be in class",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your setting adjusted to whisper voice now",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please switch to whisper mode for now",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please begin using the whisper voice setting",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to be in whisper mode now because i am in the library",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you change to the whisper voice setting",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please speak with the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "exit out of whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible for you to use the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to use the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "immediately begin using whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't hear you, stop whispering!",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "start using whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "stop using the whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "engage whisper mode now",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you go to the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to normal mode please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "use the whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "use your whispering voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "6 inch voices please",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "would you mind switching to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "could you please switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "if you don't mind, please switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to switch to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "talk in whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please use whisper",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please talk quietly",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "use whisper voice",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "turn to whisper mode",
+    "intent": "whisper_mode",
+    "domain": "meta",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel what you are doing, i've changed my mind",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "never mind, cancel that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop working on it, i need something else",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my last request, i know the answer",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "forget it, i do not need it anymore",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "pause",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel that last thing",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "silence",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "quit",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "mute",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop and go back",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ai stop talking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "quiet now",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "shhhh",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make you stop talking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you be quiet please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please stop doing what i asked",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please be quiet",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to stop what you were doing",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel that last command",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel what you were doing",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "shut up!",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to stop talking now",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to quit the action",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "discontinue please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't want you to speak any more for now",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "discontinue your current task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "abort please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "quit the current action please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "forget my previous command",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "abort the current action",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "actually forget that i don't need it",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "quit what you are doing",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "sorry, you can actually stop that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i actually don't want this anymore, please abort",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel your present task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "that's enough, don't say anymore please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to stop your present action",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop talking please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what you are doing is not actually helpful, please cancel the action",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please stop",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel action",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel the input",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, stop talking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, shut up",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, stop!",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please be quiet now",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "terminate",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "negate last command",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "halt",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you stop talking please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please abandon the current job",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please abort the current task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "terminate current process",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to cancel the current action",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "abort",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please stop doing that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "abort running program",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "don't continue with what you're doing",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "oh shut the hell up would you",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "destroy process",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel that last task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please refrain from carrying out the current task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, cancel that last request",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do not complete the task that i gave you",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, please stop your current task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "actually, cancel that command",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "nevermind, cancel that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "actually, cancel that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "forget it",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "don't do this process",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "undo",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel current process",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "undo this process",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "just shut up",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel that input",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "never mind, don't do that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "never mind",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop doing that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "halt that immediately",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop the process happening now",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "stop, i changed my mind",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel that last command",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "oops cancel that",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you stop",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you stop talking for a second",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you stop please",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you switch off",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you stop speaking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please cancel",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you end the task",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "scratch",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "refrain from talking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "halt the process",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "no more talking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i advise you to quit talking",
+    "intent": "cancel",
+    "domain": "meta",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make the settings go back to the original",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back the the settings you had originally",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "change settings to how they were originally",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to your original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset the factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset the factory settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset the factory settings now please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please reset the factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset the factory settings if possible",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "change to factory settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please go back to to factory settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to factory settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to go back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and go back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please go back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to the original settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please go back to the settings of the original",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "you got to go back to factory settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please go to factory settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "restore my factory settings immediately please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to factory settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you restore factory settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to the factory settings for this device",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want factory settings restores right now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "do a hard reset to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to reset to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "clear all settings in a reset",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please revert all settings to factory default",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to revert to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset to factory default",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "do a hard reset",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please revert to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "return to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "would you reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "you should reset your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "could you reset your factory settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset to original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "return to default settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "return to factory default",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "change back to your initial settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to your normal settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "alter back to your orginal settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset to your natural settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "change back to your factory settins",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to go back to the factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "help me get my device back to it's factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how i can reset to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want my original settings back",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "return it back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please turn my settings back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "get my back to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "refresh to factory defaults",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset to default settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset device to original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "reset to default settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please change back to initial device settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to initial factory state",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to initial settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "make all settings the initial defaults if you would",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "revert to factory settings please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to reset to brand new please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "revert to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "restore your original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "restore your factory settings, please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "restore your original settings now",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "restore your original settings, please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "revert back to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "return to your original settings, please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "revert to your factory settings, please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "switch back to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "revert back to your factory settings, please",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to change to original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you go back to my original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to switch to my original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go to default setting",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "change back to default settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to be switched back to my factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to switch back to my factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "put me back on my factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to switch back to my factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to go back on my factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "return to your original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "restore the factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "let's go to default settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please reboot yourself to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please go back to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please reconfigure yourself back to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to revert to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to put you back to original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you reset to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want factory settings put back in place",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to reset your settings to the original",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "go back to your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "rename yourself to betty",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i call you betty",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "rename bob to betty",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way to change your name to betty",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i will call you zander",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please change the name of you to tim",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you change the name of what you respond to",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change the name of your system",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "make changes to the name of the ai",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "revise the ai name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "alter the name given to the ai",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change the ai name to a new one",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "make a new name for the ai",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change your name to something funny",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "from now, your new name will be lord vader",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "from now on i'm going to call you ishmael",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to start calling you kobe now",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "from now on, your name will be buttercup",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change your name to theodore",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change your name setting to plato",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "from here on, you'll be responding to the name captain black",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your name from this point forward is george",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i hereby rename you felix",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i change the name you came with to something else",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what other names can i give you",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change your name to another name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change your name, do you have a new name that you like",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to change your name to a different one",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i will call you cap",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your name is roman",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "x will be your name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your name will be queen",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to address you as my own name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "will you answer if i call you lexi",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to think of yourself as machine and answer when i say your name as such",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do you mind if call you nikolai",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to refer to you as my house from now on",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "may i start referring to you as jeff",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please respond to me when i reference skynet",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to start calling you bob",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please open a call to my mother",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is it okay if i change your name to mud",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i begin calling you dave",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is it alright with you if i call you scarlet",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please change the ai name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change the ai name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please change the ai name for me",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta change your name to remy",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to change the ai name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i must change your name to amanda",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to change the ai name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want change your name to russ",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna change your name to audrey",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change your name to ben",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to set your name to gaffigan",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your new name to be joshua",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i will call you jimbo from now on",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "set your name to hillary",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i call you dave",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your name to be samantha now",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change the name i call you to juan",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to respond to a new name called joey",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change your name to ginger",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "change your settings so that your respond to the name marion",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me call you fred",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you will be called rose from now on",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me change your name to dina",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i think bradley is a better name for you",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can we change your name to lisa",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to call you andre 3000",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "x is your new nickname",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "if i may, i'd like to call you slave",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "x is what i am calling you now",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change your name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make your name different",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let's change what you respond to",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i call you something else",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to use another name for you",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change your name to buttercup",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to change your name to eli",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "could i please change your name to alicia",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change your name to emma",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i am wanting to change your name to felix",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to update you name now",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to update you name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to update you name, please",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change your name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to change your name, please",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i refer to you as mike from here on out",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change your name please",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to start calling you alice",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i start calling you chris",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i call you lucy from now on",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm calling you rupert from now on",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i change your name to bob",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you go by a different name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i refer to you as liz",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to start calling you marie",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i rename you",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i change your name",
+    "intent": "change_ai_name",
+    "domain": "meta",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  }
+]

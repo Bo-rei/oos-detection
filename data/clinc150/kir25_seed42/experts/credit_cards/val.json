@@ -1,0 +1,642 @@
+[
+  {
+    "text": "whats the reward balance for my visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "for my visa what's my reward balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need know know the reward balance for my visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me my visa's reward balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my visa cards balance for rewards",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points do i have with my american express",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the points on my delta rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points on my chase unlimited card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my kohls card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my gymboree card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my old navy card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my maurices card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my amazon card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my old navy card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my maurices card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my capital one card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i check my rewards for my target card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points have i earned with my amex card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how many points have i earned with my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "who has the best credit card offering for a college student",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you suggest a few credit cards that have good rewards points",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to know more about getting a new credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "who should i apply for a credit card for",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how i can apply for a chase credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me about the chase credit card application process",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to apply for a wells fargo credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i go about applying for a macy's credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to put in an application for a line of a credit card how do i do that",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to apply for a new credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need a new credit card, show me suggestions",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to apply for a new credit card that will match my needs",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "show me some options for new credit cards that i can apply for, please",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what new credit card should i submit an application for",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can i apply for a paypal master card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "where can i apply for a black amex card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how would i apply for an american express",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i need to do to apply for a visa card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how does one apply for a master card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "assist me in getting a new credit card",
+    "intent": "new_card",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "is the apr on my card that ends 1234 what it should be based on my credit score",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "on my citi card, the one that ends 1234, what's the apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "has the apr on my card changed and what is it now",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "let me know my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the status of my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my citibank card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how good is my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my first bank card account",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my chase card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the apr on my american express",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to know the apr on my capital one card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how does my card's apr compare to others",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is my card's apr good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how good my card's apr is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my card's apr and is it good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is a good apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is my apr high",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what does my credit card charge for their annual percentage rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know the apr on my chase credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "cash in my credit card rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "convert my credit card points to cash",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "cash in my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "where i can use credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "redeem credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how to use credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what can i buy with credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "redeem my credit card rewards into my account",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "help with credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what should i use the points from my credit card on",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i cash in credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i have credit card points, how do i redeem them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "where do i redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to find out how to cash out cred card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how to cash in visa card rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i cash in my visa rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you get your visa card rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get rewards from my visa card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get my rewards from my visa card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  }
+]

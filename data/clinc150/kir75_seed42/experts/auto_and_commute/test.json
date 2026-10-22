@@ -1,0 +1,2882 @@
+[
+  {
+    "text": "which way do we go and how long will it take to get to the sears tower in chicago",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "so, does it take long to get to dodger stadium in anaheim",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how many minutes will it take to get to the empire state building in manhattan",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the mileage to get the the taj mahal in atlantic city",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "does it take long to get to yankee stadium in the bronx",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how much time is left until we get there",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the time to destination going via bus to omaha",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how far from our destination are we",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how many minutes am i from texaco",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long will i be on the bus if i rid it to seattle",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is it going to be much longer until i reach the bank",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "am i close to arriving at the post office",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the estimated travel time to get to dc via bus",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "when will i arrive at hy-vee",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long does it take to get to el paso on a bus",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long will it take me to get to walmart",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the average time to boston when riding a bus",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "when will the bus get me to vermont",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long will i be on the bus to new orleans",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long is a bus ride to staples",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long does it take to get downtown by bus",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what time will i get to the beach taking the bus",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how far am i from orlando",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "give me an eta on when i will arrive at my destination",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me how much longer i will have to drive to reach the destination",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "when will i get to orlando",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how much farther is orlando from my location",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have a ways to go or am i close to getting to penn station",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please give me the approximate amount of time i will need to go from jfk international airport to penn station",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me about what time i should be arriving at the airport",
+    "intent": "distance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "am i due for an oil change yet",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the next time i should change my oil",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my car due for its next oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when am i due for my next oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when should i get my next oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when's the next time i should change my oil",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when should i get my car's oil changed next",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the next time i need to get an oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my car's next oil change supposed to be",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "how long until my next oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when's the next time i ought to change my oil",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when's the next time i have to get an oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when should i get my oil changed",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when should i get the oil changed in my car",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "figure out when my car will next need an oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "can you recommend for me when to next get my oil changed",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when do you think i ought to change the oil in my car next",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "how soon until i will need to get my oil changed",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "find out for me when my car is next due for an oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "where can i find information on oil changes for my car",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what are the manufacturers guidance on oil changes",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "is my car due for it's next oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the recommended interval to get my oil changed",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when will i need my next oil change",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "how often should i change the oil",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "do i need to change my oil soon",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when will my oil change be due for this car",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "is my oil change coming up soon",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my oil change status",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when does this car need oil changes",
+    "intent": "oil_change_when",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "give me the pressure for the tires on my car",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me the tire pressure for the car",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "give me the tire pressure for the car",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "go ahead and give me the tire pressure of my vehicle",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what exactly is the tire pressure for the car",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i must kniw how low are my tires on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me my car's tire pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know how low are my tires on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i shall know how low are my tires on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my car's tire pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i gotta know my car;s tire pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to know my car's tire pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i gotta know how low are my tires on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i wanna know my car's tire pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i wanna know how low are my tires on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i find out what my tire pressure is",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i find out my tire pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my tires are how low on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how low are my tires right now on air",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my tires are filled enough or no",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the tire pressure of my tires",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "is there enough air in my tires",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my tires need how much more air in them",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "are my tires filled properly",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "are my tires filled enough",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the pressure of my tires",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "do my tires have enough pressure",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the air pressure of my tires",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the level of air pressure of my tires",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "is my tire pressure high",
+    "intent": "tire_pressure",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like an uber for 6 people, going to walmart",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "can you get me an uber to disney world",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "get me an uber for 3 people uptown",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to go downtown with 2 people; can you get me an uber",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm going to need to book an uber to universal studios",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to get four people to red lobster; can you order me an uber",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm going to need an uber for 4 people to go to patty's bar",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to get to the staples center; can you call me an uber",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "find me an uber to the liberty bell",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need an uber to madison square garden",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need an uber to get to the bank",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get an uber to drive me to the movies",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "contact uber and have them pick me up",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "can i take an uber to the statue of liberty",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need an uber for 5 to go to the concerthall",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "get a uber for two to go to a romantic dinner at mcdonalds",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "please call an uber for 6 people to go to amazon's southside warehouse",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "find me an uber and get it here",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "is there an uber that drives to the bank on 5th that can hold 3 people",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "we'd like an uber for 4 to take us to the olive garden",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i want an uber for one person to go to bank of america",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get an uber for 2 to go to austin",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "call me an uber please",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "is it possible to take an uber to burger king",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "book me an uber for a party of 5 to the salvage yard off maple",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i need an uber for 5 people to go to the statue of liberty",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i want an uber to take me to walmart",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "have an uber sent to take me to the courthouse",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "call an uber to take a group of 4 from this bar to the one on maple st",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm too drunk to drive and need an uber home",
+    "intent": "uber",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 11,
+    "source_split": "test"
+  },
+  {
+    "text": "can you see if i can make an appointment to have my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "find out the next available date and time i can go to get my oil changed please",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can you let me know the next open slot for me to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to make an appointment for an oil change, please",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the next date for which i can get an oil change appointment",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "i need a aaa service place to make an appointment for my tires to be assessed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "my auto tires need to be checked out so where can i get an appointment",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "where can i go to have my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "i need an appointment for someone to check out my check engine light being on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "my check engine light is on so is anyone available to check it out for me",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can someone take a look at my car because the check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "do you have time today for someone to look at my car because the check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "find a place near me to have my tires inspected",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "where can i get a appointment for a tire check for the car",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to bring my car in because the check engine light is staying lit",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get someone to check my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can someone tell me why my check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "my check engine light is on, i need someone to look at it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can someone look at my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "my check engine light is on and i need someone to look at it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will someone please look at my check engine light that is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can someone look at my check engine light that's on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "could someone look at my check engine light that's on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get someone to look at my check engine light that is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "should i schedule a car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "should i go to a car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "should i call a car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "may i schedule a car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "should i take my car to a maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "can i make a car maintenance appointment",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "which gas would be best",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what type of gas should i use",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "which type of gas should i get",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me what gas this car takes",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me this vehicles gas type",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what fuel should i use for this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of gas should i use for this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the gas type for this vehicle",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "for this car what kind of fuel does it take",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the type of gas for this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know what kind of gas this car uses",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what gas does this car use",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what fuel do i put in this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what type of gas goes into the car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what type of fuel does this car utilize",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what type of gas do i put in this new car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what type of gas do i use in this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a certain kind of fuel needed",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what gas goes in the vehicle",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what raiting of gas is called for",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of gas goes in",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me what kind of gas your car uses",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of gas does your car use",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "the car you are driving uses what kind of gas",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of gas can i put into this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "which gas type goes into this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "which type of gas does this car take",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i need gas what type do i need for this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what types of gas can i get for this car",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "which type of gas does my car use",
+    "intent": "gas_type",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "when would you change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the next time i should get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how soon should i get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how often should i get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know when i should get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when should my tires be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know when i should change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how soon till i need to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me when my tires have to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "am i almost due for a tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my car due for an tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i know when to get the tires changed on my car",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how often should my tires be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how often should i change the tires on my car",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "i replaced tires last june when should i do it again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "on feb 3rd i changed my tires are they still good",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "my tires are 29 months old should u change them",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when do my tires need changing after i replaced them last week",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "in september i changed my tires are they in need of changing",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i know if it is time to replace my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long does the average set of tire last before needing replacement",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long are my tires expected to last before needing to be replaced",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how many miles are my tires rated for",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the time for a tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "my tires should be changed when",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when to get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when is it time for a change in tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the timeframe for getting my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when i'll need new tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when will my tires need to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what was the date of my last car appointment",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "was my car in the shop this past week",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "how many weeks ago was my car in the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "did i get my car inspected recently",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i cannot remember when i last took my car to the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "did i bring my car to the shop last week",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "when did i get my car inspected last",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "give me the date that i last got my car checked",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "did i take my car to the mechanics recently",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when i got my car checked last",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "when did i last take my car to the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "give me an exact date of when i took my car to the mechanic",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "remind me of the last date that i got my car checked",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "when was my last visit to the car shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "when was my car last in the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "how long ago did i take my car to the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "how long has it been since i last took my car to the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "when did i take my car to the shop last",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "give me the date of my last oil change",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when i last had my oil changed",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "when was my oil last changed",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what day did i last take my car to the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "have i recently had an oil change",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what was the date of the last time i took my car to the shop",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what day did i last take my car in",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when my last oil change was",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i last got my oil changed when",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what day did i last have the oil in my car changed",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what was the date of my last oil change",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like to know the last time my car got looked at",
+    "intent": "last_maintenance",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "pull up the map and show my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where am i currently",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where is my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my map location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "find my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me the current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to see my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the location where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where am i located on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where am i currently located",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "show my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i am currently located in what town",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "my current location is what",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "give me my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "whats my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "show my position on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where is my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "current location please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "display my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where am i",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "find out where i am on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where am i on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "show me where i am on the map please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "open map and pin point my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "show me my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what could help me locate myself",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need assistance with my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "where would i search for my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get downtown by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get to the subway by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get to the train by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get to central park by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get to the airport by foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest wal mart",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i want directions to phoenix",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i must understand the nearest gas station to glendale",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need some directions to phoenix",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "give me directions to phoenix",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i must know the closest gas station to glendale",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest fry's",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest papa john's",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i would love to know the closest gas station to glendale",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "get me directions to phoenix",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest k mart",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest circuit city",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know the nearest gas station to glendale",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the closest gas station to glendale",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest movie theater to time' square",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the closest bathroom to the statue of liberty",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the closest mcdonald's to foxwoods casino",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest marijuana dispensary to kentucky fried chicken",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the closest hospital to madison square garden",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the closest pharmacy",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "show me the nearest gas station",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "which hospital is nearest to me",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know where the hospital closest to me is",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where is the nearest arco gas station to macdonalds",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "find the closest cvs near galleria mall",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get to work on my fuel tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get to susan's house with my current tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have enough gas to get home",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have enough fuel to travel to san diego from here",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "will i make it to my current destination on this fuel tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can i make it to los angeles with this fuel level",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can i reach seattle with this amount of fuel",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have enough gas in my tank to make it to washington dc",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have enough gas in my car to make it to dallas",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "will i run out of gas before i reach atlantic city",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me where my gas tank is",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "where can i find my gas tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "where is my gas tank located",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how many gallons do i have left in my gas tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how's my gasoline how much do i have left",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what percentage full is my gas tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how full or empty is my tank of gas",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much gas do i have left in my tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how full is my gas tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how many more miles can i drive on my current tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much gas is left in my car",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how full is the gas tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what does the gas meter read",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much of the gas do i have left",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much gas do i have here",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much gas do i have in the tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me how much gas is in my tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my gas tank levels",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the data of my gas tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much gas do i have in my tank",
+    "intent": "gas",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what should i do to get my car jump started",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i need to do to get my car jump started",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i go about jump starting my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what steps should be taken to jump start a car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what can i do to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know how to get my car jump started",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "my car needs a jump start; what do i need to do",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me how to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what steps should i take if i think my car battery is dead",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm almost certain my car battery died, please tell me what to do",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "please give me a quick tutorial on jump starting my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "will you guide me through the process to jump start my car, please",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what steps do i need to follow to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i do if my car battery died",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i do if i suspect my car battery is dead",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i need instructions to walk me through jump starting my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i believe that my car battery has died, what do i do next",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "can you give me instructions on how to jump start my car, please",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i wanna know how to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i do now that my battery is dead",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "my car battery is dead what do i do",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i really need to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what should i do now that my car battery is dead",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i need to do now that my battery is dead",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i have to jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what shall i do now that my battery is dead",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i gotta jump start my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the process for jump starting my car",
+    "intent": "jump_start",
+    "domain": "auto_and_commute",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  }
+]

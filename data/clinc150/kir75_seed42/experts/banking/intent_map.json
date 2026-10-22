@@ -1,0 +1,14 @@
+{
+  "0": "account_blocked",
+  "1": "balance",
+  "2": "bill_due",
+  "3": "freeze_account",
+  "4": "min_payment",
+  "5": "pay_bill",
+  "6": "pin_change",
+  "7": "report_fraud",
+  "8": "routing",
+  "9": "spending_history",
+  "10": "transactions",
+  "11": "transfer"
+}

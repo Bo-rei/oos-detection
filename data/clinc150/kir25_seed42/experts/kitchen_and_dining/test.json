@@ -1,0 +1,962 @@
+[
+  {
+    "text": "number of calories in coke",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of calories do chicken tenders have",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "calorie content of dr pepper",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the calorie content of chicken nuggets",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories are in hamburgers",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie count for this milkshake",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories does an orange have",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the total number of calories in this pizza",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories are in a burger",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "rolls have how many calories",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie content in bananas",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie content in peanut butter",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie content in french fries",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie content in potatoes",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie content in spaghetti",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the calorie content of spaghetti",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories are in a sandwich",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what number of calories are in a pizza",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the number of calories in a steak",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories are in a cheeseburger",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can you check the amount of calories in a chicken sandwich",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the calorie count of a burrito",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "calorie check, cheese burger",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories are in a taco",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can you see how many calories are in cream of mushroom soup",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "the intake of calories it it bad",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is alorie intake",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hoq many calories does pasta have",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how many calories can i expect to be in fries",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the calorie content of french fries",
+    "intent": "calories",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "does applebees have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "are the reviews ned get's good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "is the review ned's have good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "are ned's reviews good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "are the reviews for ned's good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how are the reviews for tacos at the buffet",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do they serve good tacos at the buffet",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "my favorite, beef tacos at the buffet",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "they sold out of tacos at the buffet",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "yum, pulled pork tacos at the buffet",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what do people think of the new burger at mcdonalds",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how are the reviews for the supreme pizza at papa john's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what are people saying about chick-fil-a's chicken nuggets",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "show me the reviews for the new jalapeno fries at taco bell",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "give me some feedback about the pasta at piada please",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how is gramercy tavern rated",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how many stars does babbo have",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "does cielo have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do people say per se is any good or not",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what do food critics say about gramercy tavern",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what are the reviews like for l'auberge aubergine",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how many stars does brasserie les halles have",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what rating do the critics give the french laundry",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "does acero have good or bad ratings",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "has the french laundry gotten good reviews lately",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of reviews does the olive garden have",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the average review for olive garden",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "oliver garden reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "does olive garden have good customer reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "does olive garden have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "is the resataurant busy at 5:00 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how busy is the cafe at 7:00",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "would tio's be crowded at 7",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get a table for four at 8:00",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is the friday's full after 4",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long is the wait at fridays",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is the mexican place crowded at night",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "are cool people at the bar at 9:00 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the best time to go to get a burger without a line",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long before i can eat at chic fil a",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long to be seated at carrabas",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is the wait at pizza hut long",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is the breakfast place full in the mornings",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is the wait more than an hour at the italian place",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me how busy red robin is at 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i wanna know how busy denny's is at 5 am",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know how busy denny's is at 6 am",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how busy is red robin around 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "so how busy is the outback steakhouse at 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me mr joes pizza average wait time",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is mr joes pizza available for a seating",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "does mr joes pizza usually have a long wait",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you find out the waiting times for mr joes pizza",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the typical wait time for mr joes pizza",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how busy is cheesecake factory right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long is the wait at cheesecake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how long will i have to wait at cheesecake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is cheesecake factory busy right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "check how busy cheesecake factory is",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a long wait at chili's around 5:00",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can i do a reservation at sammy's crab shack",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does bill's house of chop suey accept reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "check if bj's takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does bj's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "will bj's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know if i can make reservations at bj's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me if the new york restaurant takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can i reserve tables at the new york restaurant",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know if the new york restaurant takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does the new york restaurant take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is it possible to make reservations at the new york restaurant",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do you have any idea if the flying wing does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does village inn let you make reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is it possible to get reservations at ihop",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is it possible to reserve a table at white castle",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do you think they'll let me reserve a table at the olive garden",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do they take reservations at applebeesi",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does applebees do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can applebees take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get reservations at applebees",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does applebees take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me if taco bell takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "any clue as to if taco bell takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know if taco bell takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "any idea as to if taco bell takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know if l'arpege will ask for reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "will we have to make reservations for roca",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "does osteria francescana take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "do you have any idea if central needs reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "eleven madison park takes reservations right",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  }
+]

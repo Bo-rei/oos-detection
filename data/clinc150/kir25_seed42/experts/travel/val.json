@@ -1,0 +1,642 @@
+[
+  {
+    "text": "in spanish, meet me tomorrow is said how",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "in french, how do i say, see you later",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you say hello in japanese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i ask about the weather in chinese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i say \"cancel my order\" in french",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i say dinner in spanish",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you say good bye in french",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i say thank you in spanish",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i say good bye in chinese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i say thank you very much in chinese",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know how to say hello in france",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "would you tell me how to say goodbye in france",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you say hello in mexico",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how to say hello in chile",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to know how to say goodbye in france",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "would you translate a sentence into russian for me, please",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "would you translate a phrase into mandarin for me",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you translate this name into spanish for me, please",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "could you translate this into chinese for me, please",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "could you translate water into dutch for me",
+    "intent": "translate",
+    "domain": "travel",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is traveling to france safe",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is france safe to travel to",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know is traveling to france safe",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can i travel to france as far as safety goes",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can i safely travel to france or is it dangerous",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any current travel alerts for brazil",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for seattle",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how safe is it to travel to guatemala right now and are there any alerts",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for juarez",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the danger level of flying to russia right now",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for antarctica",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for mountain view",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "does mexico have any travel alerts i should know about",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "does greece currently have any travel alerts in place",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "are there any travel alerts for brazil",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how safe is it to visit spain",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how safe is visiting canada this week",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "have the riots in france triggered any alerts for people traveling to there",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is there any danger going to brazil",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is it safe to travel to mexico",
+    "intent": "travel_alert",
+    "domain": "travel",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what kind of sockets do the us use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "does my tv need a socket conveter in ny city",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "does denmark use different sockets",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "in france do they require socket conveters",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what type of socker conveters do i need in africa",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm going to paris, what plug type do i need",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what type of outlets do they have in the uk",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "in australia what outlet type do they use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "do they use a different plug in brazil",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what kind of plug is used in japan",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "which electrical plug type should i bring with me to finland",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what kind of electrical plug do they use in the uae",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what type of electrical plug do they use in spain",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what electrical plug do they use in the uk",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what sort of electrical plug do they use in mainland europe",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what are the cuban plugs like",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what plugs are in england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how are british plugs",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what plug does colombia use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "which plugs does england use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "if i plan on travelling to this country, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "do i need a visa if i go there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "for going to that country, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does one need a visa to go there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "if i travel there, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does going to taiwan require me to get an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "if i go to brazil, do i need to get an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "should i go to okinawa, does it require an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is an international visa needed to go to cyprus",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to go to china but am not sure if i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "should i get an internation visa to go to switzerland",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does south korea require an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "will i need an international visa to go to madagascar",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "is an international visa needed for canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "do i need an international visa to get into italy",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "if i go to uganda, do i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "do i need a travel visa for the uk",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "am i going to need a visa for traveling to canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does canada require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "does the uk require a travel visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  }
+]

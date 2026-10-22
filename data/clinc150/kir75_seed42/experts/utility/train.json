@@ -1,0 +1,8802 @@
+[
+  {
+    "text": "please set a 4 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a timer for 6 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a 7 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to set the timer for two minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set a timer for me for fifteen minutes starting now",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "start the timer now and stop at thirty minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to set the timer to go off in ten minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a timer for 40 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "wake me in an hour",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a timer for cookies",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a timer set",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "remind me in (x) hours",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set timer for (x) minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta have a 10 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a 10 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i wish to have a 10 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i really need to set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a new timer for ten seconds",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a 10 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a 10 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a brand new timer for eight seconds",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a ten second timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i must set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for twelve seconds",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for fifteen seconds",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when two minutes are up",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "start a timer for two minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for two minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "start counting down from two minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set a timer for two minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "\"please set 5 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can u please set the timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set timer of 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "\"can u set a timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a one hour timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a timer for 20 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a five minute timer please",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for two hours",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set a two hour timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set the timer for me please",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to set the timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to set timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set the timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like a timer set",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to set a time",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a timer set for 15 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "start a countdown for 20 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for 15 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i'll need you to set a timer for 10 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "let's get a timer set for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer for 35 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please start counting down from 10 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "let's get a timer going for 10 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a timer for 20 seconds",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "timer 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "alert me in 20 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a 10 minute countdown",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know in 15 minutes please",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm cooking an egg, timer for 3 mins",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "10 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "start a timer for 10 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "timer 10 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "count down 10 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "make up a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "create a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set up a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "could you start a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "lets set a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please run a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a one minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a five minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a seven minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "start a timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a four minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a six minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set a timer to go off in 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to set a timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "make a timer for 5 minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a timer for",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "remind me that time is up in sixty minutes",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for nine minutes from now",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when ninety minutes have passed",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please set timer for 4 pm",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "want 5 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "set 30 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "get a 3 minute timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "please, can you set the timer for me",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please the timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "will you set the timer",
+    "intent": "timer",
+    "domain": "utility",
+    "split": "train",
+    "label": 10,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of realism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is regard mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of interorganizational",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is it is all relative mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is intercontinental mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of supercede",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is let it be mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of incomprehensible",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of stupendous",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of intelligent",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is good riddance mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is break a leg mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of hyperactive",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of valor",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is stupedous meant",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "find the meaning of qat",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what the heck is qat",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define qat for me",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "read me a definition for qat",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "look up qat please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what might the meaning of altruism be",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "exactly what does altruism mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does altruism mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of altruism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of altruism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "affiliate's definition is what",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "the definition of affiliate is",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the meaning of affiliate",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's affiliate definition",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "definition of affiliate is what",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the definition of poor",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "describe the meaning of \"dog",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does \"money\" mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the word die means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of succumb",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of telepathy",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does tertiary mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the definition of the word redemption",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of the word lux",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is an ataraxy",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does the word ataraxy mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does ataraxy mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "use the word ataraxy in a sentence",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define ataraxy",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does discretionary mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define discretionary",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know the definition of discretionary",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give the definition of deiscretionary",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let's hear the definition of iridium",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the definition of analogy",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the definition of sucrose",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "definition of anachronism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the definition of patriarchy",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the definition of yttrbium",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please share the definition of episcopalian",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does saffron mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define sonogram",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define thoroughbred",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the meaning of a fortnight",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is an anachronism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the meaning of emulsify",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what cyst means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of flange",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what flange means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define flange",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "flange means what",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of flange",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does \"rescind\" mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of word \"rescind",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is \"rescind\" a word of positive connotation",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where i can use word \"rescind",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "read me the definition of ajar",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does ajar mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you show me the dictionary definition of ajar",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what monstrosity means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the definition of ajar",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of didactic",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know what adumbrate means can you look it up for me now",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know what the word discomfit means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "find what the word diaphanous mean please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know what calumny means  please look it up for me",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "find out what the word abrogate means for me",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what edict means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does the word abjure mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what dirge means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the word arboreal means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the definition of transmute",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meaning of the word slander",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is meant by defense",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the word bounty means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does deceive mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "define zesty",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "look up zesty in dictionary",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "definition of zesty",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the definition of zesty",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does zesty mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what alternative means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what does alternative mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the meaning of alternative",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the meaning of alternative",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help finding my mobile phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me figure out where my cell phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a hand finding my mobile device",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't find my cell and need help locating it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me find my cell",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help, i cannot find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't seem to find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "are you able to track a phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my phone cannot be found",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i have misplaced my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know where i left my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i left my phone somewhere",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am looking for my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me find my lost phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help figuring out where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me figure out where my lost phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me find my phone, because i lost it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i lost my phone, can you help me find it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "who has seen my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "have you seen my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "find my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where was the last place i had my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find my iphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "call my phone, i can't find it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find my lost phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me find my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my phone is lost - can you help me find it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where is my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai can you help me find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, i lost my phone, help me find it please",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, please help me find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my phone is lost, can you help with that",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "find out where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "locate my phone please",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the location of my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my phone is currently lost",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't remember where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "locate my phone for me",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "the location of my phone is unknown to me",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please aid in my searching for my lost phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where did i last place my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you assist me in locating my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is my phone in the house",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i lost my phone and need help retrieving it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me search for my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "misplaced my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need my phone, but can't find it",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i lost my phone and need assistance",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't find my phone do you know where it is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know where my phone is located now",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you track the location of my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know where i left my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where is my phone now",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "alexa, tell me the location of my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "siri, where is my iphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "siri, tell me where my iphone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "siri, find my iphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to help me find my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me find my cellphone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where did i put my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like some help finding my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i seemed to misplaced my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i lost my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need some help finding my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you locate my phone for me",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know where i put my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help find my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know where my phone is",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like help finding my fon",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me where i left my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please locate my phone",
+    "intent": "find_phone",
+    "domain": "utility",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in punta gorda, florida",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in glenwood springs, co",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in fredericksburg, tx",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in las vegas, nv",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in houston, tx",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the current time in the central timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "would you tell me the current time in the eastern timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know the current time in the central timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what time it is in the central timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i am needing to know the current time in the eastern timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time right now in the hst timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the current time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current time in cst",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know what time it is in florida",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in the mst time zone, what time is it right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what time it is right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the current time in the pacific timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "look up the time in california",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current est time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what time it is please",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it getting to be",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time do you have on your watch",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time would it be in rome right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time in london",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time set to in florida right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it currently in istanbul",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it right now in paris",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "current time, please",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "would you mind telling me the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give me the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please let me know what time it is",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exact time right now in the hawaii time zone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time right now in the peruvian time zone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exact time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it exactly in the new zealand time zone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exact time in the ist time zone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time in the utc timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it exactly",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in russia",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time in sydney, australia",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in honolulu",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current time in greenwhich",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current time in est",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it on the pacific coast right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "given my time, what time is it in mst",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "have you the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "when is it right now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what hour and minute is it",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it right now in cst",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in the eastern standard timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in the pacific standard timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in the alaska standard timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in the central standard timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in the mountain standard timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "now what is the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "at the moment what is the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know the current time in southern california",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current time in china",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current time in mexico city",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current time in new york",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current time in istanbul",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in buenos aires",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in north korea",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what does it say on the clock",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in tokyo, what's the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in tokyo, what time is it",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time in tokyo",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "time in tokyo",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in tokyo",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "the time please",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know what time it is",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "the current time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in the eastern timezone, what time is it now",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in the central timezone, what time is it",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current time now cst",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in pacific time, what's the current time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it now pacific time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current time, please",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current time, please",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time, please",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "how is the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in london",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in new york",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in paris",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is it in daniel boone national forest timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time in atlantic timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time in anchorage timezone",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "in bst timezone, what time is it",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have the time",
+    "intent": "time",
+    "domain": "utility",
+    "split": "train",
+    "label": 9,
+    "source_split": "train"
+  },
+  {
+    "text": "please flip a coin and tell me what side it lands on",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will you flip a coin so i can make a choice",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a two sided coin and tell me what it lands on",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to flip a coin so i can decide",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "begin the coin flip now",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to help me make a decision by flipping a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please flip a coin, and i call heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin and let me know if it lands on heads or tails, please",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to flip a fair sided coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are you able to flip a two sided coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to flip a coin so i can make a choice",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please flip a coin, i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin, i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "heads or tails i choose tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me if a coin lands on tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me if a coin flip lands on heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please flip a coin i select tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will you flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get a coin and flip it",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would you flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will you get a coin and flip it",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin for me, with you calling heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to throw a virtual coin for me",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a random heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you do a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a coin flip and i'll take tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i call tails for a coin flip you need to do right now",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do a virtual coin flip and tell me if i win as tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "randomly pick between heads or tails and tell me if tails wins",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "toss a coin and tell me what it lands on",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "choose heads or tails and tell me what you came up with",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a fair coin i win if it's tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin for me i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip me a coin i'm calling tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "take a coin and flip it and i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "hey, flip me a coin i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin one time",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip that dime",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to do a fair coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip that coin once; it must be tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a quarter",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do one coin flip; it will be tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin; i say tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how about a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "let's decide with a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you flip a coin once",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if you flip a coin, i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "let's settle it with a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please flip a coin i hope its tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to flip a coin once",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip that coin please",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip the coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip that coin please, i choose heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip that coin now",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i choose heads, now flip that coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and flip that coin, i am choosing heads here",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip it please",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i am choosing heads, now please flip that coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and flip that coin, i choose heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you flip a coin and tell me the result",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i will determine it with a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin and tell me if its heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin if you will",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you do a coin flip for me",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to have a coin flipped",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i ned you to flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a coin flipped",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin for me",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i require a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "lets go with heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "lets flip for it",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "toss a coin i will take heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "lets do a coin toss, i call tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "filp a coin, i call heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "spin a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "lets do a coin toss",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "toss a coin i will take tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "heads or tails please",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, please flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, give me the results of a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin for me ai",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin, you win with heads",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you flip a coin, i will take tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and flip a coin, i am calling tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please flip a coin for me, tails i win",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "flip a coin, i have tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "heads or tails",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "perform a coin flip",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do a coin toss",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "help me flip a coin",
+    "intent": "flip_coin",
+    "domain": "utility",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know what today's date is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need information on today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what date it is please",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what day today is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me tomorrow's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date for tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know tomorrow's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the month and day tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "in six days, what will it be",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day will it be in fourteen days",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "which day will it be five days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "after another eight days, what day will it be",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day is it gonna be in twenty-one days",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "current date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day of the month is it today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what date is it",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the date today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please share today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what date is it today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day is it",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the day",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what day it is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is it monday, tuesday, wednesday, thursday, friday, saturday, or sunday",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the day of the week",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the date tomorrow, please",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date tomorrow, please",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is tomorrow's date, please",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what today's date is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is today's month, day and year",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "today's date is what",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know today's date please",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please tell me today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "today's date is what exactly",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me what date it is today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what would tomorrow's date be",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the date today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know the date tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "in 2 days, what date will it be",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what will be the date tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what will the date be in 10 days",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "15 days from today, what will the date be",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the date tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know what date it is tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "in 100 days from now, what will be the date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what will be the date in 100 days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the date is tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me tomorrow's date please",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day is it today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have the date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date of today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what date is today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "today is what date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the day today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what year is it",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the date 400 days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the current date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the date 650 days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current date, month and year",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what will the date be 100 days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day of the week is it",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day will it be 373 days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the date in 256 days",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the date today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know what the date is today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know what the date is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's today's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the date is today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "show me a calendar",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "show me the date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the full date for today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day of the month is it",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you remind me of the date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tomorrow, what will the date be",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the date is for tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the date will be tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is tomorrow's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's tomorrow on the calender",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what date is tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "calender says tomorrow is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me tomorrow's date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the date tomorrow is what",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "when will it be in 10 days",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what day is it tomorrow",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the full date after today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the date 32 days from now",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the date",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what will the date be in 64 days",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what the next day is",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's today",
+    "intent": "date",
+    "domain": "utility",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a d20",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 12 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 10 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to roll dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like a 7 sided dice roll please",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to roll a 10 sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll a 7 sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "let's roll some dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to roll some dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll a fair, 6 sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to roll a dice and get the result",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll a dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to roll a dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "help me roll a dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a dice for me",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and roll those dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to roll an 8 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to roll dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and roll that 9 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a 7 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll the 10 sided dice on time",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a pair of dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please do a dice roll",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll a 6 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a 6 sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll a die now",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll this dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a 10 sided die rolled",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like a 10 sided die rolled",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "would you roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "role a 10 sided die for me",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "could you role a ten sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll a 10 sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "the dice need to be rolled",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like the dice to be rolled",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "toss a die would you",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "play vegas baby roll a dice for mama",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "find a virtual dice and roll it for me please",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a dice and give me a number from 1 to 6",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll dice now",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll dice please",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 6 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 3 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 5 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 2 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you roll a 4 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a random number between 1 and 6",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to roll a dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, please roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll that dice, ai",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, would you kindly roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, go ahead and roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll the dice, ai",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "could you roll a 6 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll a 6 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to roll a 6 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a 6 sided dice for me",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "could you roll the 8 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll the 12 sided dice please",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and roll the 6 sided dice for me",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll the 10 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please roll the 5 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "give the dice a roll",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll the dice for me",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "could you roll the dice please",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to roll dice now",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "provide a random roll of the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "throw the dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll the dice!",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll the die!",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "shoot the dice!",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "throw the dice!",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll them bones!",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "6 sided dice roll",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll 6 sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll die, 6 sided",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a die with 6 sides please",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a die with 6 sides",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you get if you roll a six sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the result of a dice roll with five sides",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you get when you roll a dice with five sides",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know how much you get when you roll a ten sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when you roll a six sided dice what is the results",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll an eight sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a pair of eight sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an algorithm to give me the result of rolling one twelve sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what number do you get when you roll one six sided die",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a pair of six sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you roll a 4 sided dice",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "roll a seven sided dice for me",
+    "intent": "roll_dice",
+    "domain": "utility",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "place a phone call to yiming",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "phone lobby",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call dominos pizza",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you redial the last number dialed",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call 911",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call a taxi",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call mom",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call work",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call justin",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call home",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call erryn",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to call the commander",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i will be calling hr",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "it is important that i call katie",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "x is who i need to call",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to call the landlord",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call macy",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial lisa's cell phone number",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please dial david now",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to call michael at home",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call mary",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please phone lizzy",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please dial x's phone number",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial x's phone please",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please call toby",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call dave",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call my best friend",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a phone call to mark",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call my mom",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call mark",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call friend",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i call a restaurant",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a phone call to kevin",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call bob for me",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call my mother",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call jim",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a phone call to roger",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a phone call to dave",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call mymother",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a phone call to randy",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "bella needs to be called",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "give liz a call",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "would you give jenny a call",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to call bella",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "phone call secretary",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "get a hold of sue",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm looking to call a group",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call tom",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial x's number",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial christie's cell",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call christie's work number",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "phone christie",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call christie",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please dial christie's number",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call someone",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call someone for me",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial someone's phone number",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to talk to someone on the phone",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call someone",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "it's time for me to call drew",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "it's necessary to call michael",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i must call jordan",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "x is waiting for me to call",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "put me on a call to sally",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "place a call to bill now",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to place a call to mike",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to call jane",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call russell",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "place call to robby",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial sarah",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call robby",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "phone sarah",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call sarah",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call robby for me",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to call robby",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you call robby",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "phonecall sarah",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to talk to sarah",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "dial steven",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "phone steven",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "ring steven",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call steven",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to make a call to uncle",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "use my phone to dial work",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "start a phone call with kathy",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "initiate a phone call with receptionist",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can a phone call be made to maria",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to call the broker",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please do me a favor and call brother mario",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please call nata",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call sandra right now",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "immediately call tom",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i must call dr smith",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "connect me to bob",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "place a call to father callahan",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i should call ruthie",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please call christy",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i must call roderick",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please make a phone call to christopher",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to call mark",
+    "intent": "make_call",
+    "domain": "utility",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "wake me up at noon tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set my alarm for getting up",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make sure my alarm is set for three thirty in the morning",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set an alarm for mid day",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have an alarm set for three in the morning",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "you need to set alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to set alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set the alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make a new alarm for 6 in the morning",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make a new alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create an alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm for 6am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you alert me at 6 in the morning",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like a new alarm set for 6am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for 6am, please",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "initiate a new alarm please",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set up an alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make up a new alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to make an alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like an alarm set",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule an alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm set",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need alarms set for 6am and 615am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm to go off tomorrow at five fifteen",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set an alarm for seven fifteen for tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set me an alarm for 4pm and another for 5pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set one alarm for 215pm and another for 7pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create an alarm for 9 am and another one for 11 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set the alarm to go off at 9 tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make an alarm for tomorrow at twilight",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set up two alarms one for 10am and another for 2pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set up an alarm to go off tomorrow at daybreak",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you set one alarm for 8am saturday and one for 9am sunday",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i turn on the alarm now",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i set the alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please turn on the alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set my alarm for 6am tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set alarm for 6am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you play an alarm at 5pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create alarm 6am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set alarm for 5pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make an alarm 6am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create an alarm for 6am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "put in an alarm for 5pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want an alarm at 5pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set my alarm for 5pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm to wake me up at 8 tomorrow morning",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to set an alarm for 8am tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set an alarm for 5 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for 9pm please",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm set for 6 in the morning",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm set for 10:00 and another set for 3:00",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for me for 10:00 and another one set for 4:00",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you set my alarm for 10:00 and another for 3:00",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "provide assistance by setting an alarm at 8:00 and another for 11:00",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "assist me by setting my alarm for 9:00 and another for 11:00",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tomorrow i need an alarm at 7 tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "at 9 tomorrow, set off the alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tomorrow i would like an alarm for 9 tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tomorrow i need the alarm to go off at 5",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "sound the alarm at 6 am tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set reminder for 2 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "wake me up at 6 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "ring my phone at 12 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set alarm for 5 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set an alarm for 2 pm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for 5 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make an alarm for 7 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set a 5 am alarm please",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm at 8 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm to start work and another to stop",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm to go to sleep and another to wake up",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set a reminder for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm to work out and another to go home",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create an alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for lunch and another for dinner",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make an alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "set an alarm for my meeting and another for my phone call",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want an alarm set up",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm set please",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have an alarm wake me at 10:30 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want an alarm to go off at 9 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm set for 9 am and another for 11 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm set for 5:30 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to schedule an alarm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please create an alarm for 5:45 am and an alarm for 6:15 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you set up an alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please create one alarm for 330 pm and one for 8 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please create a new alarm for me",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an alarm to go off at 6 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please set two alarms, one at 12 pm and the next at 1 pm",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please create an alarm for 12 noon",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need one alarm to go off at 6:30 am and a second alarm set for 8:00 am",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me get up at eight thirty in the morning tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to be woken up at 9 tomorrow",
+    "intent": "alarm",
+    "domain": "utility",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the spelling of potato",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell potato",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the spelling of potato",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell out potato",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell tomato",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you spell water",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell water",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how is water spelled",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "water is spelled how",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell water",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the letters in 'you' word like",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "the word 'you' got how many letters",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell out university",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell out newspaper",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell out shepherd",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell out espresso",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell out wednesday",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you spell \"diatribe\" for me",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell \"requisite\" for me",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the right way to spell miscellaneous",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell syzygy",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to spell anonymous",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how is the word economy spelled",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you spell out the word special for me",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how many r's are in restaurant",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to spell excellent",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell the word restaurant for me",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how many p's are in apple",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many e's are in sesame",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how many a's are in magical",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the proper way to spell diamond",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know how many o's are in honor",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the right spelling of rambunctious",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i spell catheter",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how to spell manipulation",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the correct spelling of judgment",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the spelling of cancer",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell antithesis",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i spell ambitious",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell verisimilitude",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell asian",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the spelling of multimedia",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how to spell elephant",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell hotdog",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you spell hamburger",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell government",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to spell automobile",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to spell friend",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how is friend spelled",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how is the word acquaintance spelled",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell friend",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i spell acquaintance",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the right way to spell indict",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how to correctly spell cemetery",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell mississippi",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i wish i knew how to spell mississippi",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you remind me how to spell because",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to spell conscience",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to spell xylophone",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell guerrilla",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i am not sure how to spell punctuation",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i forget how to spell xylophone",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell spaghetti",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell threshold",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell circumference",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell squirrel",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell mississippi",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i spell avocado",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the complete spelling of definitely",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know how to spell cemetary",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how handkerchief is spelled",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know how acommodate is spelled",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "count the number of the letter a in happiness",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "the word is happiness; how many a's can you find in that word",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "find all the \"a\"s in happiness",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell how many a's are in the word happiness",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many a's can you find in the word happiness",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the correct spelling for antipathy",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how does the dictionary spell antipathy",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell antipathy",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "spell antipathy for me",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give me a spelling for antipathy",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell superficial",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help spelling superficial",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to spell superficial",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't figure out how to spell superficial",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the right way to spell superficial",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many es are in receiving",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell anethesia",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell malfeasance",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell theater",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell apparently",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the proper way of spelling seance",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many ts are in tethered",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many cs are in acquiescence",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many ss are in narcissism",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you spell sanguine",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me spell facetiousness",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know how to spell drought",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how man z's are in zombie",
+    "intent": "spelling",
+    "domain": "utility",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text elizabeth and tell them i forgot to bring drinks",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text wenona and tell her we will be there tomorrow",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text christopher and tell him i will stop by",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text audrey and tell her i will be there soon",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text christy and ask her what she wants for dinner",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text christopher and tell them im on my way",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text roderick and tell him im running late",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text marissa and tell them to stop calling me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text arthur and tell them im almost there",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text kayla and tell them im running late",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text chris and ask what time he will be home",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text and tell chris i’m not working today",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text message chris and say i love you",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send chris a text message that says stop for milk on your way home",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text message to chris and ask what he wants to eat for dinner",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send ally a text message the message is that i just landed",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "could you send a text to marty and say i am running behind",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text to brooklyn with the message that i will see them later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please text nancy and give them the message that i am on vacation",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text bill and tell him i'll be 30 minutes late",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text to lisa and ask her to call me when she gets home",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "give a text to my cousin linda that says happy birthday",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text tony and invite him to my party next saturday",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send my brother mike a text that says i'm home",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to send a text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to text someone for me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send sal a text and tell them thanks",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to send a text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text sal and let them know the answer is yes",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "let sal know by text i will be attending",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to have a text sent",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text sal and tell them hi",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need sal to be texted and say i'll be there",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please send ann a text and tell her i will be home in 20 minutes",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please send a text to phil and ask him if he wants to play golf this weekend",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send bill a text for me and tell him i will be 30 minutes late",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text to ashley and ask her what she wants to do for supper",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send amy a text for me and tell her i need to meet",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to send a text message to",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "create a text message to",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "communicate via text to",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send text message to",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text message for me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please send a text message to natalie for me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to text natalie",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to send a text message for me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a message to natalie in the form of a text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "message mom where are you",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "compose a text to mom i'll talk to you later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send mom a message i'll talk to you later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send mom a text asking where are you",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text for me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to send a text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text to mom i'll talk to you later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text mom i'll talk to you later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text robby hello",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text mom and let her know i'll be there soon",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text mom where are you",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send mom a text i'll talk to you later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "compose text message",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a message to mom be there soon",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "start a new text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "create a new text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "set up a new text message",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text message to alice",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text alice",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "write a text to alice",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text a message to alice",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my doctor and tell him it happened again",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text mary and tell them i'm on my way",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text robert and tell him winter is coming",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text nick and tell him the car's ready",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my wife and tell her i'm divorcing her",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell bob to get his dog via text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you send a text to my mother irene and tell her i love her",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text mary and tell them it's ready",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you ping priest chris with a text and send the following confession",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you text the sgt adam and tell them i found the missing girl",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text matt and tell him i will be late tonight",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text paul and ask him what time the cookout is on saturday",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "start a new text to maureen and tell her i go mom's christmas present",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text billy and tell him to be at monday's meeting at 3pm",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text william and ask him to pick up organic apples tonight",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "write text message to someone",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text someone",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you send a text to someone",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "write text and send to someone",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text to someone",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my friend for me and tell them to meet me later",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my boss for me and tell them i will be a little bit late",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my coworker for me and tell them the due date",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my dad for me and tell them i love you",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text my mom for me and tell them i will be home soon",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please send a text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "send a text message",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to send a text",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "can you send a text for me",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "create a new text message",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "please send a message to peter telling him to pick up milk",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  },
+  {
+    "text": "text josh and tell him i need a delivery",
+    "intent": "text",
+    "domain": "utility",
+    "split": "train",
+    "label": 8,
+    "source_split": "train"
+  }
+]

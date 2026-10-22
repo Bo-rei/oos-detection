@@ -1,0 +1,722 @@
+[
+  {
+    "text": "please book a meeting room for thusday at 4:00",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "would you please schedule a meeting room for 4:00 on thursday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "could you schedule a meeting room for 4:00 on thursday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "will you schedule a conference room for thursday at 4:00",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you reserve a meeting space for 4:00 on thursday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know how to schedule a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please help me figure out how to set up a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need assistance scheduling a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "walk me through the process of scheduling a meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "help me set up a meeting please",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need a meeting room between 3-7, are any available",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me if there are meeting rooms available between 1 and 4",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "are meeting rooms free between 8-3",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know if meeting rooms are open to use 1-2",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you check if meeting rooms are available between 4 and 5",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "meeting rooms open between one and three pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "check meeting room availability between one and three pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what meeting rooms are available for meeting 5pm friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "reserve a meeting room for friday, 5pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "one and three pm are there meeting rooms open",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "friday 5pm schedule a room for meeting",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "open meeting rooms from one to three pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you reserve a room for a friday meeting at 5pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "reserve a meeting room for 5pm on friday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "check meeting rooms available between one and three pm",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to schedule meeting room for monday at 2:30 pm, please",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like you to reserve a conference room for noon tomorrow",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please reserve a meeting room for 1:00 pm on tuesday",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "go ahead and hold a conference room for friday at 11 am, please",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you book a meeting room for friday at 9:00 am",
+    "intent": "schedule_meeting",
+    "domain": "work",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "are there meetings scheduled for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "check today's calendar for meetings",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "check my schedule for meetings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "list meetings on calendar for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "exactly what time is my meeting with robin scheduled for on",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "for what time is my meeting with marketing scheduled",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what time is my meeting with design team scheduled for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my meeting with infrastructure",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my meeting with invoicing scheduled",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is the meeting with lisa today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "are there meetings from 1 to 5 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when for i meet jane for our meeting",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me if i have a meeting with liz today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a meeting with sam today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have a meeting with paul today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is there any meetings from 5 to 6 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my meeting with jim scheduled for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "are there any meetings between 2 and 5 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is it possible i have a meeting with kim today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "my meeting with alice is scheduled for when",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my meeting with jack for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my meeting with ann",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have any meetings between 1 and 8 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know if i have meetings from 3 to 6 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have any meetings scheduled today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "give me a summary of today's meetings",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when today's meeting is supposed to happen",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what time is today's meeting",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "check the start time of the meeting scheduled for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "am i supposed to attend any meetings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i set up a direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "chase account direct deposit options",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "set my paycheck to direct deposit to chase account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "activate direct deposit to chase account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "chase account options direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "bank options direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i set up a direct deposit for my paycheck",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how to activate direct deposit to chase account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "get my paycheck to direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need a direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can we get a direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "setting up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get my paycheck into direct deposit at nations bank",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you tell me how to set up direct deposit for my check from work at nations bank",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "if i want to direct deposit my check into my nations bank account how do i do that",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know how to do direct deposit with my paycheck at nations bank",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you tell me how to direct deposit my check from work into nations bank",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how does one set up direct deposit to my bank account",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i need to do to set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the process of setting up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "if i want to set up direct deposit, how do i do it",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm not sure how to set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me how to set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like my checks to be deposited into my account directly, how do i do that",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like to set up direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i set up my direct deposit",
+    "intent": "direct_deposit",
+    "domain": "work",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  }
+]

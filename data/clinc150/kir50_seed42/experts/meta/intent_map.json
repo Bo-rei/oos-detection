@@ -1,0 +1,9 @@
+{
+  "0": "change_accent",
+  "1": "change_language",
+  "2": "change_user_name",
+  "3": "change_volume",
+  "4": "reset_settings",
+  "5": "sync_device",
+  "6": "user_name"
+}

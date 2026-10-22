@@ -1,0 +1,13 @@
+{
+  "0": "cancel",
+  "1": "change_accent",
+  "2": "change_ai_name",
+  "3": "change_language",
+  "4": "change_user_name",
+  "5": "change_volume",
+  "6": "no",
+  "7": "repeat",
+  "8": "reset_settings",
+  "9": "whisper_mode",
+  "10": "yes"
+}

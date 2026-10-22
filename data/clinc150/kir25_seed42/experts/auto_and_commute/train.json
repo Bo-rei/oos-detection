@@ -1,0 +1,3202 @@
+[
+  {
+    "text": "my car needs to be brought for maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "could you schedule car maintenance for me",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need someone to look at my car because my check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "locate someone to look at my car because my check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i require a car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "who is available to check why my check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "could you find someone to check out my car because the check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to schedule car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please schedule car maintenance for me",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "who can i contact about why check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to schedule a tire check up somewhere",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get my tires checked out somewhere",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find somewhere to check my tires out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get my tired checked at one of the location",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i schedule a check up for my tires somewhere",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where in sacramento ca i schedule maintenance on my car",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to to schedule maintenance on my vehicle",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "look for auto companies that do scheduled maintenance on my vehicle",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need some work done on my car so need to schedule auto mechanic for maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "find local deals who schedule maintenance on cars",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find a place where i can schedule to check my tires out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a special place where i can schedule to check my tires out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i schedule to get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where is an appropriate place where i can schedule to check out my tires",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a location i can schedule to check out my tires",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please make an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to find a mechanic for my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please schedule an appointment for my oil to get changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my car needs maintenance scheduled",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how i do schedule car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my check engine light is on and someone needs to look at it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get my oil change so make an appointment",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "the check engine light is on and i need a mechanic",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my car needs maintenance prepared",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my car needs an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need someone to look at my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find someone to look at my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "put a tire inspection on my schedule please",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find someone to look at my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to get schedule getting my tires inspected",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to schedule a tire inspection",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "who in the area can inspect my engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "set an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "book an oil change please",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please obtain an oil change appointment for me",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get my tires checked and how can i schedule it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is there someone in the area who can check my engine light since it is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the soonest appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i am in need of an oil change, set an appointment",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please find someone who specializes in cars, my check engine light has turned on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my check engine light has switched on, schedule someone to inspect it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to schedule a car repair",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i schedule a car repair",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i schedule car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to schedule car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna have an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna schedule some car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can someone look at my car cause the check engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to schedule some car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i got to schedule somewhere get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i must schedule somewhere get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to get an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to schedule somewhere get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta schedule some car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "y check engine light currently came on and i need assistance with it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help cause my check engine light came on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to schedule somewhere get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to have an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i got to schedule some car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my engine light came on, so i need to get help",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to get an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "my check engine light is on and i need to take a look at it",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to schedule some car maintenance",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to schedule somewhere get my tires checked out",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i please get an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an oil change, make an appointment",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "find a mechanic to look at my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "book an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i should get my tires checked, schedule that",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i schedule getting my tires checked",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need someone to look at my car and tell me why the light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule an oil change for me",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "which mechanic can check my check engine light",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "make a reminder to schedule a tire check",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "who can look at my car, the engine light is on",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "set a time to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "make an appointment to check my tires",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't know why my check engine light is on, i need a mechanic",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "make an appointment for an oil change",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "make arrangements for me to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you schedule me a mechanic",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule an appointment to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule a time to get my oil changed",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "find me a mechanic",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule a mechanic",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule car repairs",
+    "intent": "schedule_maintenance",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the status of my tires and when i need to replace them",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many more miles can i drive before changing my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many miles can i drive before changing my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my tires need to be replaced",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how is the tread on my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i replace my tires next if i last replaced them on july 15th",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when are my tires due to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what date should i get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my tires need to be changed when",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how often do tires need changing",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i try to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is it imperative that i get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do my tires need some changing",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do my tires need changing",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i have to get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i replace my tires next if i last replaced them on the 1st",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell when should i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when should i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when should i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know when should i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when shall i get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i need to get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when must i get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know when should i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when am i due for a tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need new tires if i just got them replaced on january 2017",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many times a year should i change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need replacement tires if my last purchase was in june 2015",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i bought new tires on may 27th, should i still need new ones",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need new tires if my last purchase was in may of 2018",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would you say i need new tires if i last bought them on the 24th",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to change any of my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i got my new tires a month ago, when should i replace them",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i get new tires i just replaced them",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i purchased new tires yesterday, should i buy new ones",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how soon should i replace my tires from yesterday",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i replaced my tires yesterday, when should i get new ones",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you please let me know when next my tires are due to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please confirm the next time i should get the tires on my car replaced",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is it recommended that i change my tires next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until i should have my tires replaced",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i get new tires i last replaced them four years ago",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many miles do i drive before i have to get new tires i replaced them four years ago",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how low should the tread be on my tires to replace them i bought new tires four years ago",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i get my tires changed again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do my tires need to be changed again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i need to change my tires again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i need to change my tires again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should my tires be changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i replaced my tires on may 2, so when should i replace them next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i replaced my tires on labor day, when should i next replace them",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i have my tires replaced if i replaced them on the first of march",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i replaced my tires on christmas eve, when will i need to replace them again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i need to replace my tires if i last replaced them on december 20",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i go before i need to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i go in and have my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how much time do i have before i have to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i get new tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when ought i get my tires changed next",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "are my tires due to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "are my tires due to be changed soon",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until i have to replace my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how much longer until i have to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when's the next time i should change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i take my car in for a tire change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until i need to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many miles until i change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when are my tires next due for a change",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how often do you change your tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do tires last for",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many miles can i drive before i need to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what signs should i look for to know if i should change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way to tell if i need new tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i replace my tires next, if i replaced them on january 15, 2018",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i replace my tires if i replaced them last year",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i know when to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how i can tell if my tires need to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it time for new tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need new tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when i need to replace my tires, if i replaced them on october 1, 2017",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to replace my tires if i replaced my tires in january",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i replaced my tires in december, when should i replace them again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how often should i replace my tires sense i replaced them on 2/21/17",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i replaced my tires last year when should i replace my tires again",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do you think i should replace my tires because i replaced them on 12/21/17",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long before i need to replace my tires after i replaced them on 2/24/18",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i replace my tires sense i last replaced them on 3/21/17",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is the right time to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it time to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i need to change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do my tires need to be changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "should i change my tires",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my tires need changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many miles before i need my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a specific date when i should get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me when my tires should get changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a time when i should get my tires changed",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would you tell me when i should replace my tires next if i last replaced them on june 2",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me and let me know when i should replace my tires next if i last replaced them on june 2",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when i should replace my tires next if i last replaced them on june 2",
+    "intent": "tire_change",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "check maps for my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm lost, can you tell me where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i go about finding my location right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me my location using gps",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where exactly am i",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way to get my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the precise coordinates of this place",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where am i right this moment",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "use the map and pinpoint my position",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "give me my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what street is this",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you direct me where to find where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do to find my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "using this map i'd like to see my exact whereabouts",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "place a marker for me where i am on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i have my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please tell me my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "list my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i know where i'm at",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where am i located currently",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to find my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "showme how to find my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the gps coordinates where i am located",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "at this location what are my gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "in the place i am what are my gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my gps coordinates at this location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the gps coordinates of this spot i am at right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where am i located",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what country and city am i in",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my longitude and latitude points",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "show me where i am on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "display my location on a map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please show me where i am on a map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you show me where i am on a map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where am i right now, location wise",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what street am i on right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my current location please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what location do you see me at right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my current location that you see right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "show me where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "bring up my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me where i am on a map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you locate me on a map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "show me where i am on a map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm lost",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how to figure out my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find out how i know my location right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do to find my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i tell what my current location is",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i know my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know where i'm located",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i am in need of my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i do not know where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know my location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where are we located",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my gps coordinates right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me my present gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my present gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my current gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me my gps coordinates",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my location right now, please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my location, please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you find my location on the map, please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my present location right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you find my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my location right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you find my location on the map, please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find my location on the map, please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my present location right now, please",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "give me my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my location right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the address where i am right now",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please locate me on the map and show me",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i go about finding my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i find my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how will i find my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i locate where i am",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how shall i find my current location",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "check out my location up on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you pull up my location on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "check me out on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "look me up on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "look my location up on the map",
+    "intent": "current_location",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm at home, so where is the closest starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the distance between home and the closest starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a starbucks close to home",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "direct me to the closest starbucks near home",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "does home have a starbucks nearby",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the beach by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the park on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the train on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the mall by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how to i get to the mall on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the supermarket on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the museum on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the college by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the hotel by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the museum by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "assist me to know how to get to target by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you tell me how to get to walmart by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i am needing you to tell me how to get to dallas, texas, by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to get to target by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to get to target by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know where the nearest place that has mountain dew is",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i take a bus to dallas",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what steps do i need to take to take a bus to detroit",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i travel by bus to the grand canyon",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "direct me to the closest korean grocery",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to visit chicago by bus what do i need to do",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me where is the closest coffee shop",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find the mall closest to here",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me where the nearest rest station to me is",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to take a bus to mexico city how do i do that",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know how to get to the starbucks nearby",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you give me directions to the closest starbucks restaurant",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the closest starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the closest starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me directions to the nearest starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me how to get to the statue of liberty by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "from here, how do i get to the statue of liberty by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how to get to statue of liberty by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to statue of liberty by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "which bus should i take to get to the statue of liberty",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how close is a gas station to mcdonalds",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get to a church immediately, please take me to one!",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "take me to the nearest dairy queen",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i take a bus to the grand canyon",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the nearest post office",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where's the nearest gas station",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how would i walk to the liberty bell from here",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "find me the closest public bathroom",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "guide me to a laundromat near me",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "take me to the closest walmart",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "does the bus go to the washington monument",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any furniture outlets near the mall",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the best way to get to my bank by walking",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can a bus get me to the statue of liberty",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is a bar close to my church",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the statue of liberty on foot",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the nearest ups store to walmart",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a tire repair place near the post office",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get to the leaning tower by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the closest mcdonalds",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the quickest way to a bank",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to see the golden gate bridge and i'm walking on 5th street right now",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to take the bus to the brooklyn bridge",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me directions to the nearest gas station",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the direction for foot traffic to get to the eiffel tower",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need directions to get to olympia by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the directions to get to olympia by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know how i get to olympia by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to get to olympia by bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way to go by bus to olympia",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an address for the closest starbucks to home",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me the location of the nearest target store",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me where the atm closest to my current location is",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the nearest gas station to 20th and market streets, in philadelphia, pa",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "find me the location of the nearest gas station",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the nearest wells fargo bank location to port authority, new york",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me the subway station nearest to madison square garden in new york",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the nearest streets to the statue of liberty in new york",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "search for the nearest atm to newark penn station, newark in new jersey",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "search for the nearest expressway to the airport",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "starbucks near me",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "find me starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the nearest starbucks",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the closest chevron gas station in columbus, ohio",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the nearest denny's to gillette stadium",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the closest walmart to boise, idaho",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the closest applebees to the empire state building",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the closest dog groomer in charlotte, north carolina",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know the nearest bank's location",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the nearest bank's location",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to get directions to the closest atm",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know where the closest gas station is",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want directions to the closest atm",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the location for the nearest bank",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know directions to the nearest gas station",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the nearest restaurant to me and give me directions",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the location of the nearest bank",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the closest mcdonalds",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how would i get to city hall via bus",
+    "intent": "directions",
+    "domain": "auto_and_commute",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  }
+]

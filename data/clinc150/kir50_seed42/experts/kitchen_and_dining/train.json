@@ -1,0 +1,6402 @@
+[
+  {
+    "text": "you need to call the melt in lakewood for a table for at 2:00, monday, the first week in march",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "hey computer, make a reservation for 2 for my parents at red lobster on wednseday next, 2:00pm if possible",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i think we should reserve dad's regular table friday for 6 people, use his name, make that close to 4:00 pm at the club",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "listen i need to get a reservation for , me and teresa at georgetown cafe on tuesday at 7:00 pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make me a reservation for 4 pm on the 22nd at ruth's",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a reservation at 8 on the 22nd of november at ruth's",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 6 pm on the 21st at sidetracks",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please reserve me a table at hell's kitchen on may 3rd at 8 pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please reserve me a table for 2 pm at maxwell's on the 14th",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a reservation for me at the restaurant",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a reservation at the restaurant for tomorrow",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you book a table at the restaurant for me and my husband",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a reservation at the restaurant for tonight",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 6 at mark's at 11am",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 1 at the vega at 1pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get a table for 5 at joe's at 5pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 3 at captain d's at 2pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 2 at mexico viejo at 3pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 2 at diablo",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 5 at johnnys",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 8 at johnnys",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 6 at johnnys",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 4 at steve's",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 3 at outback steakhouse under the name lance at 7:00pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 4 at red lobster under the name dave at 7:30pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 6 at morton's under the name jaime at 8:30pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 3 at olive garden at 7pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "book a reservation for 6 at shakey's under the name jason",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 5 at lawry's under the name steve at 8:00pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "book a reservation for 5 at lawry's under the name chris",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 2 at olive garden under the name jim at 6:00pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "book a reservation for 4 at outback steakhouse under the name dave",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 5 at outback steakhouse at 6:30pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "book a reservation for 3 at red lobster under the name steve",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "book a reservation for 2 at olive garden under the name jim",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 8 at mastro's at 8:30pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 4 at red lobster at 8pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 6 at lawry's at 7:30pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to get a table for 4 at the village inn around 10am",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for 5 at mcdonalds at 5pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a table for 3 at o'reilly's bar for 7 please",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i have a table held at the outback steakhouse for johnson at 5",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to book a room at the taco bell for reavers at 3",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to set up a reservation for kibble at 4",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i reserve a table for 2 at the olive garden at 8",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to reserve a table at 8 at long john silver's under the name freddie",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to have a table for 2 at the broadmore around 6",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need an 8 o'clock reservation at pizza hut for the last name mercury",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "hey, i need to make a reservation for three at umi, six pm on february 30th",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "hello, i'd like a reservation for two at the olive garden at six tonight",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you set me up for a reservation for five at outback steakhouse on february 28th at seven pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a reservation for one at applebee's, four in the afternoon on march 3rd",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please make a reservation for me: party of two, february 22nd at chili's, two in the afternoon",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta make a reservation for 8 pm at red robin for 3",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 8 pm at red robin for 3",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please book a reservation for 8 pm at red robin under the name kevin",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to book a reservation for 8 pm at red robin under the name kevin",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "you have to reserve a table for 4 at red robin under the name kevin at 7",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please reserve a table for 4 at red robin under the name kevin at 7",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to reserve a table for 4 at red robin under the name kevin at 7",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 4 at red robin under the name kevin at 7",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to make a reservation for 8 pm at red robin for 3",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "you must reserve a table for 4 at red robin under the name kevin at 7",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i think i need to make a reservation for 8 pm at red robin for 3",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to book a reservation for 8 pm at red robin under the name kevin",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and book a reservation for 8 pm at red robin under the name kevin",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to make a reservation for 8 pm at red robin for 3",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "book a reservation for 8 pm at red robin under the name kevin",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please make a reservation for 2 at olive garden for 5 pm today",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like a reservation for 2 at olive garden for 5 pm today",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "could you make reservations for 2 at olive garden for 5 pm today",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "make a reservation at 5 pm today for 2 at olive garden",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please make a reservation for 2 at olive garden for 5 pm today",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to reserve a table for 6:00 pm for three at devon's seafood",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "make a reservation for three at prime rib at 6:30 pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like a reservation for 6:30 pm at pietro's under the name david jones",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please reserve a table for two at rouge for 7:00 pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a table for two for 8:00 pm at parc",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to secure a 4:30 pm reservation for five people at morton's steakhouse",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "call and make a 5:45 pm reservation for jason rogers, table for four",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to reserve at table for a party of four at devon's for 6:00 pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for two for 7:30 pm at dibruno's under patrick donoghue",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please make a reservation at ruth's steaks for a party of five at 7:00 pm under jack arnold",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 2 at state bird for 7:30, please",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 2 at state bird for 8:30, please",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 2 at state bird for 6:30, please",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 3 at state bird for 8:30, please",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for 2 at state bird for 8:30",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please make a reservation for us at joy bar for 4 adults",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please make me a reservation for monty's at noon for 55555",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "now, i need a reservation for backwoods crossing at seven for 6 people",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "make me a reservation for tomorrow at happys for four",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "make me a reservation for 5 at coral for 10 pm immediately",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you reserve a table for 2 at red lobster at 8pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "schedule me a table for 2 at red lobster at 8",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "check reservation availability for 2 at red lobster at 8pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "make a reservation for 2 at red lobster at 8pm",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for 2 at red lobster at 8:00",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "reserve a table for four for tonight at 7 at the fatted calf",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "make a reservation for tuesday at 7:00 pm at cielo for 2",
+    "intent": "restaurant_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "jello should stay in the fridge for how long",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my milk be no good",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my eggs go bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will my eggs be good for",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what date does my apple juice expire",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until my cereal is ruined",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the max time i can leave a green pepper in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time frame for hamburger stored in the freezer to go bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i keep deer meat in the freezer before it's unedible",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "has the leftover hamburger from last saturday gone bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a limit to how long you can store bread in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i've had eggs in the fridge since monday, are they still safe",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can you keep chicken in the freeze before it goes bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is the tofu i put in the fridge tuesday still edible today",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does cottage cheese keep in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the shelf life of guacamole in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take for dough in the freezer to go off",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i get sick if i eat the tuna salad from friday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i put some leftover stew in the fridge and want to know how long it'll last",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i leave tuna casserole in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it still safe to consume the cake she backed last thursday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i safely eat chicken that i've had in my fridge since monday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i eat chicken if it's been in the fridge since monday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it safe to eat chicken that has been in the fridge since monday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will the chicken have gone bad if it's been in the fridge since monday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it okay to eat chicken that i put in the fridge on monday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how soon until the milk expires",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "the milk will expire when",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when the milk will expire",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the expiration date of the milk",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will it be all right for me to drink milk i've had in the fridge since tuesday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the shelf life for beef in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i eat the eggs i've had in the fridge since 2/21",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i keep a ham in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will chicken last in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i drink milk i've kept in the fridge since wednesday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will steaks last in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the shelf life for eggs in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i store eggs in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will it be okay for me to eat my leftover turkey from monday that's been in my fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i keep fish in the freezer before it gets ruined",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will my milk be good in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will eggs last in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i've had eggs in the fridge since monday are they safe eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is the meatloaf still good to eat, i've had it in the refrigerator since last monday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "apples expire in how long",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "cut cucumbers can stay in the fridge for how long before spoiling",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ribs can stay in the fridge for how long before they turn",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do ribs expire",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "bananas expire in how long",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take tomatoes to expire",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i keep avocados in the fridge before they go bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i keep macaroni in the fridge before it spoils",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "oranges expire in how long",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "cut carrots can stay in the fridge for how long before going bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know how long can i keep pizza in the freezer for before it goes bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i keep pizza in the freezer for before it goes bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "it seems to be that i have had pizza in the fridge since monday, so is it safe to eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can pizza be in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "so how long can pizza last in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "it turns out i have had pizza in the fridge since monday, so is it safe to eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i got to know how long can i keep pizza in the freezer for before it goes bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "so it seems i have had pizza in the fridge since monday, so is it safe to eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i leave pizza in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how long can i keep pizza in the freezer for before it goes bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i have pizza in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i have had pizza in the fridge since monday, so is it safe to eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "so i have had pizza in the fridge since monday, so is it safe to eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how long can i keep pizza in the freezer for before it goes bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i put pizza in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the length of time i can leave pork in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until pork spoils in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is pork good in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a time limit on leaving pork in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when does pork go bad in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when does milk expire",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take frozen steaks to go bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does bread last in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does bread last",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i expect chicken breast to be good for before expiration",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will eggs keep in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i have before frozen chicken will go bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long are eggs good for",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i expect to keep steak in the freezer",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the expiration for steak",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it ok to eat alfredo that's been in the fridge since last sunday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my chinese food has sat in the fridge since friday but can i still eat it",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is it safe to leave a burger in the refrigerator",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the fridge life of spahghetti",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "check if it is ok to eat cheese that has been in the refrigerator since last tuesday",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the length of time that i can leave milk in my fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is it safe to leave shrimp in the fridge",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i have had pasta in the fridge since monday, can is till consume it",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "am i good to eat this burger from the fridge that i got two mondays ago",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will lettuce in the fridge go bad",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i've got some chips from monday, will they still be ok to eat",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i have potatoes in the cupboard from wednesday, are they fine",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i have tomatoes from tuesday, do you think those are still good",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i've had these burger patties in the freezer since saturday, are they still fine to cook",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i have garlic from sunday is it still fine to use",
+    "intent": "food_last",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will the turkey take to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "so how long do you think the chicken will take",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does pizza take to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the chicken gonna take",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will the chicken take to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to cook roast beef",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to boil an egg",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to bake a pork loin",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to make roast chicken",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to cook a pork chop",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much time do i need to make the chicken",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the prep and cooking time on pizza dough",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to make lasagna",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take to make the wings",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the cooking time for the cake",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "the steak must go under the broiler for how long",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i put the casserole in",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "if i cook the pizza at 400 degrees how long must it be in for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do you need to put the cuish in for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "the sauce must simmer then go in the oven but for how long",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the cooking length for a turkey",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how many minutes do i cook baked ziti",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to cook ham",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how long to do a pot roast in a slow cooker",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does a roast take",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is it acceptable to carmelize onions",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i take an apple pie out",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do you cook a salmon",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much time does it take to boil an egg",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the duration of time cookies should be in the oven",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "about how long should you cook lasagna",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the prep time for a 10 lb turkey",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how many minutes to melt cheese",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to reheat chinese food",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do you cook pasta for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "about how long should you cook a 10 pound turkey",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to prepare pot roast",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to microwave a pizza",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook a glazed ham",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook a spiral ham",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do the brownies have to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to i bake the brownies",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i bake the brownies for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "for how long should i bake the brownies",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do the brownies need to be in the oven",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does this dish need to be in the oven",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "for how long does this need to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i set the timer for if i'm making gyoza",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what should i put on the timer to cook this dish",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i cook this dish of rice",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should a cake bake",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to microwave a frozen dinner",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the preparation time for spaghetti",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should this be in the oven",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to cook a frozen pizza",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to bake brownies, how long do they bake for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do you bake a cake",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to make shrimp scampi",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to cook steak for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do you cook a hamburger for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i expect beef stroganoff to prepare",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i cook steak",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the cooking time for chicken alfredo",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take pork to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much time do i need to prepare chicken",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "noodles need to cook for how long",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i boil noodles for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do noodles need to cook",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time should i cook noodles for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i need to make lasagne",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take me to make baked chicken",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take to fix shepherd's pie",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do cheeseburgers take to make",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook the ham for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook the eggs for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook the asparagus for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook the pasta for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook the steak for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the necessary amount of time required to prepare pot roast",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long am i supposed to cook pork loin",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long must i cook spaghetti for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how long i will need to spend preparing a meat loaf dish",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the preparation time required for fried chicken",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i spend preparing roast beef",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount of time do i need to cook lobster for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the proper time to cook steak for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook chicken",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how long i ought to spend preparing fajitas",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook chicken thighs",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook a ny steak",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i cook pork",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i cook the chicken roast",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i cook chicken breast",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the time it takes to make a decent omelette",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i fry an egg for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the prep time for a garden salad",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the usual time for tuna casserole",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do you need to bake chicken for it to be safe to eat",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i cook a steak for",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i wait before i can bake bread with homemade dough",
+    "intent": "cook_time",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do people like the donuts at tgi",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the donuts at tgi well reviewed",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are the donuts reviews at tgi",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the comments on the donuts at tgi",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are people recommending the donuts at tgi",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does outback steakhouse have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does pizza hut have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does have good reviews have great reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does red robin have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "so does outback steakhouse have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for pizza hut",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for red robin",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for outback",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for papa john's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for the olive garden",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are people saying about chipotle",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the reviews for chipotle",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "do people like chipotle",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the reviews for chipotle",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the ratings for chipotle",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for chic-fil-a",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for olive garden",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for longhorn steakhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does chic-fil-a have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for outback steakhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for applebees",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does wendy's have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does mcdonalds have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does longhorn steakhouse have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what reviews does miyabi have",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does applebee's have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are the reviews for cracker barrel",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the reviews for mi casita good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the reviews good or bad for burger king",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the ratings for the local denny's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does the bleu olive have decent reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are the reviews for la loconda",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many stars does la vignette have",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does the mediterranean grille have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "have you heard how the enchiladas are at jose's taco shop",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how does yelp report the enchiladas are at jose's taco shop",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does ihop have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if eating at outback's any good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what do people say about village inn",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the pancakes at ihop any good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are the reviews for spaghetti at the olive garden",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how's the lo mein rated at hun lee's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how's the sausage pizza at pizza hut",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "is mcdonalds a good place to eat",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the reviews have to say about burger king",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are the burgers at carl jr's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the chili's reviews any good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the reviews for applebee's good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how the mcdonalds reviews are",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me about the reviews for chilis",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know how the outback steakhouse reviews are",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for per se",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like for khin khao",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for the french laundry",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for chez panisse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how good are the ratings for peter luger steakhouse",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like for mission chinese",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like for zazie",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like for bar tartine",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like for la camelia",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are people liking the sushi at yakamoto",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "is there any opinions on the sushi at yakamoto",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "is the sushi well-received at yakamoto",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "at yakamoto how is their sushi",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the sushi like at yakamoto",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like at minnis",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does buffalo wild wings have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the reviews for bjs",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the ratings about at pho king",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how are the ratings like for buffalo wild wings",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "read some of the reviews for wing stop",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does applebees have alright reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does bjs get good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the ratings like for chilis",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what do the ratings say about korean bbq",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what do the ratings say for black bear diner",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews for mountain mikes",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to hear reviews for panda express",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the reviews like for black bear dinner",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does chillis have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "do people like the food at wendy's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any positive reviews for wendy's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of reviews does wendy's have",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any negative reviews for wendy's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what do people think about the sandwiches at wendy's",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "look up the ratings for olive garden",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "pull up the ratings for macaroni grill",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me about the reviews for olive garden",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "are the reviews for chevy's any good",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "has ruby tuesday got good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does chili's have good reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how good ihop's ratings are",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "fill me in on the reviews for ruby tuesday",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does ihop have positive reviews",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what are reviews for ihop like",
+    "intent": "restaurant_reviews",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know how long of a wait it will be",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the restaurant line before we go",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take to get seated at needham's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will the wait be at noon if we went to nagomi",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i have to wait for long before being seated at the cheese cake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i expect to wait at the cheesecake factory before getting seated",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the average wait time at the cheese cake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will i have to wait before being seated at the cheese cake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will the wait time be at the cheese cake factory",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will i have to wait if i want to eat at panera",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long would i have to wait if i want to go to golden corral",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy will panera be at noon",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a wait time to get into tgifridays",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will cracker barrel be crowded around five this evening",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy will golden corral be at 7:30 tonight",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how busy chipotle will be at nine tonight",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the wait time at applebee's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would i have to wait long if i want to eat at chili's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i go to tgifridays at eight, will they be crowded",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much traffic do they get around dinner time",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you check to see how busy that restaurant is for dinner",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is that place busy around dinner time",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is that restaurant crowded during dinner",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy it that place for dinner",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i expect chili's to be busy at 4:30",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do you think longhorn steakhouse will be busy at 5pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy do you expect olive garden to be at 6",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the table wait at applebees",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a table at texas roadhouse; how long will it be",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to get a table at chili's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many people do you think will be at applebees at 7",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will i wait for a table at red lobster",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is red lobster busy at 6pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the wait for a table at olive garden right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "around nine, is ambrosio busy",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is sage busy around noon",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "for toby's, is it busy around six",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "at four, how much business does georgio have",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i expect to wait for a restaurant table",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what time can i expect to be seated at this restaurant",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the wait time at this restaurant",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will there be a wait time at this restaurant",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the sitting time at this restaurant",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is orchids at 7",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is zippy around 12 for lunch",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the wait at orchids",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the wait at imanas",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is imanas tei at 7 dinner",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the wait supposed to be at zippys",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is mc donald at 8 in the morning",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is michel at 9",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is imanas at 6",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long do i have to wait for shokudo",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is teddy bigger burder around 5",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the wait at assagios today",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is shokudo at 12",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is jiro at 12 lunch time",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "at 5 pm, is kaya very busy",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is kaya around 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "around 5 pm, how busy is kaya",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is kaya very busy at 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is kaya busy around 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the wait at macaroni grill",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does macaroni grill have a wait how long",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "check the wait time for macaroni grill",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take to be seated at macaroni grill",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the wait at macaroni grill",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be able to get a seat at 5pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how busy the restaurant will be between 5 and 7pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is the restaurant busy at lunchtime",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will the restaurant be busy at 5pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when will the restaurant be busiest",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is ihop generally around noon",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please look into the current wait times at chili's right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "at 5:30 pm, how busy can i expect olive garden to be",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i go to olive garden at 4 pm, how busy will it be",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy will chili's be if i go at 6 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long would i need to wait for a table at ihop right now",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to find out if macaroni grill will be busy around 7:00 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how busy outback steakhouse will be at 7:30 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "find out how busy ihop usually is around 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "find out what wait times are like right now at olive garden",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what the wait is like right now at cracker barrel",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how busy macaroni grill will be around 8 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "check to see how long of a wait i would be facing if i go to outback steakhouse",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how busy ruby tuesday will be at around 8:45 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know how busy outback steakhouse tends to be at 7:00 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take me to be seated at ihop",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will i stand in line at carl jr's",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy is ihop at 5 pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does ihop have a lot of business around 7 am",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the typical wait time at red lobster",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would you say that red lobster's pretty buy at noon",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the crowd like at hopper's bar around 11pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if there's a lot of wait time at wendy's around 8am",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take to be seated at the flying w",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the typical time to eat at red lobster",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how busy does outback get around 7pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i have to wait to get a table at ihop",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many people go to chili's around 9pm",
+    "intent": "how_busy",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation for redrobin",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to make a reservation at redrobin",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does redrobin take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are reservations taken at redrobin",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does redrobin do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can acero take reservation",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make reservations at hodak's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if per se in nyc takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if the cheshire takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will qdoba take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does burger king accept reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does gramercy tavern in new york accept reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does acero in maplewood allow reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does cielo take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find out if la tour d'argent in paris takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does tony's in downton let you make reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does gramercy tavern accept reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does mcdonalds take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make reservations at steak 'n' shake",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will nobu take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at carrabbas",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at applebees",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at olive garden",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at buffalo wild wings",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at outback steakhouse",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if angelos takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does applebees in trenton do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does luigi's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please find out if napolis takes lunch reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does hannahs in galloway take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does stanleys take brunch reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if luigis in brick takes reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if capones does reservations in trenton",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does marios in brooklyn take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if bottlenecks takes dinner reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if whether or not zeus does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you let me if zeus accepts reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find out do you know if zeus does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me does zeus do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if zeus does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a reservation at melting pot tomorrow",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what locations of applebee's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a reservation at champs",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find jimmy john's reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how many culver's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there evening reservations available in the eve",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if bahama breeze does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if ruth chris does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if cheese cake factory does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if benihana does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if olive garden does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does the steakhouse on main st take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does sidetracks take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are reservations allowed at burger king",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does black rock take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make reservations at applebee's or no",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does buffalo wild wings do reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does minnies cafe in modesto take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does bjs take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will they take reservations at chillis",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does pho king in ceres take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can applebees take any reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does arbys in lakewood take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does minnis take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at bjs",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does buffalo wild wings take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does buffalo wild wings in concord take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will they take reservations at torris",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does black bear diner in tracy take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does chillis take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at bar tartine",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at mcdonalds",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at the progress",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does tartine in san francisco take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does cowgirl creamery in san francisco take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at state bird",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does nopa in san francisco take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does bar tartine in san francisco take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at arby's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does pizzeria delfina in san francisco take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does iron skillet at the truck stop trake reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does the zen garden in la take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does moes in la except rerservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does ruby tuesday accept reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation at chevy's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to make reservations in advance for macaroni grill",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to make reservations with famous dave's restaurant",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to make reservations at chili's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does chili's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if ruby tuesday does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does olive garden take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know whether ihop does reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does michael's accept reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they accept reservations at michael's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you make a reservation at michael's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i make a reservation at michael's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "does the restaurant michael's take reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at mendy's",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if outback allows reservations",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do they take reservations at red robin",
+    "intent": "accept_reservations",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "remove my reservation at outback for timmy",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel the reservation for kyle's party at red lobster",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my party reservation for brad at longhorn",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "get rid of my reservation at chez francois for jennifer",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel the reservation at olive garden for tommy",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "you can cancel my reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "my reservation is no longer needed",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell the restaurant i cannot make it",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "there is no need to confirm my reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please cancel the reservations for dinner",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "hello, i need to cancel tonight's reservation for dinner",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to put in a cancellation for the dinner plans tonight",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel the dinner reservation i made, okay",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to cancel my dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel my reservation for dinner",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for dinner",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "my reservation for dinner needs to be canceled",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "call the restaurant and cancel my reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "get rid of my 2 pm reservation at ruth's steakhouse",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancelt the reservation i have for dinner",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel my dinner reservation for tuesday",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel my reservation for dinner tomorrow",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for 6 pm at sidetracks",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "get rid of my 4 pm reservation at the steakhouse please",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel the reservation i have at 4 pm at ruth's",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel the reservation i made for 8 pm at black rock",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my dinner reservation please",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel the table i had reserved for tonight",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i made a reservation for chris at tony's, please cancel it",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel tonight's dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't need my reservation, can you cancel it",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel my dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel my reservation for chris at brio",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel my dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel my reservation tonight for chris at smith and wollensky",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i don't need my reservation, cancel it",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel my reservation on tuesday for chris at stella maris",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for chris at jp field's",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel my reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for dinner, please",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell the restaurant to cancel my reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "abandon the dinner reservation i made",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "scrap that dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "call off the dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for me",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "get rid of my dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the reservation i placed is not needed anymore",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "annul the reservation i created",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the reservation i created is not necessary anymore",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the reservation i made is not required anymore",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "repeal the dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i cancel my reservations",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to cancel my reservations",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could i cancel my reservations",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i cancel my reservations please",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to cancel my reservations",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you cancel my 5:30 pm table reservation at parc",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to cancel my reservation for smith's at 6:15",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my 8:00 pm prime rib reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and cancel the reservation i made for 6:00 pm at parc",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel my 7:30 reservation for morton's",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to cancel the reservation at outback for the johnsons",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i made a reservation under mark hamil at the emporium that i don't need any more",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i no longer need a table for four at chili's",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "we have a table at the taco bell under bowie we need to release",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i have a reservation at pizza hut under the name leia roberts and i want to cancel it",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you undo the reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to cancel the party of 7 we reserved at the olive garden",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to cancel the reservation for mercury at the ritz",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "just trash the reservation i made please",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel the table for two at burger king",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please delete the reservation for 3 people at outback",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "go ahead and close the reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please unreserve that table",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i no longer need the reservation for 20 at ihop",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "im not going to dinner tonight",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "im not gonna need the dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "remove my dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i no longer need the dinner reservation",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i cancel my reservation for 4 at red robin",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for 4 at red robin",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to cancel my reservation for 5 at red robin",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you please cancel my reservation for 5 at red robin",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation for 3 at carlos jr",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "change my reservation with carl at umami to canceled",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i no longer need my reservation with carl at umami",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservation with carl at umami",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "make sure my reservation at umami with carl is canceled",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "end my reservation with carl at umami",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "because of circumstances i don't need my reservation anymore",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i won't require my reservation anymore",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'll have to cancel my reservation for tonight",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "something's come up so i need to cancel my reservation so now",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the reservation i have isn't needed any more",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the reservation at zepher cancel joe from that",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "joe and i are to cancel the reservation at zephers now",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my reservations for joe's at zepher right now",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please cancel the reservation at zephers for joe and myself right now",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel the reservation for joe and i right now for the zephers reservation we had booked",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cancel my 6:00 reservation at the cheesecake factory",
+    "intent": "cancel_reservation",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the best way to roast a chicken",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make pie crust",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "find a recipe for german chocolate cake",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i fry pork chops",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i cook boiled eggs",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "find a chow mein recipe for me, please",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know how to make chow mein",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find a recipe on how to make chow mein",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to make chow mein",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to help me find a chow mein recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "show me a beef recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is a good beef recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a recipe for beef",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a beef recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where is a beef recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "you know procedure to cook apple pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is needed you to cook apple pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know what are the ingredients to make apple pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know recipe for making apple pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you cook apple pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make pumpkin pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "making spaghetti sauce perfectly is done how",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "making ribs perfectly is done how",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make lemon merengue pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make lassagna",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "search for a macaroni and cheese recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me a recipe for mashed potatoes",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need instructions on how to make shepherd's pie please",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me with instructions on making chicken curry",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the steps i need to follow to make chewy rice krispies treats",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the best way to make chicken stir fry",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make tuna salad",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give me a recipe for german chocolate cake",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a recipe on how to make beef stew",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a good recipe that shows me how to bake chocolate chip cookies from scratch",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please search for a chocolate fudge brownies recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "will you give me some guidance on how to make ceviche",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you search for the best new york style cheesecake recipes please",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "look up easy to follow recipes for beef ribs",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the best recipe for mashed potatoes",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for quiche",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for pasta",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for ribs",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for cake",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what steps are involved in making lasagna",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i make chicken pot pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how to make mac and cheese",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you make pot roast",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find a hearty lasagna recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "find a good recipe for meatloaf",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i am looking for a vegan friendly italian pasta recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you cook meatloaf",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a vegi lasagna recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a quick recipe for spiral ham",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the recipe for rice noodles",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me find a lasagna recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a recipe for chicken pot pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find a recipe for a beef casserole",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help finding a recipe for enchiladas",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to make philly cheesesteaks",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a blackberry pie recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i need to do to make blackberry pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "blackberry pie instructions",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you make blackberry pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i bake a blackberry pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a cookbook that could teach me to make sushi",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you teach me how to make sushi",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i look to learn to make sushi",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you need to do to make sushi",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a good website to teach me how to make sushi",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to make beef wellington",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's a good recipe for chicken divan",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "find me a recipe for teriyaki chicken",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "find out how to make chicken tikka masala",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make beef stroganoff",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please show me a recipe for chili",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is a good chili recipe",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to find me a recipe for fried shrimp",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for coffee cakes",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for salsa",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for honey ham",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for cheese cake",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for sugar cookies",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a recipe for carrot cake",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you make benedict arnold",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do you create pork chili",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the best way to make a broccoli salad",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there instructions on how to make buttermilk pancakes",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the way to make apple pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the process of making a burrito",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make a taco that's worth eating",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make that scottish dish with all the blood and sausage",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a recipe for chili i can use",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me instructions on making blueberry pie",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you instruct me on how to make german chocolate cake",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make the perfect omelette",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to make sour dough bread please find a good recipe for me",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a really good recipe for making doughnuts",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please find me a recipe for spaghetti now",
+    "intent": "recipe",
+    "domain": "kitchen_and_dining",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  }
+]

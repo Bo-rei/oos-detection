@@ -1,0 +1,21 @@
+{
+  "0": "activate_my_card",
+  "1": "apple_pay_or_google_pay",
+  "2": "atm_support",
+  "3": "card_acceptance",
+  "4": "card_delivery_estimate",
+  "5": "card_linking",
+  "6": "card_payment_not_recognised",
+  "7": "declined_cash_withdrawal",
+  "8": "declined_transfer",
+  "9": "edit_personal_details",
+  "10": "exchange_charge",
+  "11": "extra_charge_on_statement",
+  "12": "get_disposable_virtual_card",
+  "13": "supported_cards_and_currencies",
+  "14": "unable_to_verify_identity",
+  "15": "verify_my_identity",
+  "16": "why_verify_identity",
+  "17": "wrong_amount_of_cash_received",
+  "18": "wrong_exchange_rate_for_cash_withdrawal"
+}

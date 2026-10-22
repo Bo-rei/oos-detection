@@ -1,0 +1,1122 @@
+[
+  {
+    "text": "i need new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "switch language for me",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your language setting to russian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "you must change your language setting to russian",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "you need to change your language setting to russian please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "change language please",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your language setting to spanish now",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "change your language setting to spanish",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want new language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please change the language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "speak arabic",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "speak navajo",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "speak german",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "speak french",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "speak mandarin",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "change response language from mandarin to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please respond to me in english from now on",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your response language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i change your response language",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "change the language to english",
+    "intent": "change_language",
+    "domain": "meta",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "will you start calling me chaz",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "stop calling me charlie and from now on always call me chip",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "from now on, refer to me as chuck",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please call me charlile from here on out ok",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to call me a different name so can you call me charchar",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please change my name to tom",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "from now on, my name is tom",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to be called tom",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please call me tom",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "you can call me jason",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "my name is jason",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "jason is my name",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i prefer to be called jason",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i am jason",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "you shall address me as nick",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "my name is nick",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "refer to me as nick",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "the name is nick",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "you could say my name is nick",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i am camile",
+    "intent": "change_user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know who i am",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "do you have my name programmed",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "do you think my name is jeff",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "is joey my name",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me my name",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "say my name in a sentence",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my name",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me my name the way its saved",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me what my name is",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "how is my name saved",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "which way do you have my name saved",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "in what form is my name saved",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "how does my name appear",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "how is my name saved aw",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "how do you show my name",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know what my name is",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "are you able to call me by my name",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what do you want to call me",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the name you would use for me",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what name is saved for me",
+    "intent": "user_name",
+    "domain": "meta",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "sync phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please pair my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "don't connect to my phone anymore",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i need you to pair with my phone please",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "don't sync to my phone anymore",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "sync with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "disconnect from phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "stop synching to my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "can you pair with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please pair with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "disconnect sync from my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "unsync yourself from my phone please",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "stop syncing with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like you to pair with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i need you to pair with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "don't sync with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "pair with phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "connect with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "please add onto my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "put a device with my phone",
+    "intent": "sync_device",
+    "domain": "meta",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "will you please do the male british accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you please change you accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "make the male british accent please",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "could you please change your accent to the male british one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "for the love of all that good change your accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "your accent needs to be changed",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need your accent to be changed",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please change your accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change your accent now",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change to a new accent please",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change to a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to use a different accent",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what other accents can you use",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "help me change my account",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to change my account",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to switch accounts",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please change my account to another one",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please use a male voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "change over to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "move over to the female voice",
+    "intent": "change_accent",
+    "domain": "meta",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "make your volume quieter please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "adjust the volume to level 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i want your volume decreased please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "could you please raise your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i want your volume lowered",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i want your volume louder",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i want the volume at 4 please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i want the volume at level 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "a volume of 4 is ideal please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need your volume increased",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you please turn your volume down",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "please turn the volume to 4",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "please turn your volume up",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "turn down your volume please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "turn up your volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "could you increase the speaker volume please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "would you please increase the speaker volume",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "increase the speaker volume please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "can you increase the speaker volume please",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "please turn your speaker volume up",
+    "intent": "change_volume",
+    "domain": "meta",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "factory settings restoration",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i need you to reset to your factor settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you reset to factor settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to reset to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to restore your factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "switch back to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i want you to go back to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "restore factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i want a clean bootup to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "change back to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "reset to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "go back to default settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "now i'd like for you to return to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you now please go back to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "please revert to the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "now restore the original settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "configure this to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "make my settings go back to their factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "set this to my factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "change to factory settings",
+    "intent": "reset_settings",
+    "domain": "meta",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "text": "thank you ever so much for that!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "you’re the best thanks so much!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for helping",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i am grateful for the help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you for the heip",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i apprecaite the help from you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks that was really helpful",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you for your time and trying to help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you for your assistance",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for all your help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for trying",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "many thank",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks a million",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank a bunch",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i appeciate it",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to thank you ai",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "ai you have given me so much information, thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks so much ai",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you ai for everything you do",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "ai is a helpful item to have in my home, thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you very much",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "that answer was very helpful, thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "great, thanks!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for your help!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks so much",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for that answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you for that reply",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for the reply",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for that response",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you for that response",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "good speaking to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was really awesome to talk to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was great to speak with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was great to talk to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "bye bye then",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was very good to talk to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "good bye then",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "regards",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "catch you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "great talk, thanks",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "see you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "enjoy your day, goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "thank you goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "have a good day, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "that will be all have a nice day!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i enjoyed talking to you, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was great talking to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "nice seeing you bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was nice to chat",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it was a pleasure talking to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "ok good chatting goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks bye bye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "that's all i need, i'm going now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "talk to you soon, bye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "thanks for your help, goodbye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "good bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "signing off",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me what your name is",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what did they name you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "hey, how do i call your attention",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "give me your name so i can use you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how should i address you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's your name anyway",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me what to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me what you are called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what should you be called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what should i use when i refer to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how do you say your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is your preferred name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what can i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what name do you go by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "who do i have the pleasure of speaking with",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "may i have your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "who am i speaking with",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "and your name is",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i call you, ai",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what name do you go by, ai",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "ai, what is your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what do they call you, ai",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "ai, what is your given name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what name do you want me to use",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you like to be called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what should i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what would you like me to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me if you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "would you tell me if you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "provide me with the knowledge of whether you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know if you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know whether you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me if your a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know if your a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is this a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i think your a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is it true your a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a person that's real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you actually a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you really real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "your a bot aren't you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you be human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you be a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a human or ai computer based",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "would you call yourself a human or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do you describe yourself: as a computer or a human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you computer or human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "would most people say you are a computer or a human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you real or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a computer generated voice",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "am i talking to a real live person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is your voice from a human or is it synthesized",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a person or artificial intelligence",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you tell me if you're a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a person or robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  }
+]

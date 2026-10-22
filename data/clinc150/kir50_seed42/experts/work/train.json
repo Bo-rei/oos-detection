@@ -1,0 +1,5602 @@
+[
+  {
+    "text": "how to create a new aaa insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "website to start aaa new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "aaa insurance start new plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to start a new aaa insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is new this a good insurance plan for me",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do to get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "new insurance is obtainable how",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how is new insurance gotten",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do for new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get new insurance, please",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i obtain new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i obtain new insurance, please",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i get new insurance, please",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make my insurance policy different",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i change my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i modify my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i alter my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get different terms on my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me change my insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "connect me with some new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a newer insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "my insurance plan needs to be changed",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what rental insurance policy do you recommend",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find a new auto insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "find the best life insurance for me",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need new home owners insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need new health care coverage",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i change my current insurance to a new plan with lower co-pay",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what steps do i need to take to switch my insurance plan from an hmo to a high deductible ppo plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to change my insurance to a plan with a lower deductible",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i go about changing my insurance to a new low monthly premium plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to change my insurance from a ppo to an hmo plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me figure out getting new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to get a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want help adjusting my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i am hoping to switch insurance plans",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help acquiring new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "walk me through the process of getting new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i am interested in acquiring new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i acquire new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what must i do if i want to adjust my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the protocol for modifying my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i dont like my current insurance plan and want a new one",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "walk me through making changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need new insurance but dont know how to get it",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i am thinking of switching to a different insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me modify my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you help me out with a new renters' insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like a new life insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me with a new car insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get a new motorcycle insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a new pet insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i go to get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need new insurance, how do i get it",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i apply for new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like you to help me get on another united healthcare insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me get on a new united healthcare insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to find a new united healthcare plan to get on",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to get on a new united healthcare plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get on a new united healthcare insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i must switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help to make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i really need to switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i shall switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i update my insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i find out about new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get new insurance, how do i do it",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you switch me to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to switch to a different insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "switch my insurance plan to a new one",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my options for new insurance plans",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to shop for new insurance plans",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to switch my insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find new insurance providers",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to compare insurance plan options",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a new house insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to get a new car insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need new health insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a new policy with long-term care insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a new motorcycle insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i adjust my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "my insurance policy needs to be adjusted",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i am in need of a switch to my insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "walk me through on how to change my insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i wish to request a change in insurance plans",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to alter my insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how to change my insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to switch my insurance coverage",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "help me change my insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i replace my insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "on what date do i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what day do i get my paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when to expect my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my next paycheck will arrive",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what date do i get my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i be getting my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when's the the last time i was paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what date did i receive my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was my last payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when's the last time i got a paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when i was paid last",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when i last got paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when i received my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know when i was last paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when did i get my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me the expected arrival date for my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when i received my most recent paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know when i can expect my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when i got latest paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my next paycheck is set to arrive",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you confirm the date my last paycheck was received",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what day my next paycheck will come",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date of my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the date my next paycheck will be here",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please find the receipt date for my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when does my paycheck arrive",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know when to expect my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i get my paycheck soon",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what date will my next paycheck be here",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is my paycheck arriving soon",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what day will my paycheck come",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "did i receive my paycheck this week",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my next paycheck be",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when am i paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my pay period",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how much longer until i have a direct deposit",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days until my next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my paycheck be available",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my next paycheck is available when",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i recieve my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know when i'm going to be paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me when i'm supposed to get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how much longer until the next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i recieve another paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what date is another paycheck due",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i get paid again",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should another paycheck arrive",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my next paycheck due",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i be paid again",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "which date is my next paycheck due",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "find my next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "next payday please",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the date i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "day that i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my pay date",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what day do i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what day is my next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is the next day i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i get paid next",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when's my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is it until payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i expect my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is the next time i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what day will i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my next direct deposit from my job",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my paycheck coming",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was the last date that i got a paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was i last paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was the last date that i got paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was the date that i was last paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was the last date that i was paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when am i due for my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is my next paycheck coming",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my next paycheck come",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i get my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when did i get paid the last time",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my next paycheck will be here",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was the last time i got paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know when i was paid last",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was my last payment",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was i paid last",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me on what day did i get paid last",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "remind me of the date of my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "on what date did i get paid last",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when did they deposit my last salary",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when was i paid the last time",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when's payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when's my next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what day do i get paid next",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i get my next check",
+    "intent": "payday",
+    "domain": "work",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i locate my w2 so i can do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the w-2 form located",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i locate my w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can one receive their w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the location of my w2 that is needed for taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where would my w2 be found so i can do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find my w2 so i can do taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where are w-2 forms given",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i require my w2 for taxes and need to locate it",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i get the form i need for taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i get my year end summary for taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where should i go to get a w2 to do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i pick up a w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get a w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me where a w2 is available please",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "a w2 form can be gotten from where",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a w2 form online",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "help me get a w2 to do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what location can i get a w2 from",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "a w2 form is obtainable where",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "who can send me a w2 so i can complete my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i get my w2 to do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i pick up my w2 to do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i get the form that shows my wages for the year for taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what the form is employers are supposed to send you for taxes and where i get it",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i've got tax issues and need help obtaining my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to do taxes and have to get a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i find the irs form that tells me the amount of money i owe them",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i get the tax form that i have to report to the irs",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you locate my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know how to find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "hey, anyone seen my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "help - i can't find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where is my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to download my w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you access my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i get a hold of my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to get a hold of my w-2 right now",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get the form i need to do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get the form i need to do my taxes, please",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get the employment document that i need to do my taxes, please",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get a w2 form from",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i obtain a w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find a w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i obtain a w2 form from",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get the employment form i need to do my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get the employment form i need to do my taxes, please",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where is my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my w2 as i need it for tax reasons",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i get my tax papers",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i recieve a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is this where i get a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me where to get a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "who has the tax form that shows my wages",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is that tax form that shows my wages and where do i get it",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i locate the form that has my tax information",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "who has the tax form that has my wage informaton",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i get the tax form that shows my wages",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where's my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i can't find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know where my w-2 is",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm having trouble locating my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "provide me assistance on where to go to get my w2 for tax reasons",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i am in need of my w2 for tax reasons; provide me where to get it",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "assist me on where to go to get my w2 for tax reasons",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i go to get my w2 for tax reasons",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get my w2 from for tax reasons",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to get the forms to file for my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where could i locate a w2 form from",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "locate my w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where could i find forms to get my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my tax form to report what i earn",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i go to get my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the form i need to report my earnings",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i get my w2 form from",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me where to get myy w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i locate a form for my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is my w2 available at the post office",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know where to get a w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i receive my w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get my w2 online",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get a w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help getting a w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a w-2 from the post office",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get my w-2 online",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "does my w2 come by mail",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how and where are my w2 forms given",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i get my w2 forms from",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "from where are w2 forms given",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get a w2 form and from where",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get a personal w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "have i been sent my w-2 in my email",
+    "intent": "w2",
+    "domain": "work",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when is today's meeting with john",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my meeting with dan scheduled for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is the meeting with homer scheduled for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings with stan today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how many meetings do i have scheduled between 10 and 3",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "on what day is my meeting with dr lee",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how many meetings with pete i have for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "about how many meetings am i attending between 12 and 3 today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how many total meetings will i have between 2 and 5",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what time i am meeting with sarah today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is that meeting with kara",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have meetings from 1 to 4 today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have many meetings today between 2 and 4",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is my meeting with steve",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "for today only, how many meetings are with jake",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings with mark today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my meeting with bob",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my meeting is scheduled with roger",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when am i gonna be meeting roger",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings today between 5 and 6",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings today between 2 and 3",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings with ben today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings with roger today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings today between 8 and 9",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my meeting with roger",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know when my meeting is with dan",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings with michael today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings with dave today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings today between 4 and 5",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings today between 6 and 7",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the meeting schedule for the day",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the meeting schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the meeting schdule please",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my meeting schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my meeting schedule like for the day",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "share my meeting schedule with me",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have meetings scheduled today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings do i have scheduled today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "go over my meeting schedule with me please",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to be at any meetings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "any meetings on the schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings are on my schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "meetings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings are scheduled for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "does today's schedule include any meetings",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any meetings on the calendar for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meeting to go to today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings are on my calendar",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when do i have meetings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's on my meeting schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what times are my meetings",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my meetings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "which meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any meetings i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "bring up any mettings for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when are my meetings today between noon and one",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "am i scheduled for any meetings between noon and one",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how many meetings do i have today between noon and one",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings do i have today between noon and one",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are there meetings schedules today between noon and one",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings planned for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are any meetings scheduled for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings scheduled for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are any meetings booked for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time i have to meet mr accountant",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is mr ceo waiting me now",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to meet the dev squad to day",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a run down of my meeting schedules for the day",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know every meeting i have scheduled today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if i have any meetings set up with travis today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do you see any meetings with john on my schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "check to see if i have any meetings with peter today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "am i scheduled to meet with heather today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings do i have on my agenda today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "have i got any meetings today with sara",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what my day looks like today in terms of meetings",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what scheduled meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any meetings on my calendar today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "am i scheduled for any gatherings today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is the gang getting together this afternoon",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings coming up today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please list my meetings for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if i have any meetings scheduled for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please list my meetings for today from 8:00 am to 2:00 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "did i schedule any meetings for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my scheduled meetings for today only, please",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me hear all meetings for today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any meetings scheduled between 3 and 5 pm today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings are on my schedule today between 1:00 pm and 4:00 pm",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any meetings for today on my calendar",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me today's scheduled conferences from noon on wards",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is a meeting with ruth on my schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i have going on between 9 and 10",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do i meet with joan today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when's my meeting with richard",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what meetings do i have today from 3 to 4",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my meeting with john",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is on my schedule between 10:00 am and 11:00 am",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much are my state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what will my state taxes cost",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much are taxes in my state",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much state taxes do i owe",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how much in tax on this",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "and what are the taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the tax amount is",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the tax amount",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much are taxes on this",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the amount of my federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "about how much will my federal taxes be",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i have to pay in state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do my state taxes amount to",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i have to pay in federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i owe for state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do my federal taxes amount to",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount will my state taxes be",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will my state taxes be",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i going to have to pay in taxes to the state",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i have to pay in colorado taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my bill going to be for my taxes for tennessee",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i going to have to pay in federal taxes this year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is the irs going to get from me",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my irs bill going to look like",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what will i need to pay in federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money am i going to lose this year for state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money is the state going to take from me for taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how are my federal taxes looking this year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to pay how much back in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i pay the government back in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount do i have to pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i have to pay back for my taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the amount of money that i have to pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the total amount of tax deductions from my income",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i pay currently in income taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how much tax i pay from my earnings",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i paying from my income in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find the exact amount i pay income taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i pay a lot of taxes on my income",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i expected to pay in tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to file a tax form",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "will i pay over $500 in federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i expect to pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are my state tax payments too high",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do americans pay for federal taxes on average",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i pay in state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay the government in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what percentage do i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what percentage of my income is taken out for taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i pay in federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i owe the government on my taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "help me calculate my federal tax bill",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you calculate my state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "using my salary as a basis, what taxes will i owe",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how are my state taxes looking",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "help me figure out my state taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you calculate my tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is my income tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my income tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay in income tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much tax do i owe",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of tax do i pay",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount am i taxed on my income",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you think will be the result of my federal tax return",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the damage on my federal tax return",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what does my federal tax return look like",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what will my federal tax return be",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money will i get or owe on my federal tax return",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money do i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money do i pay in taxes, please",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount of money do i pay in taxes, please",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay in taxes, please",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how much i should pay in tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know my tax rate",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount of tax should i pay",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me what i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know how much i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the total amount i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how much i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much does it seem my state taxes will be",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what my state taxes are",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my state taxes looking like",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me more about my federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i owe in federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the specifics on my federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what does it look like my state taxes will add up to",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the details on my federal taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i currently pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much will i pay for state taxes this year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how different will my state taxes be",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my state taxes currently",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what will my state taxes amount to this year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much did my state taxes change",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much tax do i pay",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay in tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay in my taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how much as my taxes by the way",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount do my state taxes look like",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my vacation schedule look like",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you explain to me what type of vacation days i have still",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of vacation schedule do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get vacation day totals i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have saved up, please",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have remaining",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have saved up",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have remaining, please",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i still have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i still get",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how much vacation time i can use",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any vacation days to use",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if i have any spare vacation days",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any vacation time left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any vacation days left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many holiday days do i have left to use",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how many vacation days i can use",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any personal days left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many of my vacation days do i have remaining",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation hours do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much paid time off do i have saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days do i have left of pto",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many day of my vacation are left for the year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many pto days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many pto days do i have for the year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have for the year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days have i accrued",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how much pto i still have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current amount of vacation owed to me",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what number of vacation days remain for me",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days can i slack off this year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have enough vacation to take a european trip",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much vacation am i currently entitled to",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the amount of pto i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much paid time off have i earned to date",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what pto time to i have remaining",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current count of my pto days",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the count of vacation days i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much pto have i accrued",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i still have any pto days left, and if so, how many",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much pto do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much time off do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my vacation day total",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i still have vacation days",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have to spend",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "check how much pto i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the status on my vacation days",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "check days of pto",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the saved vacation time i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much time do i have for vacation saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days of vacation time do i have saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the amount of vacation days i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many saved days of vacation time do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days for vacation do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "hoe many vacation days are left for me",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days are left for me for vacation if i may ask",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days off for vacation do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have left this year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days do i have saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you figure out how many vacation days i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i have how many vacation days saved up",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i have how many vacation days left this year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i have how many vacation days left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days of vacation have i saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i've saved what number of days of vacation",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the number of vacation days i have stored",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the number of remaining vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many pto days do i have remaining",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my remaining pto days",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the number of pto days i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the remaining time i have for pto",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know ho many vacation days i currently have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please tell me how many vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me how many vacation days i currently have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me how many vacation days i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days of vacation do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much vacation time have i accrued",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation hours have i accrued",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "please calculate my vacation time",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know how many vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know how many vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what number of vacation days do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how many vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know the number of vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how many vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would you provide the number of vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "provide me the number of vacation days i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much pto do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any remaining pto days",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much paid time off do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any pto days left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have enough pto to take time off",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many more vacation days do i have for the year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how many vacation days i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many more vacation days can i use this year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vacation days are available to me",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many more pto days are there for me",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know my vacation time",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what my total income is for the pay period",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please give me my salary figure",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to tell me my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my gross income per pay period",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my total annual income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much did i earn in income only last year",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my salary right now",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my pay for this year",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know what my salary is at this time",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need details on my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me information about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know anything about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want income data",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me about my income this week",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the details on my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how much i make",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what has my income been like",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i usually earn in a day",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much have i earned this week",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what're my wages for the week",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i making at my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i earn from my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money am i making",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i getting paid",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "advise me of my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i make",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much should my income be for the month",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the low down on my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "give me my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my income been for the last 6 months",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i make every 2 weeks",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my pay for the year",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i getting back from work",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i make at work",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i expect on my next check",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are they paying me at work right now",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my take home from work",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my pay for this week",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i getting paid today",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my paycheck going to be",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my current salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "look up how much i earn annually",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount of money do i earn at work",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my income from work",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know how much i make at my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exact number of my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how much money i'm earning at my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "calculate how much i earn from my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "calculate my total income from my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my salary please",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you tell me about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to tell me about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the total amount of my paychecks over the last year",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "my income equals what amount",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my hourly rate",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my current gross salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my current net salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money was deposited to my bank account from my employer this month",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what does my income amount to",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i have more information about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need more information about my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you provide information on my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my pay",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money did i make",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much did i get paid",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what my currnet salary is",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my exact salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what i earned",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my earnings",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what amount do i make",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money do i bring in",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what my income will be this week",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my yearly salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my pay grade at work",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i make per day",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is my income going to be this month",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do you make an hour",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much have i earned",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is your current income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do you make",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i earn on average at my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i make yearly",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you make in a year",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my monthly income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much money do i have coming in each month",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much cash do i earn",
+    "intent": "income",
+    "domain": "work",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  }
+]

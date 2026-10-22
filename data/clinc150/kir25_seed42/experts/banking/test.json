@@ -1,0 +1,962 @@
+[
+  {
+    "text": "can you freeze my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to freeze my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i want my account locked out",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "stop all access to my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need my account frozen!",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to lock my account right now!",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please force my account to freeze",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please stop my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please allow my account to freeze",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please put my account on hold",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "freeze my account at the bank immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "would you be able to freeze my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "my account at the bank needs to be frozen",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please block my discover account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please put a block on my citi account immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "block my american saving bank for now",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "block my bank of america immdediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "put a block on bank of amerian immediately",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "my account needs to be frozen",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "freeze my account for me",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "put a freeze on my account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "could you please put a stop on my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to put a stop on my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "are you able to put a stop on my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please put a stop on my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i am hoping you can put a stop on my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please put a freeze on my banking account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need my bank account frozen",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i freeze my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "would you freeze my bank account",
+    "intent": "freeze_account",
+    "domain": "banking",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know all my spending transactions",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "when did i last make a purchase",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much did i spend on my most recent transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "show me my ten most recent transactions on account xyz",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to see all transactions in the past month for all accounts",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "show me my recent transactions from account xyz",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "open bank app and show my most recent transactions",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "are you able to find my recent transactions for me",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i made a transaction recently",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what was my recent transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know what my recent transaction was",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i need information about my recent transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "state recent transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "is my visa bill over my limit this month",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what have i spent things on",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "show my transactions",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what were my last 10 charges on my credit card",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "show what i have spent things on",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much have i spent on my debit card this month",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much have i spent on my bank card sine i last paid my bill",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much was my last target trip",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can you verify my recent visa card transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what was my recent transaction on my visa card",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the last transaction on my visa card",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "show my my most recent visa card transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "please review my recent visa card transaction",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how many transactions do i have on flower shops from last wednesday between 2pm and 7pm",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what transactions did i make on electronics this morning after 6am",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the largest transaction i have made on video games this month",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what transactions do i have on groceries from yesterday",
+    "intent": "transactions",
+    "domain": "banking",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my electric bill due by",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my car insurance bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how long until my water bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the latest i can pay my cellular bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the due date for my netflix subscription",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me where i can find my exterminator bill's due date",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i locate the due date for my bug bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where can i see the due date for auto loan bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my cell phone due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know where my due date is for my lawn bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "where can i find when my car payment bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the ultimate day for me to pay the internet bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me the last day i can pay my gas bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the due date for my comcast bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know when my water bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me how to find out when my rent is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know when my electricity bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me when my cable bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to find out how to check the due date for the water bill",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when does the current billing cycle end",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is the bill due today",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is the bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when do i have to pay my internet",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know when the deadline is to pay my car loan",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me when my water bill is due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what day of the month do i have to pay my mortgage",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my electricity due date",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the next billing date of my american express card",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when does my gas bill need paid by",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "when is next month's cable bill due",
+    "intent": "bill_due",
+    "domain": "banking",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i owe to jcp",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the amount due on my visa",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much do i owe visa",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much do you think my rent and electric bills are",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what would you say my gas and phone bills are at",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the price of my car payment and insurance please",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what price is my credit card and my water bill at",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is my water and sewer",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much do i need to pay for my electricity and water bills",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the cost of my rent and water bills",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much are my rent and cable",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much does my water and electricity cost",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i owe this month on all my bills",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i think all my bills are paid, but can you double check",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i think i owe about 100 left on my bills, am i forgetting anything",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what are my bills this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what does my cable bill look like",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my electricity bill increased this month how much",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how expensive is my internet",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much will my monthly bill be",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what are my total bills this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what will i be paying for utilities this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is my telephone bill this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is due for my water bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much do i have to pay this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my water bill please",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is the phone bill the same as last month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "whens my insurance due and how much does it cost",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is the car bill this month",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the electricity bill",
+    "intent": "bill_balance",
+    "domain": "banking",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  }
+]

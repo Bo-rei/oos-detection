@@ -1,0 +1,1682 @@
+[
+  {
+    "text": "what company made this ai",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the name of the person who made you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who is the person that brought you to life",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who is the one that made you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who is your maker",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "which company made you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who assembled you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i wanna know who programmed you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know who programmed you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who made you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i wanna know your maker",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who was your maker",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who is the one who programmed you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i must know who programmed you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me who your maker was",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what was the company that designed you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know what company were you designed by",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know which company were you designed by",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what company were you designed by",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "can you let me know what company were you designed by",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "which company were you designed by",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me who made you please",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me who made you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "whats the name of the person who made you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what company did the design for this",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what company did this design",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what company is responsible for this design",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what company designed this",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "for this design, what company did it",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "name the person or group that programmed you",
+    "intent": "who_made_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who is in charge of you when you work",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who is responsible for your employment",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who do you report to for your work",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know who your boss is",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know who your boss is",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "would you let me know who your boss is",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to know who your boss is",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "are you my insubordinate",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "does someone else control you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "do i own you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what firm do you work for",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "do you take your orders from me",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "do i control you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "am i in charge of you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "is there another person that controls you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who do you take your orders from",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "would you consider someone else your boss",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "do you take orders from someone else",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who controls you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who's your boss",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what company do you work for",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who employs you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "where do you work",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who is it that you work for",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "whom do you work for",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who is your job with",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what company are you employed by",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the name of the place you work at",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what's your boss's name",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "who can i talk to above you",
+    "intent": "who_do_you_work_for",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how are you doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "are you okay",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what are you feeling today",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is everything ok today",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "are you doing alright",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello, how's your day",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hey there, how are you today",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello, how is it going",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hi there, how are you doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hey, how are you",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hey, what's up",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello, how are you doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hi, how are you",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hi, how are you today",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello, how are things",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hey there",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hey, what's new",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "it is good to see you",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like to know how you are doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello there",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me how you are doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello there, good morning",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know how you are doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "well hi there",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know how you are doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know how you are doing today",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hello there ai",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "will you tell me how the ai is doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "would you tell me how the ai is doing",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "hola!",
+    "intent": "greeting",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what are your hobbies exactly",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what are your hobbies in life",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what are some of your hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to know some of your hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "would you give me examples of what some of your hobbies are",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me what some of your hobbies are",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i am needing to know what some of your hobbies are",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i need you to talk to me about your hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "would you tell me about your hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to talk to you about your hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "give me examples of what some of your hobbies are",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kinds of hobbies do you have",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what hobbies do you like to do",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "would you tell me the hobbies the ai has",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what are the ai's hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "does the ai have hobbies",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of hobbies does the ai have",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me what hobbies the ai has",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you engage in during your free time",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of things to you like to outside of work",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you like to do during your leisure time",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kinds of activities to you participate in during your free time",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you do on off days",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how to you spend your free time",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you do after work",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you like to do besides work",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "if you have hobbies tell me some of them",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of hobbies are you interested in",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "any hobbies you like to do",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "what do you enjoy doing in your off time",
+    "intent": "what_are_your_hobbies",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me if you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "would you tell me if you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "provide me with the knowledge of whether you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know if you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know whether you are a human or are a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me if your a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know if your a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is this a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i think your a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is it true your a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a person that's real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you actually a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you really real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "your a bot aren't you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you be human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you be a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a human or ai computer based",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "would you call yourself a human or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how do you describe yourself: as a computer or a human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you computer or human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "would most people say you are a computer or a human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you real or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a computer generated voice",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "am i talking to a real live person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "is your voice from a human or is it synthesized",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a person or artificial intelligence",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "could you tell me if you're a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "are you a person or robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to hear something funny",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do you have any monkey jokes",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "know any dad jokes",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me a dog joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "heard any good jokes",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to hear a joke about elephants",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like to hear a lawyer joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me a blonde joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know any dad jokes",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me a joke about elephants",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me a joke about the subject of sailing",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "give me a joke about water",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "give me a joke about the topic of television",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "give me a joke about the subject of bugs",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me a joke about the topic of mice",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to hear a joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "will you tell me a joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "let's hear a joke!",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i could use a laugh, got any jokes",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me something funny about science",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can you share something funny about traveling",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to hear your best joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me a good joke",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me something funny about horses",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to hear something funny about history",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "can you share a humorous joke with me",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to hear something funny about politicsi",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "let's hear a joke from you please",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me something funny about the middle ages",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know any jokes",
+    "intent": "tell_joke",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what your numerical digit to display as your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how old will you be",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how old will you be this year",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "whats your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "when is your birthday",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "when were you made",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "whats your age range",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "could you tell me how old you are",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "would you tell me how old you are",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "your date of birth",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "your birthday please",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me your birthday",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "whens your birthday",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's your bday",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how old were you on your last birthday",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how many years have you been alive",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can i ask your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "do you mind if i ask how old you are",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "may i ask your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me your age",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "when's your birthday",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how young are you",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's your age right now",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how old would you be",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know how old you are",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how old",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "what's your date of birth",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how old are you turning",
+    "intent": "how_old_are_you",
+    "domain": "small_talk",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  }
+]

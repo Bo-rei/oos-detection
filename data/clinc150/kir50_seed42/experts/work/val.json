@@ -1,0 +1,1122 @@
+[
+  {
+    "text": "explain how do i get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how to get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "explain to me how do i get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how do i get new insurance",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to know how changes are made to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i make changes for my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how changes on my insurance policy can be made",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to know how to make changes for my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "could you tell me how to make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how to change my policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to switch insurance plans",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you help me switch insurance plans",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how to make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you help me switch to a new insurance plan",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how can i change information on my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i make changes to my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me how to change my insurance policy",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to change my insurance policy, how",
+    "intent": "insurance_change",
+    "domain": "work",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "when's the next time i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "when's my next paycheck coming in",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the date of my next paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "when do i get my paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "which day is pay day",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "which day is it that my payment comes in",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "when am i paid or how often",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how many days until i get my payment",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what was the last check date",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "when was i paid most recently",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what was the date of my last paycheck",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "when did i get my check last",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how long has it been since i was paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how many times do i get paid in march",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what date is the next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i am trying to find out when is the next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what date is the next day i get paid",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "when is the next payday",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my pay",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "how much is on my paycheck this week",
+    "intent": "payday",
+    "domain": "work",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need a w2 form, how do i get one",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "who do i contact for a w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i get a w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "who should i call for a w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where do i go to get a form for w2s",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where do i get w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know where to get w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me where i should get the w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "so where do i get the w2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me where to get the w2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where will i find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "w-2 tax form where is it",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where do i find my w-2 form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where's my w-2 tax form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where do i find my w-2 tax form",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can i find my w-2 online",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where should i look for my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where would i find my w-2",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "i need my earned income form for paying taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "where can i get the form for my taxes",
+    "intent": "w2",
+    "domain": "work",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what if any meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have meetings with anyone today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings on my calendar today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings on my schedule today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9:30 and 10:30",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9 and 10:30",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9:20 and 10:30",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9 and 10:15",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings today between 9 and 10",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what time am i meeting with john",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what time am i meeting john",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what time is my meeting with fred scheduled for",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have any meetings coming up with dan",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i think dan scheduled a meeting today with me, can you double check please",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is my schedule clear with no meetings with dan today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my schedule like today, any meetings with dan",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is dan aware of any meetings with me today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how many meetings do i have today",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "read me my meeting schedule",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please tell me my meeting schedule",
+    "intent": "meeting_schedule",
+    "domain": "work",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "how much money a year do i spend in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "how much am i being taxed",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what are my tax costs",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what kinds of taxes am i facing",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my income tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the tax bracket for my income",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what does it look like i will be paying in federal taxes this year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i get taxed at my income level",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what is my tax burden",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me what my federal tax burden is",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "how much am i taxed each year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know how much i pay in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i pay in taxes every year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my federal tax this year",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know my tax rate",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the tax rate that applies to me",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i need to pay in tax",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my tax rate",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me my tax rate",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "what amount do i owe in taxes",
+    "intent": "taxes",
+    "domain": "work",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "how many vacation days have i saved up",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many vacation days do i have at my disposal",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many hours of vacation have i saved up",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many vacation days have i accumulated",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many pto days are available",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how much vacation do i have saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how much vacation have i earned",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what number of pto days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many weeks of vacation do i have",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many days of vacation do i have saved",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know how many pto days are left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "whats the number of pto days i have to my availability",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "how many pto days are in my possesion",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what number of vacation days do i have available",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what number of vacation days do i have at my disposal",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "could you let me know how many pto days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "could you tell me how many pto days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you let me know how many pto days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me how many pto days do i have left",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the amount of time i can request off in the coming year",
+    "intent": "pto_balance",
+    "domain": "work",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my income before taxes",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my income from work",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how much money do i make at my job",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "was is my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my yearly income",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what was my income last year",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my total income",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my total earnings",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what's my work salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know my work income",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how much money do i make a week",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do i make in a year",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i get paid",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how much is my salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like to know what my income is",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me my income amount",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know the amount of my income",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "get my income amount for me",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "how much do you start at",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "yearly salary",
+    "intent": "income",
+    "domain": "work",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  }
+]

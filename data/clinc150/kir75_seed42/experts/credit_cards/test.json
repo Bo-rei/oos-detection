@@ -1,0 +1,2642 @@
+[
+  {
+    "text": "how long does it take for a credit card to be reissued and mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "can credit card companies expedite delivery of reissued credit cards",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "can you call the help desk line for my credit card company",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i request a new credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the phone number for my credit card company",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "i recently lost my credit card and need to know how long it takes to get a new one mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the time it takes to get a new credit card sent to someone who lost theirs",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "i lost my credit card recently  how long does take to get a new one in the mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is amount of time it takes to get a new credit card i lost mine recently",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the time frame for sending a customer who lost their credit card a new one",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "will i get getting my new card anytime soon",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the shipping status of my replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long until i get my replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my new card expected to arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "is my replacement card due to arrive in the mail today",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long before my new card is mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the shipping time for my card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how much time before my new card is mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long does it take to get a new credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "time to order and receive a new credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when will i received a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "time to replace my credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long before the replacement card is mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how much longer before the card is mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how long will it takes to get a new credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the shipping wait for my card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "when will the replaecment card arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know the wait on a replacement credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know when the replacement card will arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how soon can i expect a replacement card for my lost card to arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 9,
+    "source_split": "test"
+  },
+  {
+    "text": "how is the status of my credit card application coming along",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what exactly is the status of my application for the credit card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to know the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know if my application for american saving bank",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "check the status of my credit card application for me",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know if my credit card application has been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you check if my credit card application has been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know how is my credit card application going",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you let me know the status of my discover credit card application status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my application for american express gone through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know about the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you please tell me about the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you please let me know the status of my capital one application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know the credit card application status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my application for discover card gone through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me the credit card application status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my application for the hsbc card been approved yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me if my application for the hsbc card has gone through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how far has my application for the hsbc card gone till now",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the status on my application for the hsbc credit card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "how far has my application for the hsbc card proceeded till now",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "did the application for my visa card finish",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my mastercard application gone through the process",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my mastercard application gone through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my application for my visa card gone through",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "has my mastercard application been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "when will i know if my visa card application was approved",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 0,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to know my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me what my credit score is",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "can you find what my credit score is",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how is my credit score numberwise",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what credit score number do i have",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my credit score number",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what number is my credit score currently",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "is my credit score over 700 yet",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "please give me my current credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm trying to raise my credit score can you tell me what it is now",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know what my credit score is",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "could you tell me what my credit score is",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "give me my credit score please",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "could you share my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how's my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i was wondering what my credit score is",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "where do i go for my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to find my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i locate my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my credit rating",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know my credit rating",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "my credit rating is what",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my credit raing",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "give me my credit rating",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me what my credit score is",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "i'd like you to check on my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know what my credit score is today",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "can you check my credit score",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "can you check my credit score for me",
+    "intent": "credit_score",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 5,
+    "source_split": "test"
+  },
+  {
+    "text": "you need to tell me my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "now tell me my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know the apr on my wells fargo credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my chase credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me what my wells fargo credit card apr is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my b of a credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me the apr of my target credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my apr rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is my apr rate above average",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "does my apr rate suck",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my card's apr rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is my apr rate better than most",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my credit card's annual percentage rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the annual percentage rate for my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how high is the apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "how much am i paying for apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is my card's apr a decent rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me my apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "would you consider my apr to be good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the current apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what kind of credit card apr do i get",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my apr rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my apr rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "could you share my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "is my apr rate good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know what the current apr is for my chase sapphire, please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "can you find me the apr listed on the statement for my citi mastercard",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the apr on my capital one venture card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "inform me on what my credit card's apr is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 1,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to tell you about my lost card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i lost my card, what do i do next",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i have lost my card, what am i supposed to do",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "where do i report that my card was lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "who do i speak with about my card that was lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "please help me report my lost card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "set up a report for a lost card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "can you report a lost card for me",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i lost my card and need to report it",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the process for reporting my card as lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "someone used my chase card without my authorization",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me how to report a card lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me how to go about reporting a lost card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "search steps for how to report a card lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to to know how to report a lost card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my bank of america visa platinum was swiped from my belongings",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "who do i call to report my card as lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what should i do if i need to report my card lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my capital one visa was taken without permission",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to report that someone ran off with my td bank card earlier",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "what steps do i need to take to report a card lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to report my american express card stolen",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i report that i lost my card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i report that i actually lost my card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i report that i lost the card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i report my very lost card",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i report the card as lost",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "lost report card, need new one",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my report card was stolen",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "my report card was lost help!",
+    "intent": "report_lost_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 10,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me how to go about reporting a damaged card",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "my card is damaged",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to report a damaged card",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "where should i report a damaged card",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "can you find out how to report a damaged card",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "my card has become too frayed and torn to use",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i do about a card that's too messed up to be properly scanned",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "my card became damaged when i dropped it in the parking lot and it got ran over",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i have a damaged card that needs replaced because my son dropped it in a blender",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i sat on my credit card and broke it in half and need it replaced",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "my credit card got torn and i need a new one",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what do i do with a damaged credit card",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i replace a damaged card",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i have a card that needs replaced because my wine dumped wine on it",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i spilled wine on my credit card and now its all mushy and needs to be replaced",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "my dog swallowed my credit card and i need a new one",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to report a damaged card that my cat shredded with its claws",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to replace a card that my daughter spilled juice on",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i'm unable to use my card because it's been ruined",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i can't use my card because it’s damaged badly",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i cannot use my card cuz it's damaged",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i can't use my card because it’s messed up",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i can't use my card because it’s broken",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i can't use my card because i damaged it",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "who should i talk to about the fact that i inadvertently split my card almost in half",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i accidentally deactivated the magnetic stripe on my visa debit card and i need to report it",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "can i talk to someone to let them know my card was damaged from being melted on a radiator",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to report a damaged card that was burnt",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to report my card damaged since i accidentally spilled gorilla glue all over it and the numbers are now obscured",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "my visa has been damaged",
+    "intent": "damaged_card",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 6,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the most i can charge on my card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much do i have available on my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my visa credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much of a credit limit does visa allow",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a substantial credit limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "as my visa got a high enough limit on it",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my credit max",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my credit card spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my daily spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much credit do i have on my discover card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have a monthly spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the limit on my discover card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my credit limit on my discover",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my spending limit on my discover",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much is my maximum to spend on credit cards",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's my discover credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how much can i use on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "my visa has what limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my visa limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "look up how high my visa limit is",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what is my state bank of india card credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "calculate the limit i have available for spending on my natwest card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me my hsbc card credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the spending limit on my lloyds card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i need you to tell me the credit limit for my republic bank card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "how high is my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to know my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 3,
+    "source_split": "test"
+  },
+  {
+    "text": "will i be charged transaction fees if i use my american card internationally",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will i incur transaction fees if i use my american card internationally",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have transaction fees if i use my american card internationally",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "could you find out if my bank charges transaction fees on my american card if use internationally",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will the bank charge transaction fees if i use my american card internationally",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "do i get charged extra for using my card in portland",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will i get charged for using my credit card in portland",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "if i'm in portland can i still use my card without getting charged extra",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a fee for using my card in portland",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "does using my card in portland charge me extra",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "what are the transaction fees associated with my discover card if i am in rome",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "how many transaction fees are there when i use my discover card in rome",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "are there transaction fees for discover cards used in rome",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will using a discover card in rome cause transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "do i have transaction fees when i use my discover card in rome",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "are there transaction fees using my discover if i'm in cuba",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "when i go to cuba will there be a transaction fee for using my discover card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a fee to use my card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will i be charged a transaction fee on my discover card in cuba",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a charge to use my card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "if i use my discover card in cuba are there transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "are there transaction fees in cuba for using my discover card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "so i get charged if i use my card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "is there an international charge for using my card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a fee if i use my card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "is there a charge to use my card in croatia",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "in x, will i be charged to use my card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "in x, what is the charge if i use my card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "if i use my card in x, will there be a charge",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "will it cost me anything to use my card in turin",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 8,
+    "source_split": "test"
+  },
+  {
+    "text": "when can i change my credit limit",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i change my credit limit",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get more credit",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to change the credit limit i have",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "you need to tell me how to increase credit limit for my chase card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "need to increase credit limit for chase card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to increase credit limit for my chase card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "please tell me how to increase credit limit for the chase card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me how to increase credit limit for chase card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "is it possible for me to increase my credit limit by 500 dollars",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can my credit limit be increased by 500 dollars",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i would like to increase my credit limit, can i do so by 500 dollars",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "may i increase my credit limit by 500 dollars",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "could i perhaps increase by credit limit by 500 dollars",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i increase the credit limit on my mastercard",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i increase the credit limit on my visa card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i increase the credit limit on my discover card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i increase the credit limit on my capital one card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i increase the credit limit on my travel rewards card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i get my credit limit to be increased to $1000",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can you get my credit limit increased to $1000",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i get my credit limit increased to $1000",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i ask for a limit increase on my discover card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can i get my limit increased on my discover card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i get a limit increase on my discover card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "who do i need to contact to ask for a credit limit increase on my discover card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can you increase my credit limit to $1000",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "can my credit limit be increased to $1000",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i adjust my credit limit",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i increase the credit limit on my discover card",
+    "intent": "credit_limit_change",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 4,
+    "source_split": "test"
+  },
+  {
+    "text": "i want to bring my card on the texas trip in june, will it be expired by then",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what's the month, year, and day that my card expires",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "does my card ending in 1234, or any of my cards, expire soon",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "does my card have an expiration date and if so, what is it",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when does my card expire, the one ending in 1234",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "give me my credit card expiration date",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the expiration month and year on my credit car",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the date of expiration for my first bank card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the expiration month of my card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the expiration date of my credit card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "let me know when my credit card expire",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when will my citi card expire",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my credit card expire",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the expiration month for my card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the expiration date of my credit card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the expiration date on my chase card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is the expiration date for me discover",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when it my citi card expired",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when is my card expired",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me the expiration date on my credit card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what month is my card expired in",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "how soon does my credit card expire",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when will my new credit card arrive",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what month does my credit card expire",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "what is the date when my visa card will expire",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me what the date of expiry for my visa card is",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "tell me the expiration date for my visa card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "show me the expiration date for my visa card",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "where should i look for my credit card expiration day",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "when will my credit card no longer be good",
+    "intent": "expiration_date",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 7,
+    "source_split": "test"
+  },
+  {
+    "text": "my card got declined; why",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you help me understand why my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why was my card not accepted",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you tell me why my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was at publix trying to buy some food but my card wouldnt work",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "who do i need to contact to find out why my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i need to know why my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how do i fix my card, it was declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why did my card get declined at public when i was trying to buy food",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was trying to buy food at publix but my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was trying to use my card to get food at publix but it got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how can i fix my card being declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was trying to get food at publix, why was my card declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "do you know why my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why my card stop working",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "my card declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was in australia trying to buy chips and my cards got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was in thailand trying to buy candies and my card got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why was my card got declined when i am trying to pay for dinner when i am in vietnam",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i could not buy food using my card when i was in vietnam",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "i was in thailand and i could not use my card to buy snacks",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "can you explain why i couldn't use my card at target",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why was my card not working at target",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "my credit card was turned down at target and i'd like to know why",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how come i got declined",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why can't i use my credit card",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why won't you let me pay with my credit card",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why did i get rejected on my card",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "how come my credit card isn't working",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  },
+  {
+    "text": "why didn't my card work",
+    "intent": "card_declined",
+    "domain": "credit_cards",
+    "split": "test",
+    "label": 2,
+    "source_split": "test"
+  }
+]

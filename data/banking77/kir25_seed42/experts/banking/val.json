@@ -1,0 +1,1970 @@
+[
+  {
+    "text": "How can I request cash back? The ATM just gave me a different amount than what I've been actually charged though...",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Fees for currency exchange",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "Why did I not get the amount I specified at the ATM?",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Why can't I withdraw cash from this ATM?",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I modify my account details?",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to top up by card, what do you support?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Tell me how to renew my new card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "The card can be used at which ATMs?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "Can i choose a specific delivery date?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "Why was I charged $1 in a transaction?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "Why are all my transfers failing?  I have the details right and they won't complete.  I've been trying all day and they still won't go through, this is URGENT, please help.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to change my account details.",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "There is a payment with my card which i definitely did not make by me .Never seen that it before.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "How much will I be charged for exchanging foreign currency",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "Help! My card isn't working at the ATM and I know I used the right PIN. Trying to get my money.",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to use a payment card to top up my account. How can I do this?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "How can I find an ATM that accepts this card?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "I wanted to buy something online yesterday, but I could not because the card got declined on the day of and the following day. What is wrong with the card?",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "Payment I did not make.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "can I link a card of yours I already have?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "My card wants to be topped what do you guys support?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Why have I been charged an extra pound?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "What is the process for activating my card and using it?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Is the ATM broken? I can't get cash from it.",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Change of location, need to change details",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "How can I make my card ready to use?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Why did I get less from the ATM?",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Which ATMs accept this bill of fare ?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "How long does it take to receive my card?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "can I choose delivery times to suite me?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "I have a new email.",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you provide me a disposable virtual card?",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "What needs to be done to activate and use a card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "A payment I didn't do shows in my app",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Where is the closest ATM I can use?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "I keep being asked to verify my identity. Is this normal?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "When are cards shipped?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "The ATM keeps declining my Transaction . I tried two different ATMs already Would you please check if everything is okay with my account?",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "How high is the exchange fee?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "how do the cards work?",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "how do I link an old card?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "How would I change my details?",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "I attempted to withdraw some money from an ATM this morning and received the wrong amount. Your app says I have enough money available in the account. Can someone tell me what's wrong?",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "What currencies and cards do you support?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Can it specifically be delivered on a certain date?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "My app shows a payment I didn't make",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "I had a dollar charged to my account that's still pending and wanted to know what the charge is for?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "What proof of identification is needed?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "Hearing about your verification results from us may take anywhere from 10 minutes to approximately one hour.  If this verification has in fact, failed, double-check to make sure that your images are clear.  Also make sure that your document photos have no blur or glare. They need to be readable.  You must also be 18 years of age or older and be a resident of Switzerland or the European Economic Area to open an account.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "Why on earth do you need so much personal id info from me?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "Will my other US credit card be accepted?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Which currencies do you handle?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "I don't recognize this payment",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Which merchants accept my card?",
+    "intent": "card_acceptance",
+    "domain": "banking",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "For the identity check, do I need any kind of documentation?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "Do you need to know my first and last name?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "I moved, can I edit my personal details?",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "There is  a charge I don't recognize.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Please explain how disposable virtual card work.",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "The app isn't letting me log in, but my info is correct.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "What currencies do you accept for adding money to my account?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Why is my identity not being verified?",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "Is top-up possible with Apple Pay?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "I did not do this payment",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I modify my details?",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "Is there a way to link the card i just got?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "What happened! I asked for 30 pounds at your ATM and only go 10. The machine lied about it too. It said I received the full 30 pounds. Someone better help me asap on this.",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "What do I need in regards to identification?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "I don't recognize this payment at all!  Help!",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "I would like to reactivate my card that I previously reported lost. I located the card this morning.",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you tell me about why the account I have was charged an extra 1$",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "Why do you keep declining my transfers? it's always been working really well so far but when I tried to buy something just now the card got declined, I tried couple of times already  but same thing is happening.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "Where did the  €1 fee in my statement come from",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "Will be Apple Watch be able to let me top up?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "What is the proper way to activate a card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to link my new card. Can you help?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "In my statement, there was an extra €1 fee",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "can i verify my identity i the app",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "The wrong exchange rate was applied to me while pulling out cash.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I see a $1 charge in a transaction.",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "When can I expect my card?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "What businesses can I use this card with?",
+    "intent": "card_acceptance",
+    "domain": "banking",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "When will I receive my card?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "What is the fee for accepting money from a foreign country?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "I got less money than I asked for.",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Why wouldn't the ATM give me my money?",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Help me access the card I already got so I can information from it.",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "Is the 1 pound charge I can see an error or an incorrect entry?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "Why does my identity need verification?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "I think there's a purchase at a store that I didn't go to.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you accept my other card from the U.S.?  It is the only other one I have.",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "I can't get money out of the ATM. Is my card actually working? It's the first time I tried using it",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "A payment that I didn't make appears in my app.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Why did the ATM give me less money than what I requested?",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Send me my card now! ASAP",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "I need a single use card for shopping online",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "I was charged an incorrect exchange rate for a withdrawal.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "How long is US delivery?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "I could not access my money at the ATM",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I use disposable cards?",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "I attempted to get cash in the ATM but it was not authorized",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "How long does it take for deliver to the US?",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "If I don't have all my documents can they still verify my identity?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "Why are you asking so many questions about who I am",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "Can someone assist me with activating my card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Is it possible for me to top up with Google Pay?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I reactivate my card? I reported it lost and found it this morning in my jacket.",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "Where do I go to activate my card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Top up is not working even though I have my AMEX in apple pay.",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "Why is it required to verify my identity?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "The app failed to verify me.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "The exchange rate is incorrect for my cash withdrawal transaction.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I add an existing card to the app?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "Why are my transfers being declined? It normally works but now it's declining my card. I've tried it a few times but it's still not working.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the exchange rate when i get cash",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "There is a payment with my card which i definitely did not do.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "I need to figure out who has access to my card there are some payments I didn't make that are showing on the app.  Could you please help?",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "What ATM accepts Mastercard?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "Why is the exchange rate wrong for my cash withdrawal?",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I need my card to be delivered fast",
+    "intent": "card_delivery_estimate",
+    "domain": "banking",
+    "split": "val",
+    "label": 4,
+    "source_split": "val"
+  },
+  {
+    "text": "I cannot get my google pay to work.",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "What is the purpose of requiring my identification?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "It appears my transfer was declined.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "I exchange currencies a lot.  Can I get a discount?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "You can use it anywhere that accepts Mastercard.",
+    "intent": "card_acceptance",
+    "domain": "banking",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "The atm didn'y give me all the cash",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I link my card I previously received?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "What kind of charges should I expect to exchange currencies?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "Help me activate my new card.",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "I did not receive my full withdrawal amount",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Why do I need to have my identity verified?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I receive a disposable virtual card?",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I change my last name?",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "Where are the ATMs that I can use Mastercard?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "When will you be taking orders for disposable virtual cards?",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "Do all businesses take this card?",
+    "intent": "card_acceptance",
+    "domain": "banking",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "It's declining my transfers. Normally this works, but my card is being declined now and I've tried more than once.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "I don't know how to verify my identity.",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "I received incorrect amount of cash from an ATM today. It was more than I wanted. What do I do now?",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Why has another fee been placed on my statement?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "There is an unexplained $1 charge on my statement, can you please explain this to me?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to start using my card.",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "How can I change my information?",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "Is topping up with Apple Pay possible?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "I asked for cash but I did not receive all the funds",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I use my account without verifying identity?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "Why did the ATM cancel my transaction",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "I can't see my Google Pay top up. Is it not working correctly?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "I wasn't able to withdraw money at an ATM",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Am I able to top up with Apple Pay?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "I tried to get funds in hard cash but it was rejected!",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Why are my transfers getting declined?",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I get money from an ATM using my card? I can't seem to get it to work? I used the pin I had, but maybe it's wrong? What do I need to do to fix this?",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Am I supposed to verify my identity?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "Could you please put a freeze on my card?  There are some payments on it that I don't know where they came from.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "why does it take so long to verify my id",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "What is this card payment, I do not recognize it.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Is there a Mastercard ATM nearby?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "what are weekend rates for getting cash",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "When I received my cash; they had my exchange rate incorrect.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I activate my card that just arrived?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "I did not ask for the amount of cash that I received.",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Could I reactivate my card please, I couldn't find it but it turns out it was in my jacket pocket.",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "It can take between 10 minutes to an hour before you hear back from us about the verification result.  Please try again if your verification fails.  Make sure you double check that images are clear and all document photos are readable without blur or glare. You have to be 18 or older and live in the European Economic area or live in Switzerland to be able to open an account.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "Will I be charged for exchanging foreign currencies?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I add my new card to the app?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "I moved to a new city and need to change my address",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "I can't verify identity through the app.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "It declined my transfer.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "Please help me as my online payment is getting declined since yesterday while i am trying to purchase something online.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "I need help from someone in your department with finding my nearest ATM.",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "Do I get a discount if I exchange currencies a lot?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "Why did you charge me extra?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "I got some cash at an ATM earlier, but now app is showing that I withdrew more than I did.  Help!",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "I don't have a way to prove my identity.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you tell me what I need for identity validation?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "I checked the app and there is a payment that I don't recognize.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the exchange rate for foreign ATMs",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I only have one more US credit card, is it accepted?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Do you have the option for a disposable virtual card?",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "How do I link the new card that I just got from you guys?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "why is there a service fee on my statement?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "I tried to get money out of an ATM in Notting Hill earlier, but it didn't work. Is my card actually working? It's the first time I tried using it",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Is there a way to find an ATM around me?",
+    "intent": "atm_support",
+    "domain": "banking",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "Why is the exchange rate different than expected on my transaction?",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "Must I verify my identity?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "Tell me more about getting a virtual disposable card.",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "Help me verify my identification.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "Just received my replacement card, what steps do i need to take to activate it?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I use my Apple Watch to pay for gas?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "What are the charges if I exchange foreign currency?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "My new card has arrived, what's the activation procedure?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I have a discount if I exchange currency often?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "Is there a few for exchanging foreign currencies?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to top up by using a credit card, which ones do you support?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "I want to reactivate my card, I found it after thinking it was lost.",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "I do not understand why there is a pending 1£ charge on my statement, I do not recall making this transaction. Can you please tell me what this is about?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "The amount of cash I selected to withdraw is different than what I received.",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "I tried withdrawing money in another country and the exchange rate was wrong.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "The ATM didn't give me the amount I asked for",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Why do I have a strange payment on my statement?",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "My cash withdrawal was declined.  Why?",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "Will you accept my credit card?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you tell me how I go about activating a new card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "I don't recognize what this payment on my statement would be for.",
+    "intent": "card_payment_not_recognised",
+    "domain": "banking",
+    "split": "val",
+    "label": 6,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I make a withdraw in my home currency at an ATM? I'm on vacation and am a bit worried because I don't have cash with me. Is it possible to withdraw here without any additional costs or fees?",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you tell me what currencies I can use to add money?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "please help me with this transfer, for some reason i can't transfer to a cryptocurency account",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "What documents are required for proof of identity?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "I've been charged an extra £1 and I don't know why",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "What does the €1 fee mean?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "What is needed for identity verification?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "I withdrew some cash and the exchange rate seems to be wrong.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "Where do I get a disposable card",
+    "intent": "get_disposable_virtual_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 12,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I use my apple watch to top-up?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "Why do I need to verify my account?",
+    "intent": "why_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 16,
+    "source_split": "val"
+  },
+  {
+    "text": "Can you tell me how to get my card on the app?",
+    "intent": "card_linking",
+    "domain": "banking",
+    "split": "val",
+    "label": 5,
+    "source_split": "val"
+  },
+  {
+    "text": "Can I top up using my apple watch?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "How can I find a way to transfer money without it being rejected?",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "I have no way to prove my identity.",
+    "intent": "unable_to_verify_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 14,
+    "source_split": "val"
+  },
+  {
+    "text": "The applied exchange rate is wrong for the cash I got abroad.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I would like to top up via credit card, which credit cards do you support?",
+    "intent": "supported_cards_and_currencies",
+    "domain": "banking",
+    "split": "val",
+    "label": 13,
+    "source_split": "val"
+  },
+  {
+    "text": "I was charged an extra dollar on my account and would like to know the reason.",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "My statement is showing an extra £1 charge and I am unsure why. Is there an explanation for this?",
+    "intent": "extra_charge_on_statement",
+    "domain": "banking",
+    "split": "val",
+    "label": 11,
+    "source_split": "val"
+  },
+  {
+    "text": "I requested $100 but only got $20",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "I was only given $20 when I tried to get $100",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  },
+  {
+    "text": "Is my card actually working? It's the first time I tried using it",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "google pay top up did not work",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "What is the procedure for activating this card?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "I was denied cash at an ATM",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "I tried to buy something online yesterday and was told declined. I got the same error today after trying again. What is the problem?",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "Why is the exchange rate so high? This should have been a much higher amount of cash for that to apply.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I noticed my transfer was declined.",
+    "intent": "declined_transfer",
+    "domain": "banking",
+    "split": "val",
+    "label": 8,
+    "source_split": "val"
+  },
+  {
+    "text": "What do I do if my Google pay top up isn't working?",
+    "intent": "apple_pay_or_google_pay",
+    "domain": "banking",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "While abroad, I got cash, and the exchange rate applied is wrong.",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I have my card now how do I activate it?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "I attempted to get cash in the ATM but I was denied",
+    "intent": "declined_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 7,
+    "source_split": "val"
+  },
+  {
+    "text": "would I need to pay extra for exchanging currencies?",
+    "intent": "exchange_charge",
+    "domain": "banking",
+    "split": "val",
+    "label": 10,
+    "source_split": "val"
+  },
+  {
+    "text": "My new card just arrived, how can I activate it?",
+    "intent": "activate_my_card",
+    "domain": "banking",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "Will my card work at all merchant locations?",
+    "intent": "card_acceptance",
+    "domain": "banking",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "Where in the app do I go to verify my identity?",
+    "intent": "verify_my_identity",
+    "domain": "banking",
+    "split": "val",
+    "label": 15,
+    "source_split": "val"
+  },
+  {
+    "text": "Where can I use this card?",
+    "intent": "card_acceptance",
+    "domain": "banking",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "You've incorrectly calculated the exchange rate for my cash withdrawal",
+    "intent": "wrong_exchange_rate_for_cash_withdrawal",
+    "domain": "banking",
+    "split": "val",
+    "label": 18,
+    "source_split": "val"
+  },
+  {
+    "text": "I would like to change my name after marriage.",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "I've just been married and need to update my name",
+    "intent": "edit_personal_details",
+    "domain": "banking",
+    "split": "val",
+    "label": 9,
+    "source_split": "val"
+  },
+  {
+    "text": "I wanted to take out $100 but I only got $20.",
+    "intent": "wrong_amount_of_cash_received",
+    "domain": "banking",
+    "split": "val",
+    "label": 17,
+    "source_split": "val"
+  }
+]

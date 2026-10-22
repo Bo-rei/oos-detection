@@ -1,0 +1,6402 @@
+[
+  {
+    "text": "what steps should i take to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a recommendation to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do to raise my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "steps to raise my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a quick way to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are ways to improve my credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to keep my credit score from going down",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some ways to increase my credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do to keep my score from dropping",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i build my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i build my credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are ways to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to keep my credit score from going down, how do i do that",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i keep my credit score from going down",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i keep my credit score from dropping",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some way s i can do to improe my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to keep my credit up",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to keep my credit from dropping",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to keep my credit from going down, how do i do this",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit is going down what should i do",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i maintain my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i build credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i keep good credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are ways to build credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to build up my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do to keep my credit in good standing",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i keep my credit from lowering",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "give me some ways to build my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do to maintain good credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me some tricks and tips i can use to see an increase in my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "are there ways for me to make my credit score better",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a list of different methods for building my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some of the ways that i can see an improvement in my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what methods can i use to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some tips to build my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "help me build my credit score by showing me some ways on how to",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "show me some ways to build my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the best ways to build my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some steps to building my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will doing this hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me all the ways my credit score can get hurt",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm not sure if this will hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to find out if this will hurt my credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if the following thing can hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if opening a new account will decrease my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i heard that opening a new account will decrease my credit score, is it true",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it true that opening a new account can decrease your credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please confirm that opening a new account can decrease your credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if opening a new account will decrease my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some mistakes to avoid so that my credit score stays high",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i protect my credit rating",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me some things i can do to secure my credit rating",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some ways to keep my credit score up",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "give me tips on maintaining good credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what factors can ruin a credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "pull up ways to lower credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to lower my credit score by doing this",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can harm my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any new harmful things that could affect my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i make my credit score better",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what steps can i take to make sure my credit score doesn't go down",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i ensure my credit score doesn't drop",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do to stop my credit score from going lower",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make my credit score better",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i go about improving my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to make my credit score better",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to find ways to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i prevent my credit score from lowering",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i stop my credit score from dropping",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ways to build credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me ways to improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does carrying a balance hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would being late hurt my credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does medical debt hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would late payments hurt my credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how is the credit score hurt",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "so how can i hurt my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will checking your credit lower my score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it true a hard pull hurts my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what lowers you credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i harm my credit if i miss a car payment",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will a loan lower my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i make sure my credit doesn't fall",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the best way to build credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what lowers credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i build credit",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to improve a credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i improve my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to protect my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i protect my credit score",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how to keep credit score high",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if bouncing one check on your checking account can hurt your credit score or not",
+    "intent": "improve_credit_score",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me about today weather",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can my debit card be replaced quickly",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does visa take to get me a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is my card made immedietly after reporting stolen",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can i replace a stolen card soon",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to replace a credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how soon until you send me replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will you mail me a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until you send me a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will you send me a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when can you send me a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will delivery of a new card take",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when can i expect my replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long can i expect to wait for a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when do they mail me a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when does the replacement card arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if my credit card was stolen, how long will it take to replace",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will i have to wait until they replace a stolen credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to replace a stolen credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will a new card take to come in the mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the timeline on replacing a stolen credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i get a replacement card mailed, and when",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the transit time on a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will you notify me when my new card is on the way",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the quickest way to get a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the turn around for a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take to get a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when can i expect my new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my new card will arrive when",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my new card arrives in the post when",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long til my new card arrives by mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my new card will get here in the mail when",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if i ordered a new card, how long til it comes",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when can i expect my new card to get here",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my new card come in the mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my new visa get here",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my card is coming by mail how long will that take",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take a new card to come in the mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what date will my card be here",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days do i have to wait for my card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will me new card arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to get a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if i order a new card how long would it take",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if i need a new card mailed how long will it take",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it be for me to get a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will a new card take to reach me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "time to get replacement credit card for stolen one",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long it takes to get a new replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "mailing to me for a new card takes how long",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "mailing a new card to me takes how long",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "for anew card to be mailed to me, how long does it take",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "it takes how long to mail me a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "a new cards takes how long to mail to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "average time to receive new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to get a new credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days before my credit card arrives",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will my credit card be mailed soon",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i get my new credit card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit card was stolen; how long before a new one will arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit card has been stolen and i want to know how long it will be before i can get a new one",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take for me to get a new credit card to replace the one that was stolen",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit card got stolen and i need to know how long it will be before a new on arrives",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days will it take to get a new credit card to replace the one stolen from me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the expected time to have a stolen credit card replaced",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to replace a lost card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i expect to wait for my new card in the mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long should i wait to get my new card when my old one was stolen",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the typical lag time in receiving a new credit card when your previous one was lost",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the usual time to get a new card when your previous one was lost",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long will it take before the postal service delivers my new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the typical time it takes for a new card to arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i get a replacement card for a lost one",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the eta for a new card to come in the mail",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "my last card was stolen and i want to know how long until i get my new one",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days till i get a new card to replace the stolen one",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the average time it takes for a new card to arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until the credit card company replaces my lost card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take to get a replacement credit card when your last one was stolen",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how soon will i be sent a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many days does it take to receive a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long does it take you to mail me a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how soon will you mail me a new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the earliest date i can get my new card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the wait time for a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until i get a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long before i can get a replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will a replacement card get here",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long is the shipping for my replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what date will my replacement card arrive on",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is my replacement card coming soon",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my card replacement arrive",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my card come",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i expect my replacement card",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my replacement card get mailed",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know when my card will come in",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do when you when my replacement card will get mailed",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what date will my replacement card get mailed",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what would be the estimated time from to get a new card mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the time frame to get a new card mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until i can expect my new card to get mailed to me",
+    "intent": "replacement_card_duration",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my application for my credit card be processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has the discover card approved my app",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if my amex card app went through",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have they looked over my app for the new credit card yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my application for the mastercard card gone through",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have my app for a new card been processed yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has the application i put in for a new visa been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has there been any notice that my card app has been looked at",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has visa gotten back to me regarding my card app",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "see if my form submission for an american express card has been seen",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if anyone's even looked at the application i sent in for the new visa card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has anyone looked at my mastercard application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have i gotten confirmation for my credit card app",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you check if my application for a discovery card has been looked over yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there any indication my application for a new credit card has been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i put in a credit card application, so what is the status with it currently",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "did my visa card app go through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "did my chase card application go through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know the status of the credit card application i filed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has the application for my visa been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i filed a credit card application so what is going on with it",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "did my american express card application go through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the status of the application for a credit card i put in",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has the application for my american express been processed yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit card application has what status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i go to see if my credit card application has been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be notified when my application has been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how will i know when my application for a credit card has been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find out the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if my application has been processed yet, i signed up for a credit card recently",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you check and see if my credit card application has been approved or not",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my application for a trust bank credit card been mailed out and if so was i approved or not",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you check and see if my credit card application has been processed and approved or not",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if my application for a credit card at community bank has been approved or not",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find out if my application at smith bank was approved or not  i applied for s credit card a month ago",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if my application for a credit card has been processed yet it was at chase bank",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "was my application approved or not for a credit card at chase bank",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want an update on my application for a credit card that i sent in a couple weeks ago",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i haven't heard if my application for a credit card has been accepted or not can you check on it for me",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please look into the latest status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you update me on the status of my american express card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find out the latest on my credit card application, i haven't heard an update in some time",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find out for me if my amex card application was received",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you check the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i track the progress of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my credit card application been received, or what is its current status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know what the latest is with my application for a visa credit card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please check the status of my mastercard application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know what the latest is with my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like an update on the progress of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "update me on the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please get me an update on the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has there been any changes in the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please find out the current status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to be updated on the most recent status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the present status of the credit card application i submitted",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "look into the status of the credit card application i submitted recently for my new card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "look to see if my application for the barclay's card has gone through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if my credit card application has been processed yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if the application been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me straight if it has been processed or not",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me when my credit card application will be processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how much longer until my credit card application is checked",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my credit card app be approved",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my credit card application gone through",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "check on my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have any updates about my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my credit card application been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have i received any messages about my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "when can i hear the decision on my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit card application status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i applied for the credit card, have you processed my application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how long to process my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how is my application on new credit card going",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the status of my new credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is my application processed for credit card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help with credit card application status",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is my credit card application approved",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the status of my application for the credit card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my credit card application been processed yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current status of the credit card i applied for",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "in what status is my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "did the application i put in for a mastercard go through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my application for a new credit card been processed",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my amex application gone through yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i applied for a visa card; did that go through",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what status is my card application in",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "did they process the credit card i applied for",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i applied for a new credit card; did it process yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "did discover get my card application yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me about my american express application; did it go through",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me a little more about the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the status of my credit card application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is the processing done on my new credit card",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm desperate to know about my cc processing",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "have you heard anything back on my cc application",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it likely my credit card application has processed yet",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "has my credit card application been approved",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my cc application process",
+    "intent": "application_status",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how high are the rewards on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards do i now have on my hy-vee card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current reward amount on my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my current reward balance on my amex card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my visa's current rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many reward points have stacked up for my amex card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many reward points do i have available to redeem on my visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current reward amount on my visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the reward point count on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my american express card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my chase card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my wells fargo card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my citigroup card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my bank of america card's rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i see my rewards for my visa card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to check my rewards for my american express card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i look at rewards for my amex card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to check rewards for my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "where are rewards from my visa card visible",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my current reward point total on my visa card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how would i be able to check my kohls rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my reward point total looking at my debit card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have enough points on my starbucks card yet",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "help me check my visa rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can i check my gold rewards card online",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how many points i have on my kohls card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the easiest way to check my bank rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a better way to check my visa rewards card balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points are on my gold card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the amount of points i have earned with my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i wonder how many points i have earned with my bank of america card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "have i earned a lot of points on my capital one card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how many points i have to date with my capital one miles card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the total number of points i earned so far with my chase rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points have i already accrued on my chase mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like my total rewards points balance on my bank of america platinum rewards card, please",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to hear how many points i've obtained on my capital one visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points did i get on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points did my visa earn",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what points were earned on my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points have been earned on my amex",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points did i get on my visa card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the balance of my reward points on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my rewards balance on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my discover card reward balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my rewards balance on my discover",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the reward balance on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards points do i have for my visa card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards points do i have for my wells fargo card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards points do i have for my amazon card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards points do i have for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards points do i have for my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my points total for my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my total point number on my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points do i have on my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the number of points i earned with my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points have i accumulated on my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i see my rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i find my rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i have to do to see my rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i see me rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "where are my rewards for my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the point balance on my marriot rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points do i have in total on my marriot rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "show me the total up to date points on the marriot rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "my marriot rewards card has how much for a point total",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "give my my current points on my marriot rewards card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my starbucks rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me tell what my starbucks rewards balance is",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the remainder of my starbucks rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "my starbucks rewards balance is",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the total amount of my starbucks rewards balance",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i have how many points on my amex right now",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points are on my speedway card right now",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i have how many tier credits on my caesar's card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points do i have on my mlife card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many delta miles are on my card right now",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many rewards do i have on my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i find out my rewards balance on my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "can i check my visa reward balance online",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "when can i receive rewards on my visa card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i check how many rewards i have on my master card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i check my rewards for my gold card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what rewards does my gold card get",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "where do i find my gold card rewards",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the number of remaining rewards points on my chase card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find out the rewards points i have left on my american express card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the amount of rewards points on my visa card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know how many rewards points are currently on my discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "does my mastercard have any rewards points remaining",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "put my points up for master card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "figure out my reward points for discovery card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "add all of my points for my current discover card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "calculate my points for visa",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "add up my reward points for master card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what the current balance of reward points on my mastercard",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my reward balance on my amex card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get my rewards balance on my diner's club card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "how many reward points does my discover card have",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to check rewards on my american express card",
+    "intent": "rewards_balance",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 7,
+    "source_split": "train"
+  },
+  {
+    "text": "is the apr on my credit card good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how good is the apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have a good apr on my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "does my credit card apr fall into a good range",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how the apr on my hy-vee card is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my apr on my discovery card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's an example of a good apr and what do i have",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is my apr on my bank of america card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is my visa card's apr decent",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how good is the apr on my mastercard compared to others",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is the apr rate on my amex pretty good",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you inform me what my apr is on my visa",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is the apr on my mastercard",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is my amex's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the current apr for my mastercard",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do i pay in apr on my amex card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my master card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my discover card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my chase freedom card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my american express card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit card apr exactly",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit card apr at the moment",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit card apr if you could fill me in",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit card apr please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit card apr if you could tell me",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me what is the apr for the credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you please state the apr for the credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr for the credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "could you please tell me the apr for the credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr rate on my bank of america card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know on my citibank card, what is the apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the apr on my credit union visa",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "on my bank of america visa, what is the apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my aaa visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "review of my card apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how good is card apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give me an appraisal of my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the apr on my mastercard",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the apr for my mastercard",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "fill me in on the apr for my american express card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you say that my card's apr is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me information about my card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my barclay's card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the apr for my visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you look into whether my card has good apr or not",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how good the apr is on my card please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i must know my visa card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the apr on my visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "get me the apr on my visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the apr on my visa card is what",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the apr on my visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "my visa card  what's the apr on that",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "the apr on my disney visa, what is that exactly",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know the apr on my visa card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "hey siri, tell me the apr on my disney visa",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "check the apr on my disney visa, please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is the apr these days on my nordstrom credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "on my wells fargo mastercard, what is the current apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the current apr on my visa card from bbt",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my chase visa",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what will the apr on my transferred balance be after the first year on my bank of america credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my apr on the credit card i used for a purchase a week ago",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my apr on the card i recently used to make a purchase",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my apr on my primary credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my apr on this card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the apr like for my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "this credit card's apr is what",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what apr do i have with my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what apr does this credit card have",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr to my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want you to tell me my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what my credit card's apr is",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "would you please inform me about my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it would be great if you could tell me my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my credit card's annual percentage rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my credit card's annual percentage rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "my credit card's apr, please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you let me know my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my apr for my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know my credit card apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is my apr for my credit card available",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my credit card apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the apr on my visa card, please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the apr on my amex card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the apr on my amex card, please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my amex card, please",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr on my amex card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "give me my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the apr for my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please say my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my credit card's apr",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "please say the apr for my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "credit card annual rate",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the annual rate on my discover card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the apr of my credit card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the apr of my discover card",
+    "intent": "apr",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my old navy card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my target card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit for my usaa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my childrens place card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my walmart card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit for my bank of the west card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit for my chase card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my navy federal card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit for my navy federal card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit for my bank of america card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my current spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the credit limit on my account",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "could you share what my current credit limit is",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my current credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the spending limit i have",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the max on my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the limit on my credit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know my spending limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the max i can spend on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i max out on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my visa limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much to i have left on my visa card limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the limit i currently have on my barclay card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my spending limit on my chase sapphire card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i spend, at most, on my chase freedom",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current credit limit i have on my wells fargo mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much am i allowed to spend on my discover card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my amex credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the credit on my mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the limit for credit on my mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "look up the credit limit for my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need know my credit limit on my american express card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i check my credit card limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my credit limit looking like",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "where can i go to find out my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the credit limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the limit on my discover card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit on my discover card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the limit on my american express card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me my visa's credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "the credit limit on my account is how much",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my limit on my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my visa card's credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i spend on my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my visa card's limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the credit limit on my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "will you tell me my spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "will you let me know what my spending limit is",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "would you tell me my spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me my spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tel me the credit limit for my credit card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know the limit on my credit card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me my spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the credit limit on my mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would love to know my spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wish to know my credit limit for my credit card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know the credit limit for my credit card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my balance on my discovery card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find my credit limit on my mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my current limit on my mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my current limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the credit limit on my discovery card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my credit limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high of a credit limit do i have on my amex card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i put on my bank of america card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my limit on my amex card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please check my credit limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "report my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what credit limit do i have",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how is that credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how is my credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my credit limit at",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "credit limit info",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know my spending limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the max credit limit for my card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you let me know what my credit limit is for my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the visa card credit limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my visa card limit",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know my credit limit for the visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know what the visa card credit limit is",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my chase card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my wells fargo card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my american express card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my citigroup card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how high is my credit limit for my bank of america card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my spending limit on my mastercard",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much it the credit limit on my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the credit limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is my limit on my visa card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the spending limit on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i charge on my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i spend wth my visa",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can i please know the credit limit for my citibank card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please let me know the credit limit on my citibank card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know the credit limit for my citibank card",
+    "intent": "credit_limit",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my chase card if i am in tokyo",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my usaa card have international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my bank of the west card have international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my usaa card if i am in india",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my navy federal card have international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my chase card have international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my navy federal card if i am in germany",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my usaa card if i am in south korea",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my bank of america card have international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my navy federal card if i am in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the fees for using my card in toronto",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i incur extra fees if i use my card in london",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do travelers to egypt get hit with transaction fees if they're using a mastercard",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to pay amex transaction fees in brazil",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i use my card in denver will i get charged extra",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there fees for using my card in tampa",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will my discover card ding me with transaction fees if i'm in aruba",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does bank of america charge transaction fees if you use it in canada",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i pay extra if i use my card in juarez",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there transaction fees for my visa if i'm in russia",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the surcharge for using my card in italy while i visit",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "for my card is there a extra card while i'm staying in italy",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a surcharge for using my card in italy while i'm there",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i get charged extra if i use my card while in italy",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is the charge of using my card in italy during my stay there",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the international transaction fees on my amex",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a list of international transaction fees for my amex",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of international transaction fees are related to my amex",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will my amex institute international transaction fees on a charge",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i see all the international transaction fees on my amex",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the fees to use my card in nigeria",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the foreign transaction fees for cuba",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what additional fees do you charge if i use my card in lisbon",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much are the foreign transaction fees in brisbane",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what fees are charged if i use something in paris",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does visa charge transaction fees in the uk",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if there are transaction fees for my visa card in canada",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does american express charge transaction fees for iceland",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there transaction fees charged to my discover card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are transaction fees charged for my aaa card in canada",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when i am in spain using my cmaden card, is there any transaction fee",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the transaction fee using our card in florence if any",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if there is any transaction fee using royal card in europe",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fee if i use my boston private card in scotland",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if there is any transaction fee using washington federal card when i am in canada",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is the atm fee for my boa card in orlando, fl",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the transaction fee for my boa card in orlando, fl",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i use my card in mexico, will there be added fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there extra charges for using my card in mexico",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what, if any, are the charges for using my card in mexico",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a surcharge for using my card in mexico",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there extra fees for using my card in mexico",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there international transaction fees for using my chase card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to pay international transaction fees when i use my chase card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are my chase cards fees for international transactions",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much are the international transaction fees for my chase card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the international transaction fees for my chase card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use the card in germany",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use the card in italy",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use the card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use the card in australia",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use the card in paris",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my card charge if i use it in china",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a fee associated with use of my card in burkina faso",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a charge to use my card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i use my card in tahiti, will i be charged",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my card charge a fee for use in indonesia",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there any transaction fees on my citibank card if used in spain",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i expect in transaction fees for using my visa in portugal",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if i will have any transactions fees for using my discover card in turkey",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know if there are any fees for using my capital one card in london, england",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any fees for using my amex in england",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any international transaction fees associated with my visa card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my amex card use international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i receive a fee if i use my card in ireland",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i use my card in mexico do i get an extra fee",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged extra for using my card in spain",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there an extra fee for using my card in costa rica",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will my mastercard charge me a fee for international transactions",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i get a fee for international transactions with my visa card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i get charged more for using my card in canada",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does my mastercard charge international transaction fees",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how much do you charge if i use my card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged for using my card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to pay any fee if i use my card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do you charge me if i use my card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will you charge me if i use my card in japan",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "show me the international transactions fees for the zenith card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the international transactions fees for my industrial bank card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there many international transactions fees for the freedom card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there international transactions fees for rainbow card",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does the national card have international transactions fees and how much",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use my card in dublin",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use my card in detroit",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my amex card if i am in the uk",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use my card in mexico",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use my card in canada",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i be charged if i use my card in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my amex card if i am in france",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any transaction fees associated with my amex card if i am in belgium",
+    "intent": "international_fees",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i am ready now to cash in on the many credit card points i have saved up",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i have credit card points but don't know how to use them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "walk me through the best ways to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i am ready now to use some of the credit card points i have saved",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to hear more about how i can use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i cash in the rewards i earned with my visa card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "walk me through the process of cashing in on credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have enough credit card points to redeem a new appliance",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would love to redeem some smart speakers with my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i redeem rewards earned through my amex card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i cash in on the rewards i earned through my american express card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "could i redeem my credit card points on a new tv",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me figure out how to utilize my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you explain to me how i ought to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to use my credit card points to acquire a new laptop",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to redeem my credit card reward points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "have i got enough credit card points to get a new tablet device",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i have a lot of credit card points saved up and would like to start redeeming them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "walk me through reward redemption from my barclay's card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "explain to me how to cash in rewards for my mastercard",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "help me figure out redemption of my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i redeem the points i've earned with my credit card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i have a lot of points saved up from my credit card rewards but don't know how to redeem them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you help me begin the process of redeeming credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to redeem points on my chase card, but how",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i cash in rewards on my discover card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "if i want to redeem miles from my delta skymiles card, how do i do that",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i cash in rewards on my chase card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i cash in the rewards i have earned on my amex",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need you to check if my credit card points are redeemable right now",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "call my credit card company and ask can i use my points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if i can redeem my credit card points now",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i check my credit card company to see if my points are good to go",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you check with my credit card company and see if i can redeem my points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a certain amount of points before i can redeem them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any steps i need to take to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "if i want to use my credit card points what do i do",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i redeem my credit card points for anything",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how many points do i need before i can redeem them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "at what point balance can i redeem my points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to contact someone to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have enough points to for a redemption",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do if i want to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what steps do i take to redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me how to redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "in order to redeem my credit card points, what should i do",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i need to do in order to redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do you think i could get a target gift card with my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "is a walmart gift card one of the things i can use my credit card points on",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "let's use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to use credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "my amex rewards; how do i get them",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "am i able to redeem my credit card points for an amazon gift card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "if i want to cash in my american express rewards, how do i do that",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "cash in rewards for my visa card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do to redeem credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i cash in my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i use my credit card points for gas",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i need to do for my mastercard rewards",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i go about cashing in rewards with discover",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "if i redeem my credit card points, can i get a kroeger gift card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please inform regarding the procedure to cash in my rewards for my citibank card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me the procedure to cash in my rewards for my citibank card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need information regarding the procedure to cash in my rewards for my citibank card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how i should cash in my rewards for my citibank card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the way to cash in my rewards for my citibank card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i cash the reward for first bankcard",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to convert my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "let me use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i use reward for my first hawaiian bank",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to utilize my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i utilize my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i convert my credit card points to milage",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i use my credit card point on amazon",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i redeem my credit card points to cash",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i use the reward for my bank of hawaii",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to use my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are ways to utilize my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to cash my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i cash the reward for city",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i cash in my reward for chase",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i redeem my credit card on safeway",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i use my credit card points to make purchase",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to utilize my card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i get cash back for the rewards on my amex card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "transfer my cash reward balance to my bank",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i redeem my card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do i do to get cach back for points on my discover card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to redeem my card points for cash",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to use the cash that my points have earned on my credit card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the procedure to get cash back rewards on my visa",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how to redeem my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i obtain the cash for the rewards on my hy-vee card",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to cash out my credit card points",
+    "intent": "redeem_rewards",
+    "domain": "credit_cards",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  }
+]

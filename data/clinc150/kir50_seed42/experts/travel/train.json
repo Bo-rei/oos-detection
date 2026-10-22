@@ -1,0 +1,5602 @@
+[
+  {
+    "text": "what is the projected time frame for the flight to land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is there any news on flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the word on flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will we begin to board my scheduled flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the status of my frontier flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my flight take off",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the arrival time for my flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the status of my delta flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the update on flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is there an update on flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my flight land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "at what point should the flight land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is my flight scheduled to leave",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my flight supposed to leave",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the status of my south west flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when should the flight land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the latest on flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the status of my united flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the status of my singapore flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me that status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is flight dl123 coming in on time",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is flight dl123 on time",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the latest with my united flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "update me on my delta flight please",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what the status of my american airlines flight is",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "look up when my flight is set to start boarding",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "at what time will my flight land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the status of my alaska air flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "at what time will my flight begin boarding",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is my flight supposed to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what time my flight ought to be landing",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my flight is scheduled to start boarding",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my plane scheduled to land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when does boarding for my flight begin",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats the most recent status for my virgin air flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you check when my flight lands",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is my flight supposed to be landing",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the status of my delta flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "whats my delta flight's status",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "is my delta flight on time",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my delta flight depart",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "will my delta flight leave on time",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the eta of my flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when is my flight due to arrive",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what landing time is scheduled for my flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is my plane supposed to arrive",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the scheduled arrival time for my flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me the status of my southwest flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would appreciate it if you could tell me the status of my southwest flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the status of my frontier flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me the status of my frontier flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "do you mind informing me the status of my southwest flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my aa flight be landing",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when's my flight boarding",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the latest info on flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my panam flight be arriving",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will my jetblue flight get here",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will they let me board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you update me with the status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the status of my united flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me where flight dl123 is",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "at what point will this flight start letting people board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until delta is at the gate",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when should i expect my flight to come in",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when can i start boarding my flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when's my flight getting here",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "how long until my flight is here",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "has flight dl123 arrived yet",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time will i be allowed to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "any idea where flight dl123 is right now",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what's my flight's eta",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time does my flight get in",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when does my flight arrive",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know the status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would love to know when my flight is going to land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know the status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my flight will land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta know when my flight will land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please inform me when my flight scheduled to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know when my flight scheduled to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when my flight scheduled to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my flight scheduled to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me when my flight will land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know when my flight scheduled to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the status of flight dl123",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wish to know when my flight will land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the scheduled landing time for my flight",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time will my flight be boarding",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time is this flight supposed to land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time will i be able to board the plane",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "when will i get to my destination",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what time this flight is going to land",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me what the boarding time is for my plane",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "what time will my flight reach the destination",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me when my flight is going to board",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me when my flight is landing",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know when my flight is landing",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "so when is my flight landing",
+    "intent": "flight_status",
+    "domain": "travel",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "can you give me some suggestions to go site seeing when i get there",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you get me any recommendations for the place i'm traveling to",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "please suggest some fun tourist activities in tokyo",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need help with some fun tourist things to do in tokyo",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me what fun tourist things i could do in tokyo",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what should i do for fun in tokyo",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do tourists do in tokyo",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what sites are there to see when in evans",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do in evans",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "name some things i should do while in evans",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "if i go to evans, what should i do",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is there to do in evans",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do in new orleans for fun",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you recommend to do in vegas",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "is there anything fun to do in berlin",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "find something fun for me to do in dallas",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's fun to do in thailand",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where should i book my next trip",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some hot travel destinations",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's a good place to travel to",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where should i travel to next",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the best place to travel to this time of year",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "when visiting chicago, what things can i do there",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some good restaurants in chicago",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some activities to do in chicago",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "when travelling in chicago, what kinds of attractions should i see",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of entertainment is available in chicago",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "show me some things to do in gatlinburg",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the main attractions in gatlinburg",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "name the five star attractions in gatlinburg",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some of the attractions in gatlinburg",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the most popular attractions in gatlinburg",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where should i spend my time off",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "give me some awesome travel destinations",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the best place to just get away from it all",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some tourist sites to see in ann arbor",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "name some tourist things to do in chicago",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "in austin, what are some tourist things to do",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "name some tourist things to do in seattle",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some fun, tourist sites to see in nyc",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what experiences does kentucky offer",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's something interesting to do kentucky",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what things are there to do in kentucky",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what could i do for fun in kentucky",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what does kentucky have to offer for things to do",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the big tourist sites in sweden",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some fun things to do in sweden",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me about the best tourist attractions in sweden",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some of sweden's best sights",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i do in nashville",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find things to do in nashville",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "can i do a lot in nashville",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i need ideas for things to do in nashville",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know of any activities in nashville",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some touristy things to do in boston",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what kinds of fun things are there in boston for tourists",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any exciting tourist things to do in boston",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what kinds of fun touristy things are there to do in boston",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any fun tourist things to do in boston",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some fun things i can partake in in atlanta",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me things i can do in chicago",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "provide me with ideas of things we can do in charlotte",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "give me a list of things to do in orlando",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where should i travel if i want to visit some history museums",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like some suggestions on where to go on my vacation this year",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any interesting things to do in atlanta, georgia",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "is there anything fun to do in manassas, virginia",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to travel this year but i need some suggestions",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where should i travel if i want to go to a nice beach",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "give me some ideas on what i can do in seattle for fun",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you suggest for entertainment in tampa, florida",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some fun things to do in butte, montana",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "in portland, what things are there to do",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what things can i do in portland",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some things i can do in portland",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some things to do in portland",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what things are there to do in portland",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what is there to do besides drink in germany",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what festivals are there to see in paris",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what fun is there to do in england",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where is the best winery in the south of france",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what should i do in france",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where do you suggest i plan my next vacation",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are your best travel suggestions",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some suggestions for places to travel",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do people in sioux falls do for fun",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's there to do in seattle",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any interesting activities to do in austin",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "where's a good place to go if i want to see mountains",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's a nice place to visit a beautiful beach",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what should i do in bangor",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what do tourists do for fun in seattle",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any fun tourist activities in australia",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's a good use of my time in toronto",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what can a tourist in denver do",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what sort of things do people do in new york",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me some things to see in tampa",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "is there anything neat to do in boston",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what are some interesting things to do in dc",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the funnest thing for a tourist to do in iceland",
+    "intent": "travel_suggestion",
+    "domain": "travel",
+    "split": "train",
+    "label": 5,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to mexico",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does england have a different plug type and if so what is it",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a conversion plug if you travel to australia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of plug type do they use in russia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of plug do i need to bring if i visit japan",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of plug do they use in mexico",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when you go to germany, do you need a special converter for your plugs",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do visitors to japan need to use a socket converter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do you need a special outlet converter in sweden",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a power adapter in mexico",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do they use special outlets in australia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do they use any special type of plug in spain that you need a converter for",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to have a socket converter in canada",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is a socket converter required if i travel to russia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do they use weird plugs in australia where i'd need some kind of socket converter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is there an outlet plug adapter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me what kind of outlet plug there is over there",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i know what the outlets are like",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going out of country, what type of outlet plug do i need",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what if i have the wrong plug",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in ohio",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "in osaka, do i need a plug converter for my electronics",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need a plug converter for my electronics in amman",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug types are there in cuba",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "in chile, what kind of plugs are used",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of plugs do they use in london",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i visit cairo will i need a plug converter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "to charge my phone in india will i need a plug converter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of plugs will i need when i'm in ecuador",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need to use a plug converter in el salvador",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plugs are used in spain",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of plug does the country use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "give me the plug type for the country",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of plug does the country use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to know what plug that country uses",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "inform me as to the plug type of the country",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "which type of plugs do they use in scotland",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are socket converters needed in lisbon",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need a socket converter when i go to france",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is a socket converter required in india",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of plug does my hair dryer use in south korea",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "if i go to dublin is a socket converter needed",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of plugs are used in cambodia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of plug do i need for my razor in ireland",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when i go to dubai will i need a socket converter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when i go to mexico, what kind of plugs do i need",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of plug converter is needed in c",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of outlets does havana have",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a plug converter in doha",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is a plug converter required for haiti",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get a plug converter for athens",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in russia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a plug converter when i visit russia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in china",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in uruguay",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a plug converter when i visit belgium",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug type does russia use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug type does greece use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in germany",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug type does spain use",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug type is used in spain",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in france",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the plug type that is used in scotland",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "should i bring a converter to barcelona",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a converter in barcelona",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are barcelona plugs compatible",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "will my plugs work in barcelona",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are the plugs different in barcelona",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of outlets do they use in z",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of electrical outlets do they use in z",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of electrical plugs do they uze in z",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what kind of hertz outlets do they use in z",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter in england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "are socket converters necessary in england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "should i bring my socket converter while traveling to england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "should i bring my socket converter to england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does england require socket converters",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "should i buy a specific plug type when in china",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need to buy a plug converter when in rome",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i really need a plug converter when in london",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of plug do i need when in rome",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "would it be smart to get a plug converter when i visit israel",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what do the plugs look like in japan",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "should i buy a plug converter if i am traveling to egypt",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "does australia have different plug sizes",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what are those european plugs called",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "should i purchase a new plug converter when in france",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when i visit thailand do i need a plug converter",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i use the plug i use at home when traveling in south america",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "is a plug converter necessary in mexico",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "when in europe would i be able to use a regular plug",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "can i use an ordinary plug in scotland",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the plug type in france",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug type would i use in japan",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a plug converter when i visit france",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a plug converter when i visit china",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in sweden",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in eithiopia",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a socket converter if i'm going to be in hong kong",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "what plug type should i use in england",
+    "intent": "plug_type",
+    "domain": "travel",
+    "split": "train",
+    "label": 4,
+    "source_split": "train"
+  },
+  {
+    "text": "how many pesos can i get for one dollar",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current going rate for exchanging dollars for pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the exchange rate between dollars and pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know what the exchange rate between dollars and pesos is",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the exchange rate between dollars and pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "whats dollars won in 15",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's dollars yen in 10",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "whats pesos australian dollars in 20",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "whats rupees dollars in 30",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "whats euros kroner in 25",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many lira can i get for 250 dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate in pesos for 100 dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 25 euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 75 euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the equal number of dollars i can exchange for 50 pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the exchange rate between rubles and dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know five dollars in yen and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the currency conversion between rubles and yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 10 yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know the exchange rate between yen and dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 10000 rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is 5 in yen and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 5000 rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know five dollars in yen and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 10000 yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i gotta know the exchange rate between yen and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the currency conversion between rubles and dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the currency conversion between usd and yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the currency conversion between usd and pounds",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would love to know the exchange rate between rubles and pounds",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me five dollars in yen and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i must know five dollars in yen and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know the exchange rate between dollars and rubles",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 100000 yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's the currency conversion between rubles and pounds",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate between usd and british pounds",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "usd to yen is what right now",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate between british pounds and yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "usd to the euro exchanges at what right now",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate between usd and the euro",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much can i expect to receive if i trade in 6 yens",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the amount of dollars i get if i trade in 6 yens",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the maximum dollars i can get for 6 yens",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the quantity of dollars i receive for trading 6 yens",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much dollars do i receive if i trade in 6 yens",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many pesos in one dollar us",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is twenty pounds sterling in us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the the exchange rate for us dollars to euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the exchange rate for yen to euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate from pounds sterling to us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many pesos equals 500 dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me how many pesos equal 500 dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the conversion for 500 dollars to pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is 500 dollars in pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "500 dollars equals what in pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how does 10 pounds convert to euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many canadian dollars can i get for 5 us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many euros can i exchange for 5 us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange to yen if i have 100 us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many us dollars can i get for 20 euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me today's rate for cad to usd",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much cad can i get with my one usd",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "is the dollar strong against the yen today",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the exchange rate of dollars to yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is one dollar worth in mexico",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the conversion for dollars to pesos",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me dollars to franks",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know the usd to aud conversion rate",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know the dollar to peso conversion",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "us dollars to uk",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "exchange rate between mexico and us",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars is one mexican peso",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "dollar to pesos exchange rate",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "exchange rate to go from dollar to yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "us and mexico exchange rate",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is 2 francs in euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's 10 pounds in dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is 56 dollars in yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's 11 yen in pounds",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's 10 euros in dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many swedish kroner do i get for a dollar",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is 10 us dollars in canadian dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is 50 dollars in euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate for canadian dollars to us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current exchange rate for the dollar and the yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "if i have 10 us dollars, how many pounds sterling is that",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "if i have 20,000 yen, how much is that in usd",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's 50 euro in dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how much is the euro in dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the current exchange rate of yen to lira",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "convert krugerrands to saudi riyal",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me the currency conversion rate from kurus to euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need the exchange rate between pounds and us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the exchange rate between rubles and us dollars",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 200 pounds",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many euros can i exchange for 200 yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many canadian dollars can i exchange for 200 yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 200 yen",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "how many dollars can i exchange for 200 euros",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the yen worth in terms of the peso",
+    "intent": "exchange_rate",
+    "domain": "travel",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a bed in brownsburg near walmart from apil 4th until the 5th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a room in indianapolis near the track from may 2nd through the 5th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need lodging in lizton near the ice cream parlor from may 3rd until the 8th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "need a place to crash in elizabeth near the refinery from june 4th until the 9th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a place to stay in newark near a bodega from may 2nd through the 4th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to book a hotel room for 10 people from monday to tuesday in manhattan",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a room big enough for 10 people from monday to tuesday in manhattan",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to book 10 people from monday to tuesday in manhattan",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to reserve a hotel room that accomodates 10 people from monday to tuesday in manhattan",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm inquiring about the availability of a room that fits 10 people from monday to tuesday in manhattan",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel in st louis near the arch from march 2nd to 5th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a room in london for 2 people from march 1st to 3rd",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "get me a hotel room for 3 people from march 12th to 14th in chicago",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel in new york near the empire state building from marc 2nd to 4th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel in chicago near the water tower shopping from april 2nd to 4th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "get me a hotel room for 4 people from march 1st to 3rd in seattle",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "in paris, get me a hotel room for 4 people from march 1st to 3rd",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a hotel for 2 people on april 1st to 4th in rome",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you book me a hotel in los angeles near commerce casino from april 1st to the 5th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel in seattle near the space needle from march 3rd to 5th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you book me a room in new york city from april 2 through april 8",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any openings in new york city from april 2 through april 8",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any vacancies in new york city from april 2 through april 8",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how about any bookings in new york city from april 2 through april 8",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there anything available in new york city from april 2 through april 8",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a room on november 11 to 15 in cali",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "create a reservation novemeber 11 to 15 in cali",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "show me all hotels in evans with good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "which hotels in evans have good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "get me a room in cali on november 11 to 15",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "show me a well reviewed hotel in evans",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the best rated hotel in evans",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find me a place to stay in cali november 11 to 15",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "make a reservation to stay in cali from november 11 to 15",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to have a place booked in salem from the 1st to the 3rd",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "see if you can get me a room in colorado springs near garden of the gods from march 01 to march 02",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like you to book me a room in austin near google's headquarters from january 01, 2020 to february 02, 2020",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please book me a room in austin from tomorrow to the 2nd",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a hotel room for 6 from the 1st through the 3rd in seattle",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a decent hotel in denver",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like a placed booked in san diego from may 1st, 2020 to june 2nd, 2020",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any good hotels in salem",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what's a good hotel to stay at in chicago",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will you find me a place to stay in casper from march 5th to march 11th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "check if there's a hotel room that can receive 10 people in tampa from this friday for a week",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i get a hotel room that can accommodate 50 people in bangor from january 01, 2021 to january 30, 2021",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel booked in denver near the museum from friday to saturday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want a hotel booked in salem near the concert hall from the first to the second",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i required a hotel room for 20 people from march 8th through march 20th in las vegas",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what hotels have decent reviews in bangor",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is it possible to have a room booked in omaha near the convention hall for may 01, 2019 to may 05, 2019",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to find a hotel in tampa that people liked enough to leave good reviews about",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you book me a place to stay in denver from wednesday to friday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel room that can host 5 people from tomorrow to saturday in denver",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please find me a hotel room for 4 people from monday to wednesday in lakewood",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel room big enough for 4 people from monday to wednesday in lakewood",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel room for 4 people in lakewood from monday to wednesday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what hotel would you recommend in lakewood for 4 people from monday to wednesday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i will be in lakewood from monday to wednesday and i need a hotel room for 4 people",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please help me book a place to stay in pittsburgh from monday to friday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a place in pittsburgh to stay from monday to friday, can you help",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find a hotel in columbus with good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a hotel in columbus with good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please find a columbus, ohio hotel with good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "will you help me book a place to stay from monday to friday in pittsburgh",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you book me a place to stay in pittsburgh from monday to friday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please book me a place in pittsburgh to stay from monday to friday",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find a columbus, ohio hotel with good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find a hotel in that has good reviews in columbus",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know of any well reviewed hotels in chicago",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find a well reviewed hotel in dallas",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find me a hotel in kansas city with good reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to find a nice hotel with solid reviews in seattle",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "look up hotels with positive reviews in new york city",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what hotels are near, ny, ny for the 9th to 11th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please book a hotel in ny, close to brooklyn, on the 25th to 30th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book a hotel in pa, harrisburg for the 10th to 15th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find and book a hotel in md, baltimore starting on the 7th to the 9th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to book a hotel in ny, queens arrive on 8th and leave on the 13th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel in new orleans with awesome reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find a suitable lodging in vancouver on march 16-19",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me find a good reviews hotel in la",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel in new orleans from may 2 - 5 near the french quarter",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find a hotel with great reviews in san francisco",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find me a hotel in seattle with great reviews",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "help me a great hotel in vegas for this weekend",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you find me a place to stay in sacramento near the capitol on july 3-5",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "find a hotel in san francisco for march 8 & 9",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a well-rated hotel in vegas",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can i book a hotel in new york city near times square from 3/1 until 3/5",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel room in memphis for 3 people from 3/6 until 3/10",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "hotel room for 5 in austin for 3/1 until 3/8",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a hotel in austin near south congress from 3/5 until 3/10",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel in pittsburgh near grant street for 3/15 through 3/18",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "march 20th through the 22nd, please book me a hotel room in manhattan big enough for 10 people",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to need a hotel in tampa near ybor city for march 23rd through the 28th",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to need a hotel room for 8 people in tallahassee from 3/10 until 3/12",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "could you reserve me a hotel room in philadelphia near chinatown from 3/19 through 3/22",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "in brooklyn, i need a hotel room for 4 from 3/15 until 3/20",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "book me a hotel with good ratings in nashville",
+    "intent": "book_hotel",
+    "domain": "travel",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "to visit cambodia, do i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get a visa to visit canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need a visa to visit ireland",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need a travel visa to go to canary islands",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to visit portugal do i need a travel visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to see paris will i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "for travel to argentina, do i need to get a travel visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i have to apply for a visa if i want to visit mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "to vacation to tel aviv do i need a travel visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to obtain a travel visa to go on vacation to places in eastern europe",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need a tourist visa for brazil",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a tourist visa for europe",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if i shouldget a tourist visa for italy",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is it necessary to apply for a tourist visa for mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get a travel visa for spain",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does moscow require travel visas to visit",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need a travel visa to go to the congo",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to south korea",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to tibet",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to vietnam",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to hong kong",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to malaysia",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to travel to mexico soon; do i need to get a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if i must have an international visa to go to france",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to jamaica next week; am i needing a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me whether i need an international visa to go to mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to mexico; do i need an international via",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know if i need an international visa to go to sudan",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "am i in need of an international visa to go to france",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get a visa for traveling to chile",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to travel to jamaica",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if i need a visa to travel to el salvador",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need a visa if i want to travel to mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to travel to mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does mexico require me to have a visa to travel there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is a visa needed to go to mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i want to travel to mexico do i need to get a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to scotland",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to russia",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa for canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a travel visa to visit germany",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to russia and am wondering if i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a travel visa to visit russia",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a travel visa to visit canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am going to germany soon do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a travel visa to visit japan",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get a visa for russia",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to go to greece",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a travel visa to visit china",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa for germany",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to go to somewhere internationally",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to spain",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to mexico",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to england",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to brazil",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to go to spain",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get a visa before going to cancun",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is a visa required to visit cancun",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need a visa to travel to cancun",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to go to cancun",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to travel to canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does mexico travel require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need to get a visa to go to ireland",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i'm planning to go to the uk, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "might i need to get a visa to travel to venezuela",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to be going to canada soon, do they require a visa for entry",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to get into canada later this year",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does travelling to that place require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to go there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to leave the country",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does international travel always require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when does travelling require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "if i go to canada next month do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to bring a visa when i go to canada next month",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to canada soon, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what paperwork will i need to visit northern ireland",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get a visa for crete",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need a visa to go to moldova",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does laos require a travel visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to apply for a visa to visit dnipro",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "israel has strict restrictions do i need a visa to travel there",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "visa's are hard to get do i need one when i travel to israel",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm vacationing in israel will i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to travel to isreal",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm heading to israel soon, do i need a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to have a visa to go to denmark",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a visa to go to cuba",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to have a visa to go to the cayman islands",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does jamaica require a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what documents to i need to go to egypt",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does france have their own version of a visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does mexico require an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does ireland require an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need an international visa to enter canada",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to get an international visa before they'll let me in melbourne",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "must i have an international visa when travelling to russia",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is an international visa needed to travel to z",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to go to korea, do i need an international visa",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to apply for a travel visa if i am going to bermuda",
+    "intent": "international_visa",
+    "domain": "travel",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any specific shots i should get before traveling to england",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the recommended shots to get before i travel to south korea",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the recommended shots to get before i travel to england",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are there recommendations to get any specific shots before i travel to germany",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need certain shots before flying to eithiopia",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what type of specific shots should i get before flying to south korea",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are there specific shots i need before traveling to japan",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get specific shots before i travel to japan",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need specific shots before traveling to germany",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get any shots before i travel to africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many vaccinations will i need to travel to asia",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "which countries require vaccinations before entering for travel",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "which types of vaccinations are required when leaving the united states",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what are common illnesses i should be vaccinated against when leaving the united states",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what are common vaccinations for someone travelling internationally",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "does travel to africa require any shots",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to protect myself with some shots for a trip to vietnam",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need any shots if i travel to africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "would i need any immunization if i go to thailand",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need immunization for a trip to turkey",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me which shots i need for africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need special shots to go to africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "how many shots do i need before i go to africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the necessary shots for travel to africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "before i leave for mexico should i get some more vaccinations",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what are the shots i need in order to travel to mexico",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what shots do i need before heading to france",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any shots i should get before going to south africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need any vaccinations before going to indonesia",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what vaccinations should i get if i go to nigeria",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are vaccinations needed for trips to guana",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get a vaccination before i go to katmandu",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get vaccinated to go to thailand",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "which vaccinations are required to go to viet nam",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get any specific shots before i travel to argentina",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get any specific shots before i travel to canada",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a vaccination for spain",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get any specific shots before i travel to norway",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get any specific shots before i travel to japan",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a vaccination to go to europe",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a vaccination to go to greece",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is it recommended to get any specific shots before i travel to iceland",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need a vaccination to go to china",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need vaccinations to travel overseas",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need any shots before i go to south africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get any shots before i go to kenya",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a list of recommended shots to get before travelling to kenya",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to see the doctor for shots before i go to south africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are there recommended vaccines to go there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are there shots required before going to south africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what shots are recommended before traveling to kenya",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get vaccines before my trip",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to south africa, do i need to get any shots first",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get any shots before i go to south africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if i need any more vaccines if i go there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are any shots recommended before going to kenya",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get shots before i go to kenya",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what vaccines do i need before i travel there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are my vaccines up to date for going there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need some shots, if i am traveling to china",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need some vaccinations or anything if i'm going to eastern europe",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to india do i need some shots",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if i'm going to africa, do i need some shots first",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm going to south africa, so should i get some vaccinations or anything",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "traveling to the uk am i going to need any specific shots",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if i am going to the uk are any specific shots needed",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are shots needed for uk travel",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need any specific shots if i go to the uk",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "am i going to need vaccines for the trip",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "am i required to get a vaccine for this trip",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will this trip require vaccines",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "if i travel to the uk do i need any shots",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "does my trip require vaccines",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "will i need vaccines for my trip",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what shots do i need to get in order to travel to khartoum",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i have to get shots to travel to iraq",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what shots are required to go out of the country",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need shots to go to thailand",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a list of shots that i need for traveling to denmark",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me if i need any shots before i go to mexico",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "which shots do i need before i go to thailand",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "which shots do i need to get before i go to africa next week",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need shots before i get to africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me which vaccines i need to take before mexico",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if there are any shots that i am required to have before traveling to south africa",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what shots do i need before traveling to malawi",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me what shots i am required to get to travel to india",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are there any mandatory shots that i must get before my trip to jamaica",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get any shots to travel to mexico",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need vaccinations to travel there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are vaccinations required to travel there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "are vaccinations necessary to go there",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "do i need to get vaccinations before i go",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "which vaccinations should i get before i go",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "i need a list of vaccinations for a trip to paris",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "list all the shots i need to travel to france",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what vaccinations do i needs to travel to paris",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "what vaccinations are required to enter paris from outside the country",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what vaccinations i need to get into france",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  },
+  {
+    "text": "should i get any vaccines before going over to the uk",
+    "intent": "vaccines",
+    "domain": "travel",
+    "split": "train",
+    "label": 6,
+    "source_split": "train"
+  }
+]

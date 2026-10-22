@@ -1,0 +1,6 @@
+torch>=2.0
+transformers>=4.30
+peft>=0.4
+sentence-transformers>=2.2
+scikit-learn>=1.0
+numpy

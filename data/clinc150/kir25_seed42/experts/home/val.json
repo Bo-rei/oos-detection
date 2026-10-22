@@ -1,0 +1,642 @@
+[
+  {
+    "text": "i'm not sure if watermelon is on my shopping list, but if it isn't can you put it on there",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible to add grapes to my shopping list if they aren't on there already",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "please add bananas to my shopping list unless i already did",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you add apples to my shopping list if they aren't already on there",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "would you be willing to add bread to my shopping list if i haven't already",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of cleaning supplies, remind me on my list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i don't have any more steak, please put that on my grocery list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of apples, add that to my list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i have no oranges, put them onto my list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have peanuts on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have soda on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of kleenex so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of paper towels so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of toilet paper so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have graham crackers on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of clorox wipes so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have tortillas on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'm out of laundry detergent so will you put that on my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have cheese on my shopping list if not please add it",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like you to add oranges to my shopping list",
+    "intent": "shopping_list_update",
+    "domain": "home",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "whats this song",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "nice song what is it",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "cool song, what is it",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what music is this",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "is this a song that i dont know",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what’s the name of this song",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the current tune",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what am i listening to right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the name of the song playing right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is that song called",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "name this song",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's that song on the speaker now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the name of the song playing right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what song is playing right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "do you know the song on the speaker right now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what's that song that is playing now",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what is that tune",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the title of the song playing",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "i need this song title",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "what song am i hearing",
+    "intent": "what_song",
+    "domain": "home",
+    "split": "val",
+    "label": 3,
+    "source_split": "val"
+  },
+  {
+    "text": "will you please read the things on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you read the things to me that are on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you read the things on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "is it possible for you to read the things on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "did i add salt to my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have toothpaste on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "is there lettuce on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "did i include butter in my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "did i put elbow noodles on the shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "did i forget to put protein shakes on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "do i have butter on my list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "is waffles on my list for shopping",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "do i already have cereal on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "did i remember to add milk to my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "check my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "read my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what do i need to buy",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "did i remember to put eggs on my shopping list",
+    "intent": "shopping_list",
+    "domain": "home",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the field trip from my calendar for march 12, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the wedding from my calendar for march 12, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the play date from my calendar for feb 18, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the dinner party from my calendar for january 21, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "you can remove the brithday party from my calendar fpr january 15, 2019",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "put cancel abc on my calendar for next thursday",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to add iep meeting to my calendar on april 15th",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "add my next doctor visit to my calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "add swimming to my calendar today",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i have an appointment on the 5th put it on for 5pm",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "for friday, add a doctor's appointment to my calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you add a doctor's appointment to friday's calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "add to my friday calendar a doctor's appointment",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "add a doctor's appointment to my calendar for friday",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "add to friday's calendar a doctor's appointment",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "mark my calendar that i will be meeting steven on march 5",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "on the 22nd of this month, we need to clear our calendar so we can leave it open for mark to visit",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you remove that event from my calendar, please",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you remove this event from my calendar",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you remove this event from my calendar, please",
+    "intent": "calendar_update",
+    "domain": "home",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  }
+]

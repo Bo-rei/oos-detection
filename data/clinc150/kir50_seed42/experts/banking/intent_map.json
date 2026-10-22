@@ -1,0 +1,10 @@
+{
+  "0": "account_blocked",
+  "1": "balance",
+  "2": "min_payment",
+  "3": "pay_bill",
+  "4": "report_fraud",
+  "5": "routing",
+  "6": "transactions",
+  "7": "transfer"
+}

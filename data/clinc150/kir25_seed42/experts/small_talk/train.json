@@ -1,0 +1,3202 @@
+[
+  {
+    "text": "you have been a big help, thank you so much",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate your help, thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i really appreciate your help, thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i am very grateful",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate the assistance",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to thank you for helping",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "much obliged",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your help is appreciated",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "gracias",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate that",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks so much!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "many thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "appreciate it",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you kindly",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you so very much",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you for helping me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm grateful to you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you did a good job thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "good looking out",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i wish you were here earlier",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "it's so much easier with you around",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you've been a great help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for the help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks please",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "why thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for the answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you very much for the answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "okay thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks a lot",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks a lot for the answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you for the answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you a lot for that answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for helping me!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm so glad you helped me!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate your help!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i am thankful for your help!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i have much gratitude for your help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate your help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate you helping me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "awesome, thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you so much",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you very much for the assistance",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate it",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks again!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for the info",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for letting me know",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "that's all i need, thanks!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks, that's helpful",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you for the information",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for answering my question",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your efforts don't go unnoticed",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate what you did",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you are so thoughtful and i appreciate your gesture",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you are so nice to think of me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you were so kind to do that",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your answer pleased me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm happy with your answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your answer was enjoyable",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your answer was good",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for giving me assistance",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "really great!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "appreciate the help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm grateful for the answer you just gave me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "that'll work, good job!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "good answer, thanks for providing it",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm grateful for the assistance",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for that!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "good job with assisting me",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "nice, excellent!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm grateful",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate that answer!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i can not thank you enough",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i really thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "let me thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for the help!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "you're the best!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate that answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "your answer is appreciated",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i am thankful for the answer",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "oh sweet thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "oh, thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "merci beaucoup",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks again",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you for answering that",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for that",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank you for your time",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i appreciate the help",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thank ya!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for your response",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "youre a doll",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for your cooperation",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "i owe you one!",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for helping out",
+    "intent": "thank_you",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 2,
+    "source_split": "train"
+  },
+  {
+    "text": "syonara, ai device!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "goodbye, helpful ai device!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "bye-bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "goodbye, ai assistant",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "glad we got to talk",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm glad i got to talk to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "nice to speak with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "this was a great conversation",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "talk to you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tata for now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm out of here",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "that's all, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see ya later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "adios ai",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was great to see you again, see ya later!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i had a pleasure talking to you, see you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "nice talking again, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to go but it was nice talking again!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i am glad we got to talk again, see you soon",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "sayonara",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "catch you around",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "good seeing you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "later, thanks for chatting",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "adios",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "great talk, take it easy",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see ya",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "great chat, talk to you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "nice talk, talk to you later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for chatting, later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "goodbye to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i must say goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm saying goodbye now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it is time to say goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to say goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "cya later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i enjoyed talking to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for talking",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was good chatting",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was nice chatting with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "always nice to talk to you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you later, alligator",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "good night",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was nice to get in touch",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you soon",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "later gator!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was nice to talk it out with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was nice to converse with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "ill see you around",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "take it easy!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "later gater",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was nice to speak with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you later alligator",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "fairwell",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "have a good one",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "peace",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "bye for now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks, bye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to get going",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "talk to you later!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i’ll be leaving now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i’m leaving-goodbye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "thanks for talking to me",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was really nice to be able to chat with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was good to talk to you today",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was great to have this conversation with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was nice to catch up with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was enjoyable talking with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was great chatting with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was cool talking with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was pleasant conversing with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "good bye my friend",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to go now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you again soon",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i've got to run now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "goodbye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i had fun speaking with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "bye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "later!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "adios!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "until next time!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "farewell!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was enjoyable to chat with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'm outta here!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "it was pleasant having a conversation with you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "bye now",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "buhbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you in a while",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you around",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "nice to see you again",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "nice to see you",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "talk later",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "tootles",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "peace out",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "goodbye for now ai",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "ai goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i'll talk to you later ai",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "we'll talk later ai",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "i have to go ai goodbye",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "bye bye!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "see you later!",
+    "intent": "goodbye",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 1,
+    "source_split": "train"
+  },
+  {
+    "text": "what's your full name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i didn't get your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's should i call you by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me the ai's name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the ai's name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "does the ai have a name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like to know what to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name do you prefer",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a preference regarding what i should call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a name i can use",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what are you called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "give me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do people call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is your full name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me your full name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "should i call you something in particular",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what should i refer to you as",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name would you like me to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name do you want me to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a name that i can call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i use when talking with you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a particular name i should call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a name that you preferred to be called by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me the name i should use when talking to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i have your name please",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you me what they call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "and what would your name be",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i use for you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what would your name be",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you want me to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what would you like to be called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you want me to refer to you as",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name would you like me to use",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how should i refer to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "whats your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how would you like me to refer to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i use to call for you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is the name i should use to refer to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "who gave you your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name was given to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i address you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name do you like to go by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know the name that was given by the person who made you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do people call you by a certain name what is it",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you prefer being called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you prefer to be called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what did your friends call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you go by any nicknames",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what is you name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's your first name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you like being called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how would you like me to call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "who are you known as",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how can i get your attention",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do you answer to",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a way you like to be referred to",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i activate you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name do you answer to",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what can i refer to you by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what do they call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how are you named",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what's your designation",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "can i call you by any name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i need your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i wanna know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i'd like your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "you must tell me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name do you want to be called",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when referring to you, what name do you want me to use",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would you tell me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "provide the name i should use to refer to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i would like to know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "hello, may i get your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i am needing to know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me what name to use to refer to you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "state your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "when referring to you, what name should i use",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, do you like your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, what can i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, what's your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, what do people call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "ai, what should i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "please introduce yourself",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "could you tell me your name",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "would you like to introduce yourself",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me about yourself",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i use to address you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i refer to you as",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "how would you like to be referred to",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "what name should i use when i call you",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "do you have a name i should call you by",
+    "intent": "what_is_your_name",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 3,
+    "source_split": "train"
+  },
+  {
+    "text": "may i know if you are a real person or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if you are a real person or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i want to know if you are a real person or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if you are a real person or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are your real or artificial",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i talking to a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i speaking with someone real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you consider yourself to be a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i am not a bot, are you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you think you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "you sound like a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i know that you're a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "prove that you're a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a bot or a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you real or fake",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you ai, or a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a human or a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i talking with real person or ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you real or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a bot right now",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "so are you a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "so are you human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "so are you a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me now if you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i need to know if you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you an ai or a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you actually a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "so are you real",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i talking with a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a computer or a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a computer, or are you a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a live person or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you real or automated",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is this a person talking to me or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a human being or a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you alive",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a live human being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you human or a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you an automated assistance",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you an actual person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you really a human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real human being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know if you are a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you really an actual human being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know you are not human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there anything real about you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how real are you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real life person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if you are human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i speaking with ai or a real, live person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a member or the human race or are you a computer program",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a person in real life or programmed ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you know whether you are a human or whether you're a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "should i regard you as a human or as a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "would you say that you are human or copmuter",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how are you classified, as a human or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you tell me if you're human or if you're a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "i think you are a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you considered a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i talking to an actual person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you consider yourself a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "you are a bot aren't you",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "what are you, a bot or human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a live being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you real or are you an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please tell me if you are an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you ai or a real person please",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are an an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you real or not",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you an ai or person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you really a person or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is there a way to tell if you are real or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if you are a person or ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "how do i know if you are a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "am i talking to a person or a bot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a machine",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or artificial intelligence",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or automated",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or software",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a real person or a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you an ai or can you prove you're human",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a human or an ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you an actual person, or ai",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "are you a bot or a real person",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "do you identify as a human or computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "please specify if you are human or computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "tell me if you are a human or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "can you specify if you are a human or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "let me know if you are a human or a computer",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is this a computer right now or a human being",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  },
+  {
+    "text": "is this human or a robot",
+    "intent": "are_you_a_bot",
+    "domain": "small_talk",
+    "split": "train",
+    "label": 0,
+    "source_split": "train"
+  }
+]

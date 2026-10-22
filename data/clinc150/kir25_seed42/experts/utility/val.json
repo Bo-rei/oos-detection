@@ -1,0 +1,482 @@
+[
+  {
+    "text": "may i please have a definition for the work churlish",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i want to know what trenchant means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the meaning of fascism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me what a septuagenarian is",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "can you define the word schadenfreude",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what does unsavory mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please define erection for me",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what does idiosyncratic mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the meaning of condemnation",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "define monetary for me please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me the meaning of hegemony",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what does indignation mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "define ambivalence for me please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "please define institutional racism",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "define antagonist for me please",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what does distinguish mean",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the meaning of word alliance",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know what dominate means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the definition of the word migrate",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "tell me please what paean means",
+    "intent": "definition",
+    "domain": "utility",
+    "split": "val",
+    "label": 0,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the total number of pints in two quarts",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "can you tell me the number of ounces in a quart",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what is the correct amount of ounces in a pound",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many tablespoons are there in half of a cup",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to know how many teaspoons are equivalent to two tablesppons",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "give me celcius to fahrenheit",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "what's the equivalent of 1 cup to pounds",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "i need kilograms to milligrams",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how do i convert a cup to ml",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "give me kilograms to pounds",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "convert 2 cups to liters",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many tablespoons is 5 teaspoons",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many teaspoons in one tablespoon",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ounces is 2 and half cups",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many gallons is 50 liters",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ounces in a liter",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ounces in a cup",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many ml's are in a gallon",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many teaspoons in an ounce",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "how many teaspoons make up in 1 tablespoon",
+    "intent": "measurement_conversion",
+    "domain": "utility",
+    "split": "val",
+    "label": 1,
+    "source_split": "val"
+  },
+  {
+    "text": "give my location to stan",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to share my location with stephanie",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i would like brenda to have my location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "let lisa know where i am now",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i want david to know where i'm at",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you share my location with roger",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "can you send my exact location to laura",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "share my location with apple",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "share my location with google",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "send mike my exact location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "send my current location to steve, please",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "steve needs to know my location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i'd like to send steve my location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "share my location with steve",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "i need to send my location to my friend steve",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "give arianna my current location",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "share with current location with ben",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "show my gps location to brittany",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "give my gps location to jason",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  },
+  {
+    "text": "share my gps with tom",
+    "intent": "share_location",
+    "domain": "utility",
+    "split": "val",
+    "label": 2,
+    "source_split": "val"
+  }
+]

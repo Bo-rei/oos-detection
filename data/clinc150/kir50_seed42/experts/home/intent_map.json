@@ -1,0 +1,10 @@
+{
+  "0": "order",
+  "1": "order_status",
+  "2": "reminder",
+  "3": "reminder_update",
+  "4": "shopping_list",
+  "5": "smart_home",
+  "6": "todo_list",
+  "7": "what_song"
+}
